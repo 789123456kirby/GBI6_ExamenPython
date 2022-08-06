@@ -1,0 +1,3122 @@
+LOCUS       NM_001201483            3161 bp    mRNA    linear   PRI 15-MAY-2022
+DEFINITION  Homo sapiens enolase 1 (ENO1), transcript variant 2, mRNA.
+ACCESSION   NM_001201483
+VERSION     NM_001201483.4
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3161)
+  AUTHORS   Dinh DTD, Kuhl S, Gortz L, Goldbrunner R and Timmer M.
+  TITLE     Expression of ENO1 Is Up-regulated in Low-grade Glioma and
+            Positively Correlated With Meningioma Grade
+  JOURNAL   Anticancer Res 42 (5), 2319-2326 (2022)
+   PUBMED   35489746
+  REMARK    GeneRIF: Expression of ENO1 Is Up-regulated in Low-grade Glioma and
+            Positively Correlated With Meningioma Grade.
+REFERENCE   2  (bases 1 to 3161)
+  AUTHORS   Wang D, Fu Y, Fan J, Wang Y, Li C, Xu Y, Chen H, Hu Y, Cao H, Zhao
+            RC, He W and Zhang J.
+  TITLE     Identification of alpha-enolase as a potential immunogenic molecule
+            during allogeneic transplantation of human adipose-derived
+            mesenchymal stromal cells
+  JOURNAL   Cytotherapy 24 (4), 393-404 (2022)
+   PUBMED   34863626
+  REMARK    GeneRIF: Identification of alpha-enolase as a potential immunogenic
+            molecule during allogeneic transplantation of human adipose-derived
+            mesenchymal stromal cells.
+REFERENCE   3  (bases 1 to 3161)
+  AUTHORS   Zhang T, Sun L, Hao Y, Suo C, Shen S, Wei H, Ma W, Zhang P, Wang T,
+            Gu X, Li ST, Chen Z, Yan R, Zhang Y, Cai Y, Zhou R, Jia W, Huang F,
+            Gao P and Zhang H.
+  TITLE     ENO1 suppresses cancer cell ferroptosis by degrading the mRNA of
+            iron regulatory protein 1
+  JOURNAL   Nat Cancer 3 (1), 75-89 (2022)
+   PUBMED   35121990
+  REMARK    GeneRIF: ENO1 suppresses cancer cell ferroptosis by degrading the
+            mRNA of iron regulatory protein 1.
+REFERENCE   4  (bases 1 to 3161)
+  AUTHORS   Lung J, Liu KJ, Chang JY, Leu SJ and Shih NY.
+  TITLE     MBP-1 is efficiently encoded by an alternative transcript of the
+            ENO1 gene but post-translationally regulated by
+            proteasome-dependent protein turnover
+  JOURNAL   FEBS J 277 (20), 4308-4321 (2010)
+   PUBMED   20849415
+  REMARK    GeneRIF: novel transcript was alternatively transcribed from intron
+            III of the ENO1 gene and was feasible for MBP-1 production
+REFERENCE   5  (bases 1 to 3161)
+  AUTHORS   Feo S, Arcuri D, Piddini E, Passantino R and Giallongo A.
+  TITLE     ENO1 gene product binds to the c-myc promoter and acts as a
+            transcriptional repressor: relationship with Myc promoter-binding
+            protein 1 (MBP-1)
+  JOURNAL   FEBS Lett 473 (1), 47-52 (2000)
+   PUBMED   10802057
+REFERENCE   6  (bases 1 to 3161)
+  AUTHORS   Subramanian A and Miller DM.
+  TITLE     Structural analysis of alpha-enolase. Mapping the functional
+            domains involved in down-regulation of the c-myc protooncogene
+  JOURNAL   J Biol Chem 275 (8), 5958-5965 (2000)
+   PUBMED   10681589
+REFERENCE   7  (bases 1 to 3161)
+  AUTHORS   Dawson SJ and White LA.
+  TITLE     Treatment of Haemophilus aphrophilus endocarditis with
+            ciprofloxacin
+  JOURNAL   J Infect 24 (3), 317-320 (1992)
+   PUBMED   1602151
+REFERENCE   8  (bases 1 to 3161)
+  AUTHORS   Oliva D, Cali L, Feo S and Giallongo A.
+  TITLE     Complete structure of the human gene encoding neuron-specific
+            enolase
+  JOURNAL   Genomics 10 (1), 157-165 (1991)
+   PUBMED   2045099
+REFERENCE   9  (bases 1 to 3161)
+  AUTHORS   Ray R and Miller DM.
+  TITLE     Cloning and characterization of a human c-myc promoter-binding
+            protein
+  JOURNAL   Mol Cell Biol 11 (4), 2154-2161 (1991)
+   PUBMED   2005901
+REFERENCE   10 (bases 1 to 3161)
+  AUTHORS   Wistow GJ, Lietman T, Williams LA, Stapel SO, de Jong WW, Horwitz J
+            and Piatigorsky J.
+  TITLE     Tau-crystallin/alpha-enolase: one gene encodes both an enzyme and a
+            lens structural protein
+  JOURNAL   J Cell Biol 107 (6 Pt 2), 2729-2736 (1988)
+   PUBMED   2462567
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL139415.10, GU170215.1 and
+            BC001810.2.
+            On May 31, 2019 this sequence version replaced NM_001201483.3.
+            
+            Summary: This gene encodes alpha-enolase, one of three enolase
+            isoenzymes found in mammals. Each isoenzyme is a homodimer composed
+            of 2 alpha, 2 gamma, or 2 beta subunits, and functions as a
+            glycolytic enzyme. Alpha-enolase in addition, functions as a
+            structural lens protein (tau-crystallin) in the monomeric form.
+            Alternative splicing of this gene results in a shorter isoform that
+            has been shown to bind to the c-myc promoter and function as a
+            tumor suppressor. Several pseudogenes have been identified,
+            including one on the long arm of chromosome 1. Alpha-enolase has
+            also been identified as an autoantigen in Hashimoto encephalopathy.
+            [provided by RefSeq, Jan 2011].
+            
+            Transcript Variant: This variant (2) differs at the 5' end compared
+            to variant 1, and initiates translation from a downstream in-frame
+            start codon, resulting in a shorter isoform (MBP-1). This isoform
+            is localized to the nucleus, and functions as a transcriptional
+            repressor of c-myc protooncogene by binding to its promoter
+            (PMID:20849415).
+            
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1803616.241947.1,
+                                           SRR1803613.75258.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1968968, SAMEA2142670
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-107               AL139415.10        23999-24105         c
+            108-201             AL139415.10        20243-20336         c
+            202-611             AL139415.10        16996-17405         c
+            612-3156            GU170215.1         1-2545
+            3157-3159           BC001810.2         1724-1726
+            3160-3161           AL139415.10        6419-6420           c
+FEATURES             Location/Qualifiers
+     source          1..3161
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1"
+                     /map="1p36.23"
+     gene            1..3161
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /note="enolase 1"
+                     /db_xref="GeneID:2023"
+                     /db_xref="HGNC:HGNC:3350"
+                     /db_xref="MIM:172430"
+     exon            1..107
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     exon            108..201
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     exon            202..1736
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    1662..1664
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /note="upstream in-frame stop codon"
+     exon            1737..1806
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             1776..2801
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /EC_number="4.2.1.11"
+                     /note="isoform MBP-1 is encoded by transcript variant 2;
+                     MYC promoter-binding protein 1; non-neural enolase;
+                     2-phospho-D-glycerate hydro-lyase; tau-crystallin; c-myc
+                     promoter-binding protein-1; phosphopyruvate hydratase;
+                     alpha enolase like 1; plasminogen-binding protein;
+                     enolase-alpha; epididymis secretory protein Li 17; enolase
+                     1, (alpha)"
+                     /codon_start=1
+                     /product="c-myc promoter-binding protein-1 isoform MBP-1"
+                     /protein_id="NP_001188412.1"
+                     /db_xref="GeneID:2023"
+                     /db_xref="HGNC:HGNC:3350"
+                     /db_xref="MIM:172430"
+                     /translation="MIEMDGTENKSKFGANAILGVSLAVCKAGAVEKGVPLYRHIADL
+                     AGNSEVILPVPAFNVINGGSHAGNKLAMQEFMILPVGAANFREAMRIGAEVYHNLKNV
+                     IKEKYGKDATNVGDEGGFAPNILENKEGLELLKTAIGKAGYTDKVVIGMDVAASEFFR
+                     SGKYDLDFKSPDDPSRYISPDQLADLYKSFIKDYPVVSIEDPFDQDDWGAWQKFTASA
+                     GIQVVGDDLTVTNPKRIAKAVNEKSCNCLLLKVNQIGSVTESLQACKLAQANGWGVMV
+                     SHRSGETEDTFIADLVVGLCTGQIKTGAPCRSERLAKYNQLLRIEEELGSKAKFAGRN
+                     FRNPLAK"
+     exon            1807..1940
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1941..2163
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2164..2361
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2362..2563
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2564..2672
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2673..2731
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2732..3161
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      3132..3137
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /note="hexamer: AATAAA"
+     polyA_site      3159
+                     /gene="ENO1"
+                     /gene_synonym="ENO1L1; HEL-S-17; MPB1; NNE; PPH"
+                     /note="major polyA site"
+ORIGIN      
+        1 agtatctgtg ggtacccgga gcacggagat ctcgccggct ttacgttcac ctcggtgtct
+       61 gcagcaccct ccgcttcctc tcctaggcga cgagacccag tggctagaag ttcaccatgt
+      121 ctattctcaa gatccatgcc agggagatct ttgactctcg cgggaatccc actgttgagg
+      181 ttgatctctt cacctcaaaa ggtctcttca gagctgctgt gcccagtggt gcttcaactg
+      241 gtatctatga ggccctagag ctccgggaca atgataagac tcgctatatg gggaagggta
+      301 agccttagaa cccacagccc atggcctccc tgcttccagc cccattcctg gccttgccca
+      361 gtcctgtcct ctctgggtgg cacttgcact tgcaggttta tggcaggtaa acctgctgtg
+      421 acccatgatg ttgatggaag cagtgcacca ccttgtggac aggaaagttg gtgtgtggat
+      481 tccggggttc ccgagcctgc atgctctggg tcgagagttc caatgcttgc ttctattgca
+      541 gtttgttccc aatctgcgaa atactccttc acggttagga caggaaccca agcatgagaa
+      601 cagggcctgt taactaaaga aaagtttccc catctcccag gagggttctg tgggccctcc
+      661 agagatcatc agcctcttca cgggctagaa aggatccagg gaaggtctaa ccaatgacct
+      721 gccctgaatg gtgagctgca ggtgtgtcat ttagtgtgat tttcctgttg actgactcat
+      781 aggagccctg ctctgtggca gagctagcct ctggctgtat tcaaattgac ttagtgtgtg
+      841 tgcaacattg acctttctag agatagaaca tgtggccaaa ttacagaaaa gcacataggg
+      901 ctagatcacg cattctcagt ggggcacccg gaaaactcca aaaaggctgc agggagggga
+      961 caatgatgaa atcaggttgt gaaacactgg gctggtgtcg cagtggtggt gctgggtgtt
+     1021 cagtcccgct ttaatgctgt aagaagcact ctacacacac gaacatgtta ccatttgacc
+     1081 gttgtttaat ggcgtacgtg gggacttagc cggagcagga tgatgctgtg ccttgatggt
+     1141 aatgagtgct cagtaagtaa gcatttgtgg aagattgaac gcatggcccc tgaaatgctc
+     1201 tcctctgctt tcctgccccc tcactgtctc tcactcgcag tccttaatca ccggttctct
+     1261 tctgagtctc tctcattttt ccttcttcat cctctgctgg gcaggcgtct ccagacccat
+     1321 taagtatatt aatgagttcc tggcaccagc cctgtgcact caggtaactg attgaacagc
+     1381 ctttagtctg cagttggcgt ttccagtgca tggtcttgca aactaacctc cagtcagatc
+     1441 gttctgagcc agctgctgtt ttgtgtggct ctaaccctct ggggtcctag gtaggagcac
+     1501 tcagactggg ccggaaagtc ctccgattct ggggggaaag gggagagggg gaagaggtcc
+     1561 cacagaaggt cccttggtgg gcttccgcgt cggcctcaac agtggttctc tctaacaatg
+     1621 ctgctcaagc ctgttttaaa gttaatgtca gtaatttgat ttgattgttc cttccaggtg
+     1681 tctcaaaggc tgttgagcac atcaataaaa ctattgcgcc tgccctggtt agcaagaaac
+     1741 tgaacgtcac agaacaagag aagattgaca aactgatgat cgagatggat ggaacagaaa
+     1801 ataaatctaa gtttggtgcg aacgccattc tgggggtgtc ccttgccgtc tgcaaagctg
+     1861 gtgccgttga gaagggggtc cccctgtacc gccacatcgc tgacttggct ggcaactctg
+     1921 aagtcatcct gccagtcccg gcgttcaatg tcatcaatgg cggttctcat gctggcaaca
+     1981 agctggccat gcaggagttc atgatcctcc cagtcggtgc agcaaacttc agggaagcca
+     2041 tgcgcattgg agcagaggtt taccacaacc tgaagaatgt catcaaggag aaatatggga
+     2101 aagatgccac caatgtgggg gatgaaggcg ggtttgctcc caacatcctg gagaataaag
+     2161 aaggcctgga gctgctgaag actgctattg ggaaagctgg ctacactgat aaggtggtca
+     2221 tcggcatgga cgtagcggcc tccgagttct tcaggtctgg gaagtatgac ctggacttca
+     2281 agtctcccga tgaccccagc aggtacatct cgcctgacca gctggctgac ctgtacaagt
+     2341 ccttcatcaa ggactaccca gtggtgtcta tcgaagatcc ctttgaccag gatgactggg
+     2401 gagcttggca gaagttcaca gccagtgcag gaatccaggt agtgggggat gatctcacag
+     2461 tgaccaaccc aaagaggatc gccaaggccg tgaacgagaa gtcctgcaac tgcctcctgc
+     2521 tcaaagtcaa ccagattggc tccgtgaccg agtctcttca ggcgtgcaag ctggcccagg
+     2581 ccaatggttg gggcgtcatg gtgtctcatc gttcggggga gactgaagat accttcatcg
+     2641 ctgacctggt tgtggggctg tgcactgggc agatcaagac tggtgcccct tgccgatctg
+     2701 agcgcttggc caagtacaac cagctcctca gaattgaaga ggagctgggc agcaaggcta
+     2761 agtttgccgg caggaacttc agaaacccct tggccaagta agctgtgggc aggcaagccc
+     2821 ttcggtcacc tgttggctac acagacccct cccctcgtgt cagctcaggc agctcgaggc
+     2881 ccccgaccaa cacttgcagg ggtccctgct agttagcgcc ccaccgccgt ggagttcgta
+     2941 ccgcttcctt agaacttcta cagaagccaa gctccctgga gccctgttgg cagctctagc
+     3001 tttgcagtcg tgtaattggc ccaagtcatt gtttttctcg cctcactttc caccaagtgt
+     3061 ctagagtcat gtgagcctcg tgtcatctcc ggggtggcca caggctagat ccccggtggt
+     3121 tttgtgctca aaataaaaag cctcagtgac ccatgagaat a
+//
+
+LOCUS       NM_164434               2664 bp    mRNA    linear   INV 22-APR-2020
+DEFINITION  Drosophila melanogaster enolase, transcript variant E (Eno), mRNA.
+ACCESSION   NM_164434
+VERSION     NM_164434.3
+DBLINK      BioProject: PRJNA164
+            BioSample: SAMN02803731
+KEYWORDS    RefSeq.
+SOURCE      Drosophila melanogaster (fruit fly)
+  ORGANISM  Drosophila melanogaster
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila; Sophophora.
+REFERENCE   1  (bases 1 to 2664)
+  AUTHORS   Matthews,B.B., Dos Santos,G., Crosby,M.A., Emmert,D.B., St
+            Pierre,S.E., Gramates,L.S., Zhou,P., Schroeder,A.J., Falls,K.,
+            Strelets,V., Russo,S.M. and Gelbart,W.M.
+  CONSRTM   FlyBase Consortium
+  TITLE     Gene Model Annotations for Drosophila melanogaster: Impact of
+            High-Throughput Data
+  JOURNAL   G3 (Bethesda) 5 (8), 1721-1736 (2015)
+   PUBMED   26109357
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2664)
+  AUTHORS   Crosby,M.A., Gramates,L.S., Dos Santos,G., Matthews,B.B., St
+            Pierre,S.E., Zhou,P., Schroeder,A.J., Falls,K., Emmert,D.B.,
+            Russo,S.M. and Gelbart,W.M.
+  CONSRTM   FlyBase Consortium
+  TITLE     Gene Model Annotations for Drosophila melanogaster: The
+            Rule-Benders
+  JOURNAL   G3 (Bethesda) 5 (8), 1737-1749 (2015)
+   PUBMED   26109356
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 2664)
+  AUTHORS   Hoskins,R.A., Carlson,J.W., Wan,K.H., Park,S., Mendez,I.,
+            Galle,S.E., Booth,B.W., Pfeiffer,B.D., George,R.A., Svirskas,R.,
+            Krzywinski,M., Schein,J., Accardo,M.C., Damia,E., Messina,G.,
+            Mendez-Lago,M., de Pablos,B., Demakova,O.V., Andreyeva,E.N.,
+            Boldyreva,L.V., Marra,M., Carvalho,A.B., Dimitri,P., Villasante,A.,
+            Zhimulev,I.F., Rubin,G.M., Karpen,G.H. and Celniker,S.E.
+  TITLE     The Release 6 reference sequence of the Drosophila melanogaster
+            genome
+  JOURNAL   Genome Res. 25 (3), 445-458 (2015)
+   PUBMED   25589440
+REFERENCE   4  (bases 1 to 2664)
+  AUTHORS   Hoskins,R.A., Carlson,J.W., Kennedy,C., Acevedo,D., Evans-Holm,M.,
+            Frise,E., Wan,K.H., Park,S., Mendez-Lago,M., Rossi,F.,
+            Villasante,A., Dimitri,P., Karpen,G.H. and Celniker,S.E.
+  TITLE     Sequence finishing and mapping of Drosophila melanogaster
+            heterochromatin
+  JOURNAL   Science 316 (5831), 1625-1628 (2007)
+   PUBMED   17569867
+REFERENCE   5  (bases 1 to 2664)
+  AUTHORS   Smith,C.D., Shu,S., Mungall,C.J. and Karpen,G.H.
+  TITLE     The Release 5.1 annotation of Drosophila melanogaster
+            heterochromatin
+  JOURNAL   Science 316 (5831), 1586-1591 (2007)
+   PUBMED   17569856
+  REMARK    Erratum:[Science. 2007 Sep 7;317(5843):1325]
+REFERENCE   6  (bases 1 to 2664)
+  AUTHORS   Quesneville,H., Bergman,C.M., Andrieu,O., Autard,D., Nouaud,D.,
+            Ashburner,M. and Anxolabehere,D.
+  TITLE     Combined evidence annotation of transposable elements in genome
+            sequences
+  JOURNAL   PLoS Comput. Biol. 1 (2), 166-175 (2005)
+   PUBMED   16110336
+REFERENCE   7  (bases 1 to 2664)
+  AUTHORS   Hoskins,R.A., Smith,C.D., Carlson,J.W., Carvalho,A.B., Halpern,A.,
+            Kaminker,J.S., Kennedy,C., Mungall,C.J., Sullivan,B.A.,
+            Sutton,G.G., Yasuhara,J.C., Wakimoto,B.T., Myers,E.W.,
+            Celniker,S.E., Rubin,G.M. and Karpen,G.H.
+  TITLE     Heterochromatic sequences in a Drosophila whole-genome shotgun
+            assembly
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0085 (2002)
+   PUBMED   12537574
+REFERENCE   8  (bases 1 to 2664)
+  AUTHORS   Kaminker,J.S., Bergman,C.M., Kronmiller,B., Carlson,J.,
+            Svirskas,R., Patel,S., Frise,E., Wheeler,D.A., Lewis,S.E.,
+            Rubin,G.M., Ashburner,M. and Celniker,S.E.
+  TITLE     The transposable elements of the Drosophila melanogaster
+            euchromatin: a genomics perspective
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0084 (2002)
+   PUBMED   12537573
+REFERENCE   9  (bases 1 to 2664)
+  AUTHORS   Misra,S., Crosby,M.A., Mungall,C.J., Matthews,B.B., Campbell,K.S.,
+            Hradecky,P., Huang,Y., Kaminker,J.S., Millburn,G.H., Prochnik,S.E.,
+            Smith,C.D., Tupy,J.L., Whitfied,E.J., Bayraktaroglu,L.,
+            Berman,B.P., Bettencourt,B.R., Celniker,S.E., de Grey,A.D.,
+            Drysdale,R.A., Harris,N.L., Richter,J., Russo,S., Schroeder,A.J.,
+            Shu,S.Q., Stapleton,M., Yamada,C., Ashburner,M., Gelbart,W.M.,
+            Rubin,G.M. and Lewis,S.E.
+  TITLE     Annotation of the Drosophila melanogaster euchromatic genome: a
+            systematic review
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0083 (2002)
+   PUBMED   12537572
+REFERENCE   10 (bases 1 to 2664)
+  AUTHORS   Celniker,S.E., Wheeler,D.A., Kronmiller,B., Carlson,J.W.,
+            Halpern,A., Patel,S., Adams,M., Champe,M., Dugan,S.P., Frise,E.,
+            Hodgson,A., George,R.A., Hoskins,R.A., Laverty,T., Muzny,D.M.,
+            Nelson,C.R., Pacleb,J.M., Park,S., Pfeiffer,B.D., Richards,S.,
+            Sodergren,E.J., Svirskas,R., Tabor,P.E., Wan,K., Stapleton,M.,
+            Sutton,G.G., Venter,C., Weinstock,G., Scherer,S.E., Myers,E.W.,
+            Gibbs,R.A. and Rubin,G.M.
+  TITLE     Finishing a whole-genome shotgun: release 3 of the Drosophila
+            melanogaster euchromatic genome sequence
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0079 (2002)
+   PUBMED   12537568
+REFERENCE   11 (bases 1 to 2664)
+  AUTHORS   Adams,M.D., Celniker,S.E., Holt,R.A., Evans,C.A., Gocayne,J.D.,
+            Amanatides,P.G., Scherer,S.E., Li,P.W., Hoskins,R.A., Galle,R.F.,
+            George,R.A., Lewis,S.E., Richards,S., Ashburner,M., Henderson,S.N.,
+            Sutton,G.G., Wortman,J.R., Yandell,M.D., Zhang,Q., Chen,L.X.,
+            Brandon,R.C., Rogers,Y.H., Blazej,R.G., Champe,M., Pfeiffer,B.D.,
+            Wan,K.H., Doyle,C., Baxter,E.G., Helt,G., Nelson,C.R., Gabor,G.L.,
+            Abril,J.F., Agbayani,A., An,H.J., Andrews-Pfannkoch,C., Baldwin,D.,
+            Ballew,R.M., Basu,A., Baxendale,J., Bayraktaroglu,L., Beasley,E.M.,
+            Beeson,K.Y., Benos,P.V., Berman,B.P., Bhandari,D., Bolshakov,S.,
+            Borkova,D., Botchan,M.R., Bouck,J., Brokstein,P., Brottier,P.,
+            Burtis,K.C., Busam,D.A., Butler,H., Cadieu,E., Center,A.,
+            Chandra,I., Cherry,J.M., Cawley,S., Dahlke,C., Davenport,L.B.,
+            Davies,P., de Pablos,B., Delcher,A., Deng,Z., Mays,A.D., Dew,I.,
+            Dietz,S.M., Dodson,K., Doup,L.E., Downes,M., Dugan-Rocha,S.,
+            Dunkov,B.C., Dunn,P., Durbin,K.J., Evangelista,C.C., Ferraz,C.,
+            Ferriera,S., Fleischmann,W., Fosler,C., Gabrielian,A.E., Garg,N.S.,
+            Gelbart,W.M., Glasser,K., Glodek,A., Gong,F., Gorrell,J.H., Gu,Z.,
+            Guan,P., Harris,M., Harris,N.L., Harvey,D., Heiman,T.J.,
+            Hernandez,J.R., Houck,J., Hostin,D., Houston,K.A., Howland,T.J.,
+            Wei,M.H., Ibegwam,C., Jalali,M., Kalush,F., Karpen,G.H., Ke,Z.,
+            Kennison,J.A., Ketchum,K.A., Kimmel,B.E., Kodira,C.D., Kraft,C.,
+            Kravitz,S., Kulp,D., Lai,Z., Lasko,P., Lei,Y., Levitsky,A.A.,
+            Li,J., Li,Z., Liang,Y., Lin,X., Liu,X., Mattei,B., McIntosh,T.C.,
+            McLeod,M.P., McPherson,D., Merkulov,G., Milshina,N.V., Mobarry,C.,
+            Morris,J., Moshrefi,A., Mount,S.M., Moy,M., Murphy,B., Murphy,L.,
+            Muzny,D.M., Nelson,D.L., Nelson,D.R., Nelson,K.A., Nixon,K.,
+            Nusskern,D.R., Pacleb,J.M., Palazzolo,M., Pittman,G.S., Pan,S.,
+            Pollard,J., Puri,V., Reese,M.G., Reinert,K., Remington,K.,
+            Saunders,R.D., Scheeler,F., Shen,H., Shue,B.C., Siden-Kiamos,I.,
+            Simpson,M., Skupski,M.P., Smith,T., Spier,E., Spradling,A.C.,
+            Stapleton,M., Strong,R., Sun,E., Svirskas,R., Tector,C., Turner,R.,
+            Venter,E., Wang,A.H., Wang,X., Wang,Z.Y., Wassarman,D.A.,
+            Weinstock,G.M., Weissenbach,J., Williams,S.M., WoodageT,
+            Worley,K.C., Wu,D., Yang,S., Yao,Q.A., Ye,J., Yeh,R.F.,
+            Zaveri,J.S., Zhan,M., Zhang,G., Zhao,Q., Zheng,L., Zheng,X.H.,
+            Zhong,F.N., Zhong,W., Zhou,X., Zhu,S., Zhu,X., Smith,H.O.,
+            Gibbs,R.A., Myers,E.W., Rubin,G.M. and Venter,J.C.
+  TITLE     The genome sequence of Drosophila melanogaster
+  JOURNAL   Science 287 (5461), 2185-2195 (2000)
+   PUBMED   10731132
+REFERENCE   12 (bases 1 to 2664)
+  AUTHORS   Celniker,S., Carlson,J., Wan,K., Pfeiffer,B., Frise,E., George,R.,
+            Hoskins,R., Stapleton,M., Pacleb,J., Park,S., Svirskas,R.,
+            Smith,E., Yu,C. and Rubin,G.
+  CONSRTM   Berkeley Drosophila Genome Project
+  TITLE     Drosophila melanogaster release 4 sequence
+  JOURNAL   Unpublished
+REFERENCE   13 (bases 1 to 2664)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-APR-2020) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   14 (bases 1 to 2664)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2020) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   15 (bases 1 to 2664)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-APR-2019) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   16 (bases 1 to 2664)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAY-2018) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   17 (bases 1 to 2664)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2016) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   18 (bases 1 to 2664)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-2015) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   19 (bases 1 to 2664)
+  AUTHORS   Celniker,S., Carlson,J., Kennedy,C., Wan,K., Frise,E., Hoskins,R.,
+            Park,S., Svirskas,R. and Karpen,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2006) Berkeley Drosophila Genome Project,
+            Lawrence Berkeley National Laboratory, One #Cyclotron RoadOne
+            Cyclotron Road, MS 64-121, Berkeley, CA 94720, USA
+  REMARK    Direct Submission
+REFERENCE   20 (bases 1 to 2664)
+  AUTHORS   Celniker,S., Carlson,J., Wan,K., Frise,E., Hoskins,R., Park,S.,
+            Svirskas,R. and Rubin,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2006) Berkeley Drosophila Genome Project,
+            Lawrence Berkeley National Laboratory, One Cyclotron Road, MS
+            64-121, Berkeley, CA 94720, USA
+  REMARK    Direct Submission
+REFERENCE   21 (bases 1 to 2664)
+  AUTHORS   Smith,C.D., Shu,S., Mungall,C.J. and Karpen,G.H.
+  CONSRTM   Drosophila Heterochromatin Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-AUG-2006) Drosophila Heterochromatin Genome Project,
+            Ernest Orlando Lawrence Berkeley National Laboratory, 1 Cyclotron
+            Road, Mailstop 64-121, Berkeley, CA 94720, USA
+REFERENCE   22 (bases 1 to 2664)
+  AUTHORS   Adams,M.D., Celniker,S.E., Gibbs,R.A., Rubin,G.M. and Venter,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2000) Celera Genomics, 45 West Gude Drive,
+            Rockville, MD 20850, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by FlyBase. This
+            record is derived from an annotated genomic sequence (NT_033779).
+            On Jan 16, 2013 this sequence version replaced NM_164434.2.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider :: FlyBase
+            Annotation Status   :: Full annotation
+            Annotation Version  :: Release 6.32
+            URL                 :: http://flybase.org
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2664
+                     /organism="Drosophila melanogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7227"
+                     /chromosome="2L"
+                     /genotype="y[1]; Gr22b[1] Gr22d[1] cn[1] CG33964[R4.2]
+                     bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] Rh6[1]"
+     gene            1..2664
+                     /gene="Eno"
+                     /locus_tag="Dmel_CG17654"
+                     /gene_synonym="anon-WO0153538.76; BEST:LD15491; CG17654;
+                     CT32526; Dmel\CG17654; DmENO; eno; Eno2; ENOA; T18"
+                     /note="Enolase"
+                     /map="22B1-22B1"
+                     /db_xref="FLYBASE:FBgn0000579"
+                     /db_xref="GeneID:33351"
+     CDS             589..2091
+                     /gene="Eno"
+                     /locus_tag="Dmel_CG17654"
+                     /gene_synonym="anon-WO0153538.76; BEST:LD15491; CG17654;
+                     CT32526; Dmel\CG17654; DmENO; eno; Eno2; ENOA; T18"
+                     /EC_number="4.2.1.11"
+                     /note="CG17654 gene product from transcript CG17654-RE;
+                     CG17654-PE; Eno-PE; phosphopyruvate hydratase; enolase"
+                     /codon_start=1
+                     /product="enolase, isoform E"
+                     /protein_id="NP_722724.1"
+                     /db_xref="FLYBASE:FBpp0077572"
+                     /db_xref="GeneID:33351"
+                     /db_xref="FLYBASE:FBgn0000579"
+                     /translation="MSWTASVFLRTSTTSMKFLRLRWPLPRIPQNKSANVAPRFRSKS
+                     AVSQLSSGFKFVQIRKSTCDSNEMTIKAIKARQIYDSRGNPTVEVDLTTELGLFRAAV
+                     PSGASTGVHEALELRDNDKANYHGKSVLKAVGHVNDTLGPELIKANLDVVDQASIDNF
+                     MIKLDGTENKSKFGANAILGVSLAVAKAGAAKKGVPLYKHIADLAGNKEIILPVPAFN
+                     VINGGSHAGNKLAMQEFMILPTGATSFTEAMKMGSEVYHHLKNVIKAKFGLDATAVGD
+                     EGGFAPNIQSNKEALNLISDAIAKAGYTGKIEIGMDVAASEFYKDGQYDLDFKNEKSD
+                     KSQWLPADKLANLYQEFIKDFPIVSIEDPFDQDHWEAWSNLTGCTDIQIVGDDLTVTN
+                     PKRIATAVEKKACNCLLLKVNQIGTVTESIAAHLLAKKNGWGTMVSHRSGETEDSFIG
+                     DLVVGLSTGQIKTGAPCRSERLAKYNQILRIEEEIGAGVKFAGKSFRKPQ"
+ORIGIN      
+        1 agggcttcca acacactgcc tttgcgccaa cattcacatc aaaattcaac cccatcagtt
+       61 tggctaacca tttcttttta tataaaagta agtaaactaa gaactaatcc taggcctgca
+      121 ggaagtctcc gagattgcca catattttgt cgatttccgc acatcccgat tgctccagcg
+      181 ctgaaatggc attggcgagg gccacggttt ctttcaggga atgggccttc aaccatatcc
+      241 tgccgttgac tcccacagcg atctcgtagg gcagttcccg ggtaagagcg gcgagaacag
+      301 ggcagttttc ccgcagcagc atccttccca gattcaggct gcacttgaag aagaatccat
+      361 cgatagacat gcaatccaca gctacgtgtg gatcccgatt actctaacct tgtgcgaagg
+      421 tcaattttcc ccaaaaaata taggaaacgt accagggaaa acaacaaaaa agggaaagcg
+      481 cacccccaca ctgaaaaccg gcgagcacct ggaaacgcat acatataaaa ggagagtaaa
+      541 tatacaaatt ggtagcactt tcgccgccgt cttttacaca ttcaagccat gtcttggacc
+      601 gcttcagttt tcttgaggac ttccaccact agcatgaagt ttctgcgtct gcgctggcct
+      661 ctccccagaa ttccccagaa taaatcggca aacgttgcgc cgcgtttcag aagcaaatca
+      721 gcagtcagcc agctctcatc tggatttaaa tttgtgcaga tccgcaaaag tacttgtgac
+      781 agcaacgaga tgaccatcaa agcgatcaag gcccgtcaaa tctacgactc ccgtggcaac
+      841 cccaccgtgg aggtcgacct gaccaccgag ctgggactct tccgagccgc cgtgccctcc
+      901 ggcgcctcca ctggcgtcca cgaggccctg gagctgcgcg acaacgacaa ggccaactac
+      961 catggcaagt cggtgctgaa ggccgtgggc catgtgaacg acaccctggg acccgagctg
+     1021 atcaaggcca atctggatgt ggttgaccag gcgtccattg acaacttcat gatcaagttg
+     1081 gacggcaccg agaacaagag caagttcgga gccaacgcca tcctgggcgt ttccctggcc
+     1141 gtggccaagg ctggagccgc caagaagggc gtgccgctgt acaaacacat tgccgatctg
+     1201 gctggcaaca aggagatcat cctgccggtg cccgctttca acgtgatcaa cggcggcagc
+     1261 cacgccggca acaagctggc catgcaggag ttcatgatcc tgcccaccgg cgccaccagc
+     1321 ttcacagagg ccatgaagat gggctccgag gtgtaccacc acctgaagaa tgtgatcaag
+     1381 gccaagttcg gtctggacgc caccgctgtg ggcgatgagg gcggcttcgc ccccaacatc
+     1441 cagtccaaca aggaggctct gaacctgatc agcgatgcca tcgccaaggc cggatacacc
+     1501 ggcaagatcg agatcggcat ggacgtggcc gcctccgagt tctacaagga tggccagtac
+     1561 gatctggact tcaagaacga gaagagcgac aagtcgcagt ggctgcccgc cgacaagctg
+     1621 gccaacctgt accaggagtt tattaaggac ttccccatcg tctcgattga ggatcccttt
+     1681 gaccaggacc actgggaggc ctggtccaac ctgaccggct gcaccgacat ccagatcgtg
+     1741 ggcgatgatc tgaccgtgac caaccccaag cgtattgcca ccgccgtgga gaagaaggcc
+     1801 tgcaactgcc tgctcctgaa ggtcaaccag atcggcaccg tcaccgagtc cattgccgcc
+     1861 catctgctgg ccaagaagaa cggctggggc accatggtct cccaccgttc cggtgagacc
+     1921 gaggactcgt tcatcggtga cctggtcgtc ggtctgtcca ccggccagat caagaccgga
+     1981 gctccatgcc gctcggagcg tctggccaag tacaaccaga tcctgcgcat cgaggaggag
+     2041 atcggcgctg gcgtcaagtt cgccggcaag tcgttcagga agccgcagta agcgcagggc
+     2101 acttcgaaat tccaaccaca ccagccccat cgaatgagat ctggatcttg gagagggagc
+     2161 tggacgcagt agatccatgg aaaggcggcg gtgcacgtgt tcgtcaacct tttacgttcg
+     2221 gaacttgtgt ctggcgcaca aatacatcag aattaaacta ccaaacccat ttgctgtctc
+     2281 tatgcttcgt tcttagacat tattaattaa tgctaaacct tgatctaatc attatttata
+     2341 aacaaaagaa taaaaaacac tatgtgcaag atattcgttc agttgccgag agctttgaat
+     2401 atcttcaatg taatcgctgt aatcgttatg aaattataaa ttgatctaca caaacaccaa
+     2461 atccacaaac agacaagtta ttcacttcaa aaacggttat gaaacaattg ttgagacata
+     2521 gaatttaagc gaaagctgtt ggaatattct tatcgaatat acacggtgtt caatagagat
+     2581 cttaatcaga tggaatagta caccaaatat taaacatatt cagatttgtt agttgatgtg
+     2641 aaataaaaag tataaaagtt actg
+//
+
+LOCUS       XM_002185475            2619 bp    mRNA    linear   PLN 16-JUN-2017
+DEFINITION  Phaeodactylum tricornutum CCAP 1055/1 plastidic enolase mRNA.
+ACCESSION   XM_002185475
+VERSION     XM_002185475.1
+DBLINK      BioProject: PRJNA33251
+            BioSample: SAMN02953727
+KEYWORDS    RefSeq.
+SOURCE      Phaeodactylum tricornutum CCAP 1055/1
+  ORGANISM  Phaeodactylum tricornutum CCAP 1055/1
+            Eukaryota; Sar; Stramenopiles; Ochrophyta; Bacillariophyta;
+            Bacillariophyceae; Bacillariophycidae; Naviculales;
+            Phaeodactylaceae; Phaeodactylum.
+REFERENCE   1  (bases 1 to 2619)
+  AUTHORS   Bowler,C., Allen,A.E., Badger,J.H., Grimwood,J., Jabbari,K.,
+            Kuo,A., Maheswari,U., Martens,C., Maumus,F., Otillar,R.P.,
+            Rayko,E., Salamov,A., Vandepoele,K., Beszteri,B., Gruber,A.,
+            Heijde,M., Katinka,M., Mock,T., Valentin,K., Verret,F.,
+            Berges,J.A., Brownlee,C., Cadoret,J.P., Chiovitti,A., Choi,C.J.,
+            Coesel,S., De Martino,A., Detter,J.C., Durkin,C., Falciatore,A.,
+            Fournet,J., Haruta,M., Huysman,M.J., Jenkins,B.D., Jiroutova,K.,
+            Jorgensen,R.E., Joubert,Y., Kaplan,A., Kroger,N., Kroth,P.G., La
+            Roche,J., Lindquist,E., Lommer,M., Martin-Jezequel,V., Lopez,P.J.,
+            Lucas,S., Mangogna,M., McGinnis,K., Medlin,L.K., Montsant,A.,
+            Oudot-Le Secq,M.P., Napoli,C., Obornik,M., Parker,M.S., Petit,J.L.,
+            Porcel,B.M., Poulsen,N., Robison,M., Rychlewski,L., Rynearson,T.A.,
+            Schmutz,J., Shapiro,H., Siaut,M., Stanley,M., Sussman,M.R.,
+            Taylor,A.R., Vardi,A., von Dassow,P., Vyverman,W., Willis,A.,
+            Wyrwicz,L.S., Rokhsar,D.S., Weissenbach,J., Armbrust,E.V.,
+            Green,B.R., Van de Peer,Y. and Grigoriev,I.V.
+  TITLE     The Phaeodactylum genome reveals the evolutionary history of diatom
+            genomes
+  JOURNAL   Nature 456 (7219), 239-244 (2008)
+   PUBMED   18923393
+REFERENCE   2  (bases 1 to 2619)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-JUN-2017) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 2619)
+  AUTHORS   Grigoriev,I., Grimwood,J., Kuo,A., Otillar,R.P., Salamov,A.,
+            Detter,J.C., Lindquist,E., Shapiro,H., Lucas,S., Glavina del
+            Rio,T., Pitluck,S., Rokhsar,D. and Bowler,C.
+  CONSRTM   Diatom Consortium
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2008) US DOE Joint Genome Institute, 2800
+            Mitchell Drive B100, Walnut Creek, CA 94598-1698, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_011699).
+FEATURES             Location/Qualifiers
+     source          1..2619
+                     /organism="Phaeodactylum tricornutum CCAP 1055/1"
+                     /mol_type="mRNA"
+                     /strain="CCAP 1055/1"
+                     /db_xref="taxon:556484"
+                     /chromosome="31"
+                     /country="United Kingdom: Blackpool"
+     gene            1..2619
+                     /locus_tag="PHATRDRAFT_56468"
+                     /db_xref="GeneID:7199343"
+     CDS             86..1537
+                     /locus_tag="PHATRDRAFT_56468"
+                     /note="Plastidic enolase (phosphopyruvate hydratase),
+                     possesses N-terminal bipartite plastid targeting sequence"
+                     /codon_start=1
+                     /product="plastidic enolase"
+                     /protein_id="XP_002185511.1"
+                     /db_xref="GeneID:7199343"
+                     /translation="MLFKPSTLLALFAVAGTTLAFAPRSTTTSLTSTTRGSASSSVTT
+                     LAMSGITGVLAREILDSRGNPTVEVEVTTADGVFRASVPSGASTGAYEAVELRDGGDR
+                     YMGKGVLQAVQNVNDILGPAVMGMDPVGQGSVDDVMLELDGTPNKANLGANAILGVSL
+                     AVAKAGAAAKKVPLYRHFADLAGNNLDTYTMPVPCFNVINGGSHAGNKLAFQEYFVIP
+                     TGAKSFAEAMQIGCEVYHTLGKIIKAKFGGDATLIGDEGGFAPPCDNREGCELIMEAI
+                     SKAGYDGKCKIGLDVAASEFKVKGKDEYDLDFKYDGDIVSGEELGNLYQSLAADFPIV
+                     TIEDPFDEDDWENWSKFTTKNGATFQVVGDDLTVTNIEKIERAIDEKACTCLLLKVNQ
+                     IGSISESIAAVTKAKKAGWGVMTSHRSGETEDTYIADLAVGLCTGQIKTGAPCRSERL
+                     AKYNQLLRIEAELEAGKVTFPGENFRTTAWMGQ"
+ORIGIN      
+        1 ggtagtagta actgtagcgt agcagtttca ctggacacaa aacgacgacg gatacatttg
+       61 acttttgcag atcttcaccg ttgtcatgct tttcaagcct tcgactctct tggctctctt
+      121 tgcggttgct ggcaccacgc tagcctttgc tccacggtcg acgacgactt ctttgacaag
+      181 taccacgcgg ggttcggctt cgtcctccgt cactacactc gccatgtccg gcatcacggg
+      241 cgttctcgcc cgtgagattt tggattcccg cggcaatcct accgtggagg tcgaagtgac
+      301 gaccgccgac ggagtcttcc gcgcgtcggt accgtccggg gcttccaccg gtgcctacga
+      361 agctgtcgag ctgcgcgatg gcggcgaccg ctacatgggc aagggtgtcc tccaggccgt
+      421 acagaacgtc aacgacatac tcggaccagc cgtcatgggt atggatccgg tcggacaggg
+      481 atccgtcgac gacgtcatgc tggaacttga cggaacaccc aacaaggcca acctcggggc
+      541 caacgccatt ttgggggtca gccttgccgt tgccaaagcc ggagccgccg cgaagaaagt
+      601 ccccctttat cggcattttg ccgatctagc cggcaacaat ctggacacct acactatgcc
+      661 cgtcccctgc ttcaacgtta ttaatggagg ctcccatgcg gggaacaaac tcgcctttca
+      721 ggaatatttc gttatcccga cgggtgccaa atcatttgcc gaagccatgc agattggttg
+      781 cgaagtgtac cataccttgg ggaaaatcat caaggccaag tttggtggcg acgcgactct
+      841 gattggcgac gaaggtggat tcgctccgcc atgtgacaac cgcgaaggct gtgaactcat
+      901 catggaagca atttccaagg ccggatacga tggtaaatgc aagattggtc tcgatgttgc
+      961 cgcgagcgag tttaaagtca agggcaaaga tgaatacgat ttggacttca agtacgatgg
+     1021 tgacattgta tctggagaag aactcggtaa tttataccag tcgctggcag ccgactttcc
+     1081 catcgtcacc atcgaagacc cctttgacga agacgactgg gagaactggt ccaaatttac
+     1141 aaccaagaat ggtgccacct tccaagtggt tggtgacgat ttgaccgtca ctaacattga
+     1201 aaagattgaa cgtgccattg acgaaaaggc ctgcacgtgc ttgttgctca aggtaaacca
+     1261 aatcggttcc atttccgaat ccatcgctgc cgtgaccaag gcgaaaaaag caggttgggg
+     1321 tgttatgacg tctcaccgtt ccggcgaaac cgaagatacc tacattgctg atttagccgt
+     1381 cggattgtgc acgggacaga tcaagacggg cgcgccctgc cgatcggaac gtttggccaa
+     1441 atacaatcaa ctcttgcgta tcgaggccga actggaagca ggcaaggtga ctttcccggg
+     1501 agaaaacttt cgaacaaccg catggatggg acagtaaagt cgcgctcgaa cgcttgcctg
+     1561 ttcgtgcgta agtataactg gaaacaatcg acaagcatcg aacccacaaa acctacttca
+     1621 atcaaccctt agaagctgct gcaaaaactc tcttttcgag tctttcaact aatcatagcc
+     1681 aagtccatac tttcatccac agcaatggtt gggattctat tagtgcagtt taagttttca
+     1741 ttcgcttagc attcttgata cccttgtctt ttctcgttac caagccggct gttttggctc
+     1801 caccaaaatt ctttttcggc ttgacgattt cttccagatc aataatgggt gccgattcga
+     1861 tacgatctac accactgacg taccgggctt ccactttttc cttgatgtgc gtgctcttct
+     1921 ccatgtaaaa cttgtaatcg ccctgatact tggccagctt gcgatcttca atcgctacaa
+     1981 tggaagtagc gaccttggaa ataaagtaac gatcgtggga tacaaccatg attgaaccca
+     2041 taaagtgttg cagagcttcc tcaagcatct ctttcgccgg aatatccaaa tgattggtcg
+     2101 gttcgtccaa aatcaacaag ttggccggtc gaagcatcat acaacataaa gaaagccgtg
+     2161 ccttttctcc tccactcaag aattcaatct tcttgtcgac tgcatctccc ttgaacagaa
+     2221 attgtcctag tagcgctcgg agttcgttgt aggactgacc actgctgttg ccttgtattg
+     2281 tctccaacac agttttgtcg agatcaagtg cgtccgcttg attctgttca aaatagttca
+     2341 ttatcacatt ttgtcctatg atttcggcac tcccatcgtc gggcttctct cgaccaacca
+     2401 acaatcgcaa aagtgtcgac ttgcccgaac cattgggccc gagtacagcg atccgatcgc
+     2461 ccttctcaat aaagagctca caatcttcaa acaaacgatt ctgagcttgt tcgttacgat
+     2521 atgcgtgaga caaatgtttg acattggcta cctctggact tagacgaggt gcgtccggaa
+     2581 aacgaaaccg gaaaggtttg ccgacaaatg gaggcttct
+//
+
+LOCUS       NM_001169382            2561 bp    mRNA    linear   INV 22-APR-2020
+DEFINITION  Drosophila melanogaster enolase, transcript variant F (Eno), mRNA.
+ACCESSION   NM_001169382
+VERSION     NM_001169382.2
+DBLINK      BioProject: PRJNA164
+            BioSample: SAMN02803731
+KEYWORDS    RefSeq.
+SOURCE      Drosophila melanogaster (fruit fly)
+  ORGANISM  Drosophila melanogaster
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila; Sophophora.
+REFERENCE   1  (bases 1 to 2561)
+  AUTHORS   Matthews,B.B., Dos Santos,G., Crosby,M.A., Emmert,D.B., St
+            Pierre,S.E., Gramates,L.S., Zhou,P., Schroeder,A.J., Falls,K.,
+            Strelets,V., Russo,S.M. and Gelbart,W.M.
+  CONSRTM   FlyBase Consortium
+  TITLE     Gene Model Annotations for Drosophila melanogaster: Impact of
+            High-Throughput Data
+  JOURNAL   G3 (Bethesda) 5 (8), 1721-1736 (2015)
+   PUBMED   26109357
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2561)
+  AUTHORS   Crosby,M.A., Gramates,L.S., Dos Santos,G., Matthews,B.B., St
+            Pierre,S.E., Zhou,P., Schroeder,A.J., Falls,K., Emmert,D.B.,
+            Russo,S.M. and Gelbart,W.M.
+  CONSRTM   FlyBase Consortium
+  TITLE     Gene Model Annotations for Drosophila melanogaster: The
+            Rule-Benders
+  JOURNAL   G3 (Bethesda) 5 (8), 1737-1749 (2015)
+   PUBMED   26109356
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 2561)
+  AUTHORS   Hoskins,R.A., Carlson,J.W., Wan,K.H., Park,S., Mendez,I.,
+            Galle,S.E., Booth,B.W., Pfeiffer,B.D., George,R.A., Svirskas,R.,
+            Krzywinski,M., Schein,J., Accardo,M.C., Damia,E., Messina,G.,
+            Mendez-Lago,M., de Pablos,B., Demakova,O.V., Andreyeva,E.N.,
+            Boldyreva,L.V., Marra,M., Carvalho,A.B., Dimitri,P., Villasante,A.,
+            Zhimulev,I.F., Rubin,G.M., Karpen,G.H. and Celniker,S.E.
+  TITLE     The Release 6 reference sequence of the Drosophila melanogaster
+            genome
+  JOURNAL   Genome Res. 25 (3), 445-458 (2015)
+   PUBMED   25589440
+REFERENCE   4  (bases 1 to 2561)
+  AUTHORS   Hoskins,R.A., Carlson,J.W., Kennedy,C., Acevedo,D., Evans-Holm,M.,
+            Frise,E., Wan,K.H., Park,S., Mendez-Lago,M., Rossi,F.,
+            Villasante,A., Dimitri,P., Karpen,G.H. and Celniker,S.E.
+  TITLE     Sequence finishing and mapping of Drosophila melanogaster
+            heterochromatin
+  JOURNAL   Science 316 (5831), 1625-1628 (2007)
+   PUBMED   17569867
+REFERENCE   5  (bases 1 to 2561)
+  AUTHORS   Smith,C.D., Shu,S., Mungall,C.J. and Karpen,G.H.
+  TITLE     The Release 5.1 annotation of Drosophila melanogaster
+            heterochromatin
+  JOURNAL   Science 316 (5831), 1586-1591 (2007)
+   PUBMED   17569856
+  REMARK    Erratum:[Science. 2007 Sep 7;317(5843):1325]
+REFERENCE   6  (bases 1 to 2561)
+  AUTHORS   Quesneville,H., Bergman,C.M., Andrieu,O., Autard,D., Nouaud,D.,
+            Ashburner,M. and Anxolabehere,D.
+  TITLE     Combined evidence annotation of transposable elements in genome
+            sequences
+  JOURNAL   PLoS Comput. Biol. 1 (2), 166-175 (2005)
+   PUBMED   16110336
+REFERENCE   7  (bases 1 to 2561)
+  AUTHORS   Hoskins,R.A., Smith,C.D., Carlson,J.W., Carvalho,A.B., Halpern,A.,
+            Kaminker,J.S., Kennedy,C., Mungall,C.J., Sullivan,B.A.,
+            Sutton,G.G., Yasuhara,J.C., Wakimoto,B.T., Myers,E.W.,
+            Celniker,S.E., Rubin,G.M. and Karpen,G.H.
+  TITLE     Heterochromatic sequences in a Drosophila whole-genome shotgun
+            assembly
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0085 (2002)
+   PUBMED   12537574
+REFERENCE   8  (bases 1 to 2561)
+  AUTHORS   Kaminker,J.S., Bergman,C.M., Kronmiller,B., Carlson,J.,
+            Svirskas,R., Patel,S., Frise,E., Wheeler,D.A., Lewis,S.E.,
+            Rubin,G.M., Ashburner,M. and Celniker,S.E.
+  TITLE     The transposable elements of the Drosophila melanogaster
+            euchromatin: a genomics perspective
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0084 (2002)
+   PUBMED   12537573
+REFERENCE   9  (bases 1 to 2561)
+  AUTHORS   Misra,S., Crosby,M.A., Mungall,C.J., Matthews,B.B., Campbell,K.S.,
+            Hradecky,P., Huang,Y., Kaminker,J.S., Millburn,G.H., Prochnik,S.E.,
+            Smith,C.D., Tupy,J.L., Whitfied,E.J., Bayraktaroglu,L.,
+            Berman,B.P., Bettencourt,B.R., Celniker,S.E., de Grey,A.D.,
+            Drysdale,R.A., Harris,N.L., Richter,J., Russo,S., Schroeder,A.J.,
+            Shu,S.Q., Stapleton,M., Yamada,C., Ashburner,M., Gelbart,W.M.,
+            Rubin,G.M. and Lewis,S.E.
+  TITLE     Annotation of the Drosophila melanogaster euchromatic genome: a
+            systematic review
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0083 (2002)
+   PUBMED   12537572
+REFERENCE   10 (bases 1 to 2561)
+  AUTHORS   Celniker,S.E., Wheeler,D.A., Kronmiller,B., Carlson,J.W.,
+            Halpern,A., Patel,S., Adams,M., Champe,M., Dugan,S.P., Frise,E.,
+            Hodgson,A., George,R.A., Hoskins,R.A., Laverty,T., Muzny,D.M.,
+            Nelson,C.R., Pacleb,J.M., Park,S., Pfeiffer,B.D., Richards,S.,
+            Sodergren,E.J., Svirskas,R., Tabor,P.E., Wan,K., Stapleton,M.,
+            Sutton,G.G., Venter,C., Weinstock,G., Scherer,S.E., Myers,E.W.,
+            Gibbs,R.A. and Rubin,G.M.
+  TITLE     Finishing a whole-genome shotgun: release 3 of the Drosophila
+            melanogaster euchromatic genome sequence
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0079 (2002)
+   PUBMED   12537568
+REFERENCE   11 (bases 1 to 2561)
+  AUTHORS   Adams,M.D., Celniker,S.E., Holt,R.A., Evans,C.A., Gocayne,J.D.,
+            Amanatides,P.G., Scherer,S.E., Li,P.W., Hoskins,R.A., Galle,R.F.,
+            George,R.A., Lewis,S.E., Richards,S., Ashburner,M., Henderson,S.N.,
+            Sutton,G.G., Wortman,J.R., Yandell,M.D., Zhang,Q., Chen,L.X.,
+            Brandon,R.C., Rogers,Y.H., Blazej,R.G., Champe,M., Pfeiffer,B.D.,
+            Wan,K.H., Doyle,C., Baxter,E.G., Helt,G., Nelson,C.R., Gabor,G.L.,
+            Abril,J.F., Agbayani,A., An,H.J., Andrews-Pfannkoch,C., Baldwin,D.,
+            Ballew,R.M., Basu,A., Baxendale,J., Bayraktaroglu,L., Beasley,E.M.,
+            Beeson,K.Y., Benos,P.V., Berman,B.P., Bhandari,D., Bolshakov,S.,
+            Borkova,D., Botchan,M.R., Bouck,J., Brokstein,P., Brottier,P.,
+            Burtis,K.C., Busam,D.A., Butler,H., Cadieu,E., Center,A.,
+            Chandra,I., Cherry,J.M., Cawley,S., Dahlke,C., Davenport,L.B.,
+            Davies,P., de Pablos,B., Delcher,A., Deng,Z., Mays,A.D., Dew,I.,
+            Dietz,S.M., Dodson,K., Doup,L.E., Downes,M., Dugan-Rocha,S.,
+            Dunkov,B.C., Dunn,P., Durbin,K.J., Evangelista,C.C., Ferraz,C.,
+            Ferriera,S., Fleischmann,W., Fosler,C., Gabrielian,A.E., Garg,N.S.,
+            Gelbart,W.M., Glasser,K., Glodek,A., Gong,F., Gorrell,J.H., Gu,Z.,
+            Guan,P., Harris,M., Harris,N.L., Harvey,D., Heiman,T.J.,
+            Hernandez,J.R., Houck,J., Hostin,D., Houston,K.A., Howland,T.J.,
+            Wei,M.H., Ibegwam,C., Jalali,M., Kalush,F., Karpen,G.H., Ke,Z.,
+            Kennison,J.A., Ketchum,K.A., Kimmel,B.E., Kodira,C.D., Kraft,C.,
+            Kravitz,S., Kulp,D., Lai,Z., Lasko,P., Lei,Y., Levitsky,A.A.,
+            Li,J., Li,Z., Liang,Y., Lin,X., Liu,X., Mattei,B., McIntosh,T.C.,
+            McLeod,M.P., McPherson,D., Merkulov,G., Milshina,N.V., Mobarry,C.,
+            Morris,J., Moshrefi,A., Mount,S.M., Moy,M., Murphy,B., Murphy,L.,
+            Muzny,D.M., Nelson,D.L., Nelson,D.R., Nelson,K.A., Nixon,K.,
+            Nusskern,D.R., Pacleb,J.M., Palazzolo,M., Pittman,G.S., Pan,S.,
+            Pollard,J., Puri,V., Reese,M.G., Reinert,K., Remington,K.,
+            Saunders,R.D., Scheeler,F., Shen,H., Shue,B.C., Siden-Kiamos,I.,
+            Simpson,M., Skupski,M.P., Smith,T., Spier,E., Spradling,A.C.,
+            Stapleton,M., Strong,R., Sun,E., Svirskas,R., Tector,C., Turner,R.,
+            Venter,E., Wang,A.H., Wang,X., Wang,Z.Y., Wassarman,D.A.,
+            Weinstock,G.M., Weissenbach,J., Williams,S.M., WoodageT,
+            Worley,K.C., Wu,D., Yang,S., Yao,Q.A., Ye,J., Yeh,R.F.,
+            Zaveri,J.S., Zhan,M., Zhang,G., Zhao,Q., Zheng,L., Zheng,X.H.,
+            Zhong,F.N., Zhong,W., Zhou,X., Zhu,S., Zhu,X., Smith,H.O.,
+            Gibbs,R.A., Myers,E.W., Rubin,G.M. and Venter,J.C.
+  TITLE     The genome sequence of Drosophila melanogaster
+  JOURNAL   Science 287 (5461), 2185-2195 (2000)
+   PUBMED   10731132
+REFERENCE   12 (bases 1 to 2561)
+  AUTHORS   Celniker,S., Carlson,J., Wan,K., Pfeiffer,B., Frise,E., George,R.,
+            Hoskins,R., Stapleton,M., Pacleb,J., Park,S., Svirskas,R.,
+            Smith,E., Yu,C. and Rubin,G.
+  CONSRTM   Berkeley Drosophila Genome Project
+  TITLE     Drosophila melanogaster release 4 sequence
+  JOURNAL   Unpublished
+REFERENCE   13 (bases 1 to 2561)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-APR-2020) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   14 (bases 1 to 2561)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2020) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   15 (bases 1 to 2561)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-APR-2019) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   16 (bases 1 to 2561)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAY-2018) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   17 (bases 1 to 2561)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2016) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   18 (bases 1 to 2561)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-2015) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   19 (bases 1 to 2561)
+  AUTHORS   Celniker,S., Carlson,J., Kennedy,C., Wan,K., Frise,E., Hoskins,R.,
+            Park,S., Svirskas,R. and Karpen,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2006) Berkeley Drosophila Genome Project,
+            Lawrence Berkeley National Laboratory, One #Cyclotron RoadOne
+            Cyclotron Road, MS 64-121, Berkeley, CA 94720, USA
+  REMARK    Direct Submission
+REFERENCE   20 (bases 1 to 2561)
+  AUTHORS   Celniker,S., Carlson,J., Wan,K., Frise,E., Hoskins,R., Park,S.,
+            Svirskas,R. and Rubin,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2006) Berkeley Drosophila Genome Project,
+            Lawrence Berkeley National Laboratory, One Cyclotron Road, MS
+            64-121, Berkeley, CA 94720, USA
+  REMARK    Direct Submission
+REFERENCE   21 (bases 1 to 2561)
+  AUTHORS   Smith,C.D., Shu,S., Mungall,C.J. and Karpen,G.H.
+  CONSRTM   Drosophila Heterochromatin Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-AUG-2006) Drosophila Heterochromatin Genome Project,
+            Ernest Orlando Lawrence Berkeley National Laboratory, 1 Cyclotron
+            Road, Mailstop 64-121, Berkeley, CA 94720, USA
+REFERENCE   22 (bases 1 to 2561)
+  AUTHORS   Adams,M.D., Celniker,S.E., Gibbs,R.A., Rubin,G.M. and Venter,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2000) Celera Genomics, 45 West Gude Drive,
+            Rockville, MD 20850, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by FlyBase. This
+            record is derived from an annotated genomic sequence (NT_033779).
+            On Jan 16, 2013 this sequence version replaced NM_001169382.1.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider :: FlyBase
+            Annotation Status   :: Full annotation
+            Annotation Version  :: Release 6.32
+            URL                 :: http://flybase.org
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2561
+                     /organism="Drosophila melanogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7227"
+                     /chromosome="2L"
+                     /genotype="y[1]; Gr22b[1] Gr22d[1] cn[1] CG33964[R4.2]
+                     bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] Rh6[1]"
+     gene            1..2561
+                     /gene="Eno"
+                     /locus_tag="Dmel_CG17654"
+                     /gene_synonym="anon-WO0153538.76; BEST:LD15491; CG17654;
+                     CT32526; Dmel\CG17654; DmENO; eno; Eno2; ENOA; T18"
+                     /note="Enolase"
+                     /map="22B1-22B1"
+                     /db_xref="FLYBASE:FBgn0000579"
+                     /db_xref="GeneID:33351"
+     CDS             979..2280
+                     /gene="Eno"
+                     /locus_tag="Dmel_CG17654"
+                     /gene_synonym="anon-WO0153538.76; BEST:LD15491; CG17654;
+                     CT32526; Dmel\CG17654; DmENO; eno; Eno2; ENOA; T18"
+                     /EC_number="4.2.1.11"
+                     /note="CG17654 gene product from transcript CG17654-RF;
+                     CG17654-PF; Eno-PF; phosphopyruvate hydratase; enolase"
+                     /codon_start=1
+                     /product="enolase, isoform F"
+                     /protein_id="NP_001162853.1"
+                     /db_xref="FLYBASE:FBpp0291325"
+                     /db_xref="GeneID:33351"
+                     /db_xref="FLYBASE:FBgn0000579"
+                     /translation="MTIKAIKARQIYDSRGNPTVEVDLTTELGLFRAAVPSGASTGVH
+                     EALELRDNDKANYHGKSVLKAVGHVNDTLGPELIKANLDVVDQASIDNFMIKLDGTEN
+                     KSKFGANAILGVSLAVAKAGAAKKGVPLYKHIADLAGNKEIILPVPAFNVINGGSHAG
+                     NKLAMQEFMILPTGATSFTEAMKMGSEVYHHLKNVIKAKFGLDATAVGDEGGFAPNIQ
+                     SNKEALNLISDAIAKAGYTGKIEIGMDVAASEFYKDGQYDLDFKNEKSDKSQWLPADK
+                     LANLYQEFIKDFPIVSIEDPFDQDHWEAWSNLTGCTDIQIVGDDLTVTNPKRIATAVE
+                     KKACNCLLLKVNQIGTVTESIAAHLLAKKNGWGTMVSHRSGETEDSFIGDLVVGLSTG
+                     QIKTGAPCRSERLAKYNQILRIEEEIGAGVKFAGKSFRKPQ"
+ORIGIN      
+        1 tttcagaagc aaatcagcag tcagccagct ctcatctgga tttaaatttg tgcagatccg
+       61 caaaagtact tggtatgtat attgctagac tcttggtgtg tgcttgtgca tccagcttag
+      121 ggaaaatatt taattgtttt atctgcgaac ttcacaaaga tcaccccaat cgaaagggct
+      181 tgaaaatcga gcgttttttg cgagcgatat ccgcgcgatt atctaacaaa tggtgctgtg
+      241 caaattttca agtgtctcgt ttacgtatat ttccaatcga tttaattgca caaatctaat
+      301 aatttcaatt gacaggcatt tgttgtatcg ctgtagggag atacttccgt ttttcgcaac
+      361 ttttccacgt actgcggctt cgctggacgc ctcactttgg gtctgacctt taaaagtagc
+      421 ttagaggtca ttcggttgtt cggcgagagc aaactgaaaa ctctcccact gagataagcg
+      481 gaaaagcggg aaatgccgcc agtgtcagtg actctaaatt attatagaaa tatttaactg
+      541 aaatttgaag acaaattaaa tatagaaaac tcaggagggg catttcgaga ttataccgtg
+      601 gagaaagtca cacccgaatg gggatatatg tataagttta caccactcac agctcaaatt
+      661 gcaagtgact tacatgctca cagctacaat tctttgcaaa aaaaaataat tttttattaa
+      721 tatctaacca tattttgaga accaagtcca aaagtatgtc aaaggtgtat ctcccatttc
+      781 ctttctagtt cgtatttctt tttcgacata tttccgaata tttcactgca tcacgaaaca
+      841 tatcatttaa ctgtccattt ggaacaattt taaatataaa taagcccaac tatttaagta
+      901 atggcgggga tttcgcaaat attgtggagc acatccgcca taaaatctga atggcttcat
+      961 ctgcgtgaca gcaacgagat gaccatcaaa gcgatcaagg cccgtcaaat ctacgactcc
+     1021 cgtggcaacc ccaccgtgga ggtcgacctg accaccgagc tgggactctt ccgagccgcc
+     1081 gtgccctccg gcgcctccac tggcgtccac gaggccctgg agctgcgcga caacgacaag
+     1141 gccaactacc atggcaagtc ggtgctgaag gccgtgggcc atgtgaacga caccctggga
+     1201 cccgagctga tcaaggccaa tctggatgtg gttgaccagg cgtccattga caacttcatg
+     1261 atcaagttgg acggcaccga gaacaagagc aagttcggag ccaacgccat cctgggcgtt
+     1321 tccctggccg tggccaaggc tggagccgcc aagaagggcg tgccgctgta caaacacatt
+     1381 gccgatctgg ctggcaacaa ggagatcatc ctgccggtgc ccgctttcaa cgtgatcaac
+     1441 ggcggcagcc acgccggcaa caagctggcc atgcaggagt tcatgatcct gcccaccggc
+     1501 gccaccagct tcacagaggc catgaagatg ggctccgagg tgtaccacca cctgaagaat
+     1561 gtgatcaagg ccaagttcgg tctggacgcc accgctgtgg gcgatgaggg cggcttcgcc
+     1621 cccaacatcc agtccaacaa ggaggctctg aacctgatca gcgatgccat cgccaaggcc
+     1681 ggatacaccg gcaagatcga gatcggcatg gacgtggccg cctccgagtt ctacaaggat
+     1741 ggccagtacg atctggactt caagaacgag aagagcgaca agtcgcagtg gctgcccgcc
+     1801 gacaagctgg ccaacctgta ccaggagttt attaaggact tccccatcgt ctcgattgag
+     1861 gatccctttg accaggacca ctgggaggcc tggtccaacc tgaccggctg caccgacatc
+     1921 cagatcgtgg gcgatgatct gaccgtgacc aaccccaagc gtattgccac cgccgtggag
+     1981 aagaaggcct gcaactgcct gctcctgaag gtcaaccaga tcggcaccgt caccgagtcc
+     2041 attgccgccc atctgctggc caagaagaac ggctggggca ccatggtctc ccaccgttcc
+     2101 ggtgagaccg aggactcgtt catcggtgac ctggtcgtcg gtctgtccac cggccagatc
+     2161 aagaccggag ctccatgccg ctcggagcgt ctggccaagt acaaccagat cctgcgcatc
+     2221 gaggaggaga tcggcgctgg cgtcaagttc gccggcaagt cgttcaggaa gccgcagtaa
+     2281 gcgcagggca cttcgaaatt ccaaccacac cagccccatc gaatgagatc tggatcttgg
+     2341 agagggagct ggacgcagta gatccatgga aaggcggcgg tgcacgtgtt cgtcaacctt
+     2401 ttacgttcgg aacttgtgtc tggcgcacaa atacatcaga attaaactac caaacccatt
+     2461 tgctgtctct atgcttcgtt cttagacatt attaattaat gctaaacctt gatctaatca
+     2521 ttatttataa acaaaagaat aaaaaacact atgtgcaaga t
+//
+
+LOCUS       XM_020578711            2337 bp    mRNA    linear   INV 17-MAR-2017
+DEFINITION  Polysphondylium pallidum PN500 phosphopyruvate hydratase (enoB),
+            partial mRNA.
+ACCESSION   XM_020578711
+VERSION     XM_020578711.1
+DBLINK      BioProject: PRJNA46447
+            BioSample: SAMN02953767
+KEYWORDS    RefSeq.
+SOURCE      Heterostelium album PN500
+  ORGANISM  Heterostelium album PN500
+            Eukaryota; Amoebozoa; Evosea; Eumycetozoa; Dictyostelia;
+            Acytosteliales; Acytosteliaceae; Heterostelium.
+REFERENCE   1  (bases 1 to 2337)
+  AUTHORS   Gloeckner,G., Schaap,P., Noegel,A.A., Felder,M., Eichinger,L.,
+            Heidel,A.J. and Platzer,M.
+  TITLE     Living fossils from the dawn of multicellularity
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2337)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAR-2017) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 2337)
+  AUTHORS   Gloeckner,G., Schaap,P., Noegel,A.A., Felder,M. and Platzer,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-DEC-2009) Genome Analysis, Fritz Lipmann Institute,
+            Beutenbergstr. 11, Jena 07745, Germany
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NW_008805070).
+            COMPLETENESS: incomplete on both ends.
+FEATURES             Location/Qualifiers
+     source          1..2337
+                     /organism="Heterostelium album PN500"
+                     /mol_type="mRNA"
+                     /strain="PN500"
+                     /db_xref="taxon:670386"
+                     /chromosome="Unknown"
+     gene            <1..>2337
+                     /gene="enoB"
+                     /locus_tag="PPL_07877"
+                     /db_xref="GeneID:31363358"
+     CDS             1..2337
+                     /gene="enoB"
+                     /locus_tag="PPL_07877"
+                     /codon_start=1
+                     /product="phosphopyruvate hydratase"
+                     /protein_id="XP_020431580.1"
+                     /db_xref="GeneID:31363358"
+                     /translation="MLKTHLNNNNIINFYCILICTLVLATGFADVVSSEQVLLFADYE
+                     SGTLDSGIKGLLATNANASDAATIVTTSRSGKYAISHKVTLDDPGYYSAGNWRSESAT
+                     AGVAAGCYLNNTERRHEFSVYLKDWTIYKVGDPSTIDIIYQCKSTSSGPAWFLGVKRN
+                     QIVLRIPDSGVQSEIIADVSKVVNQWIDLKVEVYNVDVLKGYIRVYSKMSNETNFTLK
+                     YKIDNIKTFVPDSETSQFAYCKWGLYRPDSEISKGSVPTRIIYHDNIKITNTTADSGA
+                     TTTTTTSTPTTSTPTTSTPTTSTTTPTTGTTTDQINNAINTYHYNLLLTIIKSKEITN
+                     NLSLQKETMSVIKSIVAREILDSRGNPTVEVDLFTELGRFRSAVPSGVSTSDYEAVEL
+                     RDGDKSRYGGKGVLKALDNIKSIIAPKIIGMDVTDQSGLDQLMIKLDGTENKAKLGAN
+                     AILAVSMAICRAGAAAKKIPLYKHIAQLSNRNDTDFILPVPAFNVINGGVHGGNRLAI
+                     QEFWVIPIGATTFKEALRLGSETYHTLKTVIAERYGRDAVNVGDEGGFAPPIQSNDEA
+                     LDLLVSAIDKAGHTGKVKIGIDSAASEFHTKNGMYDLDFKNKNNNGSQVVSGEKLADM
+                     YREMVSKYPALVSFEDPFDEDDWDSYAKLTASVSLQVVGDDLLCTNPKRIQEGIKKKA
+                     CNALLLKLNQIGTVSESIKAFQLARSAHWGVMVSHRSGETEDTFIADLVVGLGAGEIK
+                     TGATCRSERLAKYNQLMRIEEELGSHATFAGESFRFPK"
+ORIGIN      
+        1 atgttgaaaa ctcatttaaa taataataat attattaatt tttattgtat attaatttgt
+       61 actttggtat tagcgactgg ttttgctgat gttgtcagtt cggagcaagt acttttattc
+      121 gcagactacg aatctggaac tttagattct ggaattaaag gtcttttagc aacaaatgct
+      181 aatgcttcgg atgctgcaac cattgtcact actagtagat ctggaaagta tgcaatctca
+      241 cacaaagtca ctctagatga tcccggttac tattctgctg gcaattggcg tagtgagagt
+      301 gctactgcag gtgttgcagc tggttgctat ttaaacaata cagagagacg tcacgaattc
+      361 agtgtttacc taaaggattg gaccatttac aaggtcggtg atccctcaac aatcgatatc
+      421 atctatcaat gtaaatcgac tagcagtgga ccggcatggt ttctcggtgt caaacgaaat
+      481 caaattgttc tgagaattcc agatagcggt gtacagtctg agatcattgc ggatgtcagt
+      541 aaagttgtaa atcaatggat cgatttaaaa gtagaggtgt acaatgttga cgttcttaaa
+      601 ggatatatca gagtttactc aaagatgagt aatgaaacta attttacgtt gaaatacaag
+      661 attgataata taaagacatt cgtccccgat agtgaaacat cgcaattcgc atattgtaaa
+      721 tggggtcttt atcgtccaga ttccgagatt tcaaaaggaa gtgttccaac tagaataatc
+      781 tatcatgata atattaaaat tacaaataca actgctgata gtggagcaac aacaacaaca
+      841 acaacttcaa caccaacaac ttcaacacca acaacttcaa caccaacaac ttcaacaaca
+      901 actccaacca caggaacaac aaccgatcaa attaacaatg caattaatac ctatcattat
+      961 aatttattac taacgattat taaatcaaag gagataacaa ataatctatc attgcaaaaa
+     1021 gaaacaatga gtgttataaa atcaattgtt gctagagaga ttttagatag tcgtggaaat
+     1081 ccaactgtag aagtggactt gttcacagag ttgggtagat ttagaagtgc tgtgccatcc
+     1141 ggtgtttcaa ctagcgatta tgaagcggtg gagttgagag atggcgataa atcaagatat
+     1201 ggaggtaaag gtgttttgaa agcattggac aacataaaga gtattattgc accgaaaatc
+     1261 attggaatgg atgtaaccga tcagagtggt ttggatcagt taatgatcaa gttggatgga
+     1321 actgagaaca aagcaaaact cggcgccaat gctatcctag ctgtaagtat ggccatttgt
+     1381 cgtgcaggtg cagccgccaa gaaaataccg ctatacaagc atatcgccca actttccaat
+     1441 cgaaatgata ctgatttcat tcttccagtt ccagcattca atgtaattaa tggtggtgtt
+     1501 cacggtggaa atagattggc gattcaagag ttttgggtaa ttccaattgg tgccaccact
+     1561 tttaaagagg cattacgatt gggatcggag acctatcaca ctttgaaaac ggtgattgca
+     1621 gagagatacg gtcgcgatgc tgtgaatgtc ggagatgaag gtggattcgc tcctcccatt
+     1681 cagagtaacg atgaagcttt ggatcttttg gtgtcggcaa ttgacaaggc aggacatact
+     1741 ggaaaagtaa agattggaat cgatagtgct gcatcggagt tccacaccaa gaatggaatg
+     1801 tatgacctcg atttcaagaa taagaataac aatggatctc aagtggtctc tggtgagaag
+     1861 cttgccgata tgtatcgcga gatggtttcc aaataccctg cattagtttc cttcgaagat
+     1921 ccgttcgacg aagacgattg ggattcctac gccaaactga cagcttcggt atcgttgcaa
+     1981 gtggtaggcg atgatctctt gtgtaccaat ccaaagagaa tccaagaagg tatcaagaag
+     2041 aaagcgtgca atgcattgct tttgaaattg aatcaaattg gaacggtttc ggaatctatc
+     2101 aaggctttcc aacttgcgcg atctgcgcac tggggtgtca tggttagtca tcgtagcggt
+     2161 gagactgaag atacctttat cgctgatctt gttgttggtc ttggagctgg agagattaaa
+     2221 accggtgcta cctgtagaag cgagagacta gccaaataca atcaactcat gagaatcgaa
+     2281 gaggaacttg gtagtcacgc tacattcgca ggtgaaagct ttagatttcc aaaataa
+//
+
+LOCUS       XM_047982770            2271 bp    mRNA    linear   PLN 06-MAY-2022
+DEFINITION  Purpureocillium takamizusanense Phosphopyruvate hydratase (ENO1),
+            mRNA.
+ACCESSION   XM_047982770
+VERSION     XM_047982770.1
+DBLINK      BioProject: PRJNA835139
+            BioSample: SAMN22138285
+KEYWORDS    RefSeq.
+SOURCE      Purpureocillium takamizusanense
+  ORGANISM  Purpureocillium takamizusanense
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Sordariomycetes; Hypocreomycetidae; Hypocreales;
+            Ophiocordycipitaceae; Purpureocillium.
+REFERENCE   1  (bases 1 to 2271)
+  AUTHORS   Nguyen,N.-H.
+  TITLE     Purpureocillium_takamizusanense_genome
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2271)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAY-2022) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 2271)
+  AUTHORS   Nguyen,N.-H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-NOV-2021) Department of Biological Science and
+            Technology, Tokyo University of Science, Niijuku, Katsushika City,
+            Tokyo 125-8585, Japan
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_063068).
+FEATURES             Location/Qualifiers
+     source          1..2271
+                     /organism="Purpureocillium takamizusanense"
+                     /mol_type="mRNA"
+                     /strain="PT3"
+                     /host="Meimuna opalifera"
+                     /db_xref="taxon:2060973"
+                     /chromosome="1"
+                     /country="Japan: Chiba city, Chiba Prefecture"
+                     /collection_date="2015-08-01/2015-08-31"
+     gene            1..2271
+                     /gene="ENO1"
+                     /locus_tag="JDV02_001804"
+                     /db_xref="GeneID:72063766"
+     CDS             682..1998
+                     /gene="ENO1"
+                     /locus_tag="JDV02_001804"
+                     /EC_number="4.2.1.11"
+                     /note="EggNog:ENOG503NXC1;
+                     COG:G"
+                     /codon_start=1
+                     /product="Phosphopyruvate hydratase"
+                     /protein_id="XP_047838736.1"
+                     /db_xref="GeneID:72063766"
+                     /db_xref="InterPro:IPR000941"
+                     /db_xref="InterPro:IPR020810"
+                     /db_xref="InterPro:IPR020811"
+                     /db_xref="PFAM:PF00113"
+                     /db_xref="PFAM:PF03952"
+                     /translation="MAITKVHARSVYDSRGNPTVEVDIVTETGLHRAIVPSGASTGQH
+                     EACELRDGDKSKWGGKGVTKAVDNVNSIIGPALIKENLDVKDQSKVDSFLNGLDGTSN
+                     KTKLGANAILGVSLAIAKAGAAEKGVPLYAHISDLAGTKKPYVLPVPFMNVLNGGSHA
+                     GGRLAFQEFMIVPSAAPSFSEAMRQGAEVYQQLKSLAKKKYGQSAGNVGDEGGVAPDI
+                     QTAAEALDLITEAIEKAGYTGKMNIAMDVASSEFYKEKEKKYDLDFKNPDSDPTKWIT
+                     YEELAAMYSDLCKKYPIVSIEDPFAEDDWEAWSYFYKSENIQIVGDDLTVTNPLRIKK
+                     AIELKACNALLLKVNQIGTLTESIQAAKDSYADGWGVMVSHRSGETEDVTIADIVVGI
+                     RSGEIKTGAPCRSERLAKLNQILRIEEELGDQAVYAGANFRTSVNL"
+ORIGIN      
+        1 cccagagagt gcgtgagtgg caccacaagc ccattgagcc tgctggccaa aaacatcttg
+       61 ctgctccctt tgtctccccc catccgtctt cttccatcct caacaaacac tctgctcttc
+      121 gcatcacaac attcgggacc gcgttctcga gatttcctac tgcacacacc accctcaatc
+      181 ccaggtgcgt atgtgttata tcccaattgc tctgcccctc ccttctggac gacccctcga
+      241 tgctcgcacg ccctcagttt gcaaaggcgt acgagttgcc cctccacagc tcagctggcc
+      301 gctcaacagc cccccgccac ggcttgcagc tctcgtgtga ggcatatcgt gagcacacca
+      361 ccggctaccc gccgattgag tcgctgcagt atggctacta cggacctttt gtcgttgacg
+      421 ctgcgcattg cgtggccaca cgcctcagag cttgaccccg ccagcttgtg tctcacgacg
+      481 agtcgagcgg tgctgctcct gcccgccacc gcgcctgctg ctggtgctgt cgttgccact
+      541 gacgctgctg ccccgccccc actatcccac ctcaccgcaa ccctctgcgc tctggccgcc
+      601 tgggctcgct gccaaaacaa cggaatgctg acgtcgagct ccagaatctg cccaccgcct
+      661 tgatagcgac agttgtacaa gatggccatc accaaggtcc acgctcgctc cgtctacgac
+      721 tcccgcggta acccgaccgt ggaggttgac atcgttaccg agactggcct gcaccgcgcc
+      781 attgtcccgt ccggcgcctc taccggccag cacgaggcat gtgagctccg cgacggcgac
+      841 aagtccaagt ggggcggcaa gggcgtcacc aaggccgttg acaacgtcaa ctccatcatt
+      901 ggccctgccc tgatcaagga gaacctcgac gtcaaggacc agtccaaggt cgactctttc
+      961 ctcaacgggc tcgatggcac ctccaacaag accaagctcg gcgccaacgc catcctcggc
+     1021 gtcagcctgg ccatcgccaa ggctggtgct gctgagaagg gtgtccctct gtacgcccat
+     1081 atctcggacc tcgcgggcac caagaagccc tacgtcctgc ccgttccctt catgaacgtc
+     1141 ctcaatggcg gttcccacgc cggtggccgc cttgccttcc aggagttcat gatcgtcccc
+     1201 agcgcggccc cctccttctc cgaggccatg cgccagggtg ccgaggtcta ccagcagctg
+     1261 aagagcctgg ccaagaagaa gtacggccag tctgccggca acgttggcga cgagggcggt
+     1321 gtcgcccccg atatccagac cgccgccgag gctctggacc tcatcactga ggccattgag
+     1381 aaggccggct acactggcaa gatgaacatt gccatggacg tcgcctcaag cgaattctac
+     1441 aaggagaagg agaagaagta cgacctcgac ttcaagaacc ccgacagcga ccccaccaag
+     1501 tggatcacct acgaggagct cgctgccatg tactcggacc tctgcaagaa gtaccccatc
+     1561 gtctccattg aggacccctt cgccgaggac gactgggagg cgtggagcta cttctacaag
+     1621 tcggagaaca tccagattgt cggtgacgac ctgacggtca ccaaccccct ccgcatcaag
+     1681 aaggccatcg agctcaaggc ctgcaacgcc ctgctgctca aggtcaacca gatcggcacc
+     1741 ctgaccgagt cgatccaggc cgccaaggac tcgtacgccg acggctgggg tgtcatggtg
+     1801 tctcaccgct ccggcgagac tgaggacgtt accattgccg acatcgtcgt gggcatccga
+     1861 tctggcgaga tcaagacggg tgctccctgc cgctctgagc gcctggccaa gctcaaccag
+     1921 atcctccgca tcgaggagga gctgggcgac caggccgtct acgccggcgc caacttccgc
+     1981 acgtcggtca acctgtagag ggtgctactc atgttttgag cagcgtggat gtagctggcg
+     2041 cttgcaaggt tcgctccgag gcctgcgagg ggcgtgcctt tgaaaagaag caaaaggaaa
+     2101 cccgggattt ggcctacgta gatagaagaa cgtcgcagct agtagggaca ctgcagatga
+     2161 agcgatgaac aaaagtgaaa tttaagcaag atgattgcat tgctgccgac tggtgatcca
+     2221 tctgagcaat tcatcagaga cgaggacgaa gtagcgcggg caggctgcgc a
+//
+
+LOCUS       NM_164432               2257 bp    mRNA    linear   INV 22-APR-2020
+DEFINITION  Drosophila melanogaster enolase, transcript variant C (Eno), mRNA.
+ACCESSION   NM_164432
+VERSION     NM_164432.3
+DBLINK      BioProject: PRJNA164
+            BioSample: SAMN02803731
+KEYWORDS    RefSeq.
+SOURCE      Drosophila melanogaster (fruit fly)
+  ORGANISM  Drosophila melanogaster
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila; Sophophora.
+REFERENCE   1  (bases 1 to 2257)
+  AUTHORS   Matthews,B.B., Dos Santos,G., Crosby,M.A., Emmert,D.B., St
+            Pierre,S.E., Gramates,L.S., Zhou,P., Schroeder,A.J., Falls,K.,
+            Strelets,V., Russo,S.M. and Gelbart,W.M.
+  CONSRTM   FlyBase Consortium
+  TITLE     Gene Model Annotations for Drosophila melanogaster: Impact of
+            High-Throughput Data
+  JOURNAL   G3 (Bethesda) 5 (8), 1721-1736 (2015)
+   PUBMED   26109357
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2257)
+  AUTHORS   Crosby,M.A., Gramates,L.S., Dos Santos,G., Matthews,B.B., St
+            Pierre,S.E., Zhou,P., Schroeder,A.J., Falls,K., Emmert,D.B.,
+            Russo,S.M. and Gelbart,W.M.
+  CONSRTM   FlyBase Consortium
+  TITLE     Gene Model Annotations for Drosophila melanogaster: The
+            Rule-Benders
+  JOURNAL   G3 (Bethesda) 5 (8), 1737-1749 (2015)
+   PUBMED   26109356
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 2257)
+  AUTHORS   Hoskins,R.A., Carlson,J.W., Wan,K.H., Park,S., Mendez,I.,
+            Galle,S.E., Booth,B.W., Pfeiffer,B.D., George,R.A., Svirskas,R.,
+            Krzywinski,M., Schein,J., Accardo,M.C., Damia,E., Messina,G.,
+            Mendez-Lago,M., de Pablos,B., Demakova,O.V., Andreyeva,E.N.,
+            Boldyreva,L.V., Marra,M., Carvalho,A.B., Dimitri,P., Villasante,A.,
+            Zhimulev,I.F., Rubin,G.M., Karpen,G.H. and Celniker,S.E.
+  TITLE     The Release 6 reference sequence of the Drosophila melanogaster
+            genome
+  JOURNAL   Genome Res. 25 (3), 445-458 (2015)
+   PUBMED   25589440
+REFERENCE   4  (bases 1 to 2257)
+  AUTHORS   Hoskins,R.A., Carlson,J.W., Kennedy,C., Acevedo,D., Evans-Holm,M.,
+            Frise,E., Wan,K.H., Park,S., Mendez-Lago,M., Rossi,F.,
+            Villasante,A., Dimitri,P., Karpen,G.H. and Celniker,S.E.
+  TITLE     Sequence finishing and mapping of Drosophila melanogaster
+            heterochromatin
+  JOURNAL   Science 316 (5831), 1625-1628 (2007)
+   PUBMED   17569867
+REFERENCE   5  (bases 1 to 2257)
+  AUTHORS   Smith,C.D., Shu,S., Mungall,C.J. and Karpen,G.H.
+  TITLE     The Release 5.1 annotation of Drosophila melanogaster
+            heterochromatin
+  JOURNAL   Science 316 (5831), 1586-1591 (2007)
+   PUBMED   17569856
+  REMARK    Erratum:[Science. 2007 Sep 7;317(5843):1325]
+REFERENCE   6  (bases 1 to 2257)
+  AUTHORS   Quesneville,H., Bergman,C.M., Andrieu,O., Autard,D., Nouaud,D.,
+            Ashburner,M. and Anxolabehere,D.
+  TITLE     Combined evidence annotation of transposable elements in genome
+            sequences
+  JOURNAL   PLoS Comput. Biol. 1 (2), 166-175 (2005)
+   PUBMED   16110336
+REFERENCE   7  (bases 1 to 2257)
+  AUTHORS   Hoskins,R.A., Smith,C.D., Carlson,J.W., Carvalho,A.B., Halpern,A.,
+            Kaminker,J.S., Kennedy,C., Mungall,C.J., Sullivan,B.A.,
+            Sutton,G.G., Yasuhara,J.C., Wakimoto,B.T., Myers,E.W.,
+            Celniker,S.E., Rubin,G.M. and Karpen,G.H.
+  TITLE     Heterochromatic sequences in a Drosophila whole-genome shotgun
+            assembly
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0085 (2002)
+   PUBMED   12537574
+REFERENCE   8  (bases 1 to 2257)
+  AUTHORS   Kaminker,J.S., Bergman,C.M., Kronmiller,B., Carlson,J.,
+            Svirskas,R., Patel,S., Frise,E., Wheeler,D.A., Lewis,S.E.,
+            Rubin,G.M., Ashburner,M. and Celniker,S.E.
+  TITLE     The transposable elements of the Drosophila melanogaster
+            euchromatin: a genomics perspective
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0084 (2002)
+   PUBMED   12537573
+REFERENCE   9  (bases 1 to 2257)
+  AUTHORS   Misra,S., Crosby,M.A., Mungall,C.J., Matthews,B.B., Campbell,K.S.,
+            Hradecky,P., Huang,Y., Kaminker,J.S., Millburn,G.H., Prochnik,S.E.,
+            Smith,C.D., Tupy,J.L., Whitfied,E.J., Bayraktaroglu,L.,
+            Berman,B.P., Bettencourt,B.R., Celniker,S.E., de Grey,A.D.,
+            Drysdale,R.A., Harris,N.L., Richter,J., Russo,S., Schroeder,A.J.,
+            Shu,S.Q., Stapleton,M., Yamada,C., Ashburner,M., Gelbart,W.M.,
+            Rubin,G.M. and Lewis,S.E.
+  TITLE     Annotation of the Drosophila melanogaster euchromatic genome: a
+            systematic review
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0083 (2002)
+   PUBMED   12537572
+REFERENCE   10 (bases 1 to 2257)
+  AUTHORS   Celniker,S.E., Wheeler,D.A., Kronmiller,B., Carlson,J.W.,
+            Halpern,A., Patel,S., Adams,M., Champe,M., Dugan,S.P., Frise,E.,
+            Hodgson,A., George,R.A., Hoskins,R.A., Laverty,T., Muzny,D.M.,
+            Nelson,C.R., Pacleb,J.M., Park,S., Pfeiffer,B.D., Richards,S.,
+            Sodergren,E.J., Svirskas,R., Tabor,P.E., Wan,K., Stapleton,M.,
+            Sutton,G.G., Venter,C., Weinstock,G., Scherer,S.E., Myers,E.W.,
+            Gibbs,R.A. and Rubin,G.M.
+  TITLE     Finishing a whole-genome shotgun: release 3 of the Drosophila
+            melanogaster euchromatic genome sequence
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0079 (2002)
+   PUBMED   12537568
+REFERENCE   11 (bases 1 to 2257)
+  AUTHORS   Adams,M.D., Celniker,S.E., Holt,R.A., Evans,C.A., Gocayne,J.D.,
+            Amanatides,P.G., Scherer,S.E., Li,P.W., Hoskins,R.A., Galle,R.F.,
+            George,R.A., Lewis,S.E., Richards,S., Ashburner,M., Henderson,S.N.,
+            Sutton,G.G., Wortman,J.R., Yandell,M.D., Zhang,Q., Chen,L.X.,
+            Brandon,R.C., Rogers,Y.H., Blazej,R.G., Champe,M., Pfeiffer,B.D.,
+            Wan,K.H., Doyle,C., Baxter,E.G., Helt,G., Nelson,C.R., Gabor,G.L.,
+            Abril,J.F., Agbayani,A., An,H.J., Andrews-Pfannkoch,C., Baldwin,D.,
+            Ballew,R.M., Basu,A., Baxendale,J., Bayraktaroglu,L., Beasley,E.M.,
+            Beeson,K.Y., Benos,P.V., Berman,B.P., Bhandari,D., Bolshakov,S.,
+            Borkova,D., Botchan,M.R., Bouck,J., Brokstein,P., Brottier,P.,
+            Burtis,K.C., Busam,D.A., Butler,H., Cadieu,E., Center,A.,
+            Chandra,I., Cherry,J.M., Cawley,S., Dahlke,C., Davenport,L.B.,
+            Davies,P., de Pablos,B., Delcher,A., Deng,Z., Mays,A.D., Dew,I.,
+            Dietz,S.M., Dodson,K., Doup,L.E., Downes,M., Dugan-Rocha,S.,
+            Dunkov,B.C., Dunn,P., Durbin,K.J., Evangelista,C.C., Ferraz,C.,
+            Ferriera,S., Fleischmann,W., Fosler,C., Gabrielian,A.E., Garg,N.S.,
+            Gelbart,W.M., Glasser,K., Glodek,A., Gong,F., Gorrell,J.H., Gu,Z.,
+            Guan,P., Harris,M., Harris,N.L., Harvey,D., Heiman,T.J.,
+            Hernandez,J.R., Houck,J., Hostin,D., Houston,K.A., Howland,T.J.,
+            Wei,M.H., Ibegwam,C., Jalali,M., Kalush,F., Karpen,G.H., Ke,Z.,
+            Kennison,J.A., Ketchum,K.A., Kimmel,B.E., Kodira,C.D., Kraft,C.,
+            Kravitz,S., Kulp,D., Lai,Z., Lasko,P., Lei,Y., Levitsky,A.A.,
+            Li,J., Li,Z., Liang,Y., Lin,X., Liu,X., Mattei,B., McIntosh,T.C.,
+            McLeod,M.P., McPherson,D., Merkulov,G., Milshina,N.V., Mobarry,C.,
+            Morris,J., Moshrefi,A., Mount,S.M., Moy,M., Murphy,B., Murphy,L.,
+            Muzny,D.M., Nelson,D.L., Nelson,D.R., Nelson,K.A., Nixon,K.,
+            Nusskern,D.R., Pacleb,J.M., Palazzolo,M., Pittman,G.S., Pan,S.,
+            Pollard,J., Puri,V., Reese,M.G., Reinert,K., Remington,K.,
+            Saunders,R.D., Scheeler,F., Shen,H., Shue,B.C., Siden-Kiamos,I.,
+            Simpson,M., Skupski,M.P., Smith,T., Spier,E., Spradling,A.C.,
+            Stapleton,M., Strong,R., Sun,E., Svirskas,R., Tector,C., Turner,R.,
+            Venter,E., Wang,A.H., Wang,X., Wang,Z.Y., Wassarman,D.A.,
+            Weinstock,G.M., Weissenbach,J., Williams,S.M., WoodageT,
+            Worley,K.C., Wu,D., Yang,S., Yao,Q.A., Ye,J., Yeh,R.F.,
+            Zaveri,J.S., Zhan,M., Zhang,G., Zhao,Q., Zheng,L., Zheng,X.H.,
+            Zhong,F.N., Zhong,W., Zhou,X., Zhu,S., Zhu,X., Smith,H.O.,
+            Gibbs,R.A., Myers,E.W., Rubin,G.M. and Venter,J.C.
+  TITLE     The genome sequence of Drosophila melanogaster
+  JOURNAL   Science 287 (5461), 2185-2195 (2000)
+   PUBMED   10731132
+REFERENCE   12 (bases 1 to 2257)
+  AUTHORS   Celniker,S., Carlson,J., Wan,K., Pfeiffer,B., Frise,E., George,R.,
+            Hoskins,R., Stapleton,M., Pacleb,J., Park,S., Svirskas,R.,
+            Smith,E., Yu,C. and Rubin,G.
+  CONSRTM   Berkeley Drosophila Genome Project
+  TITLE     Drosophila melanogaster release 4 sequence
+  JOURNAL   Unpublished
+REFERENCE   13 (bases 1 to 2257)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-APR-2020) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   14 (bases 1 to 2257)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2020) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   15 (bases 1 to 2257)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-APR-2019) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   16 (bases 1 to 2257)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAY-2018) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   17 (bases 1 to 2257)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2016) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   18 (bases 1 to 2257)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-2015) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   19 (bases 1 to 2257)
+  AUTHORS   Celniker,S., Carlson,J., Kennedy,C., Wan,K., Frise,E., Hoskins,R.,
+            Park,S., Svirskas,R. and Karpen,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2006) Berkeley Drosophila Genome Project,
+            Lawrence Berkeley National Laboratory, One #Cyclotron RoadOne
+            Cyclotron Road, MS 64-121, Berkeley, CA 94720, USA
+  REMARK    Direct Submission
+REFERENCE   20 (bases 1 to 2257)
+  AUTHORS   Celniker,S., Carlson,J., Wan,K., Frise,E., Hoskins,R., Park,S.,
+            Svirskas,R. and Rubin,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2006) Berkeley Drosophila Genome Project,
+            Lawrence Berkeley National Laboratory, One Cyclotron Road, MS
+            64-121, Berkeley, CA 94720, USA
+  REMARK    Direct Submission
+REFERENCE   21 (bases 1 to 2257)
+  AUTHORS   Smith,C.D., Shu,S., Mungall,C.J. and Karpen,G.H.
+  CONSRTM   Drosophila Heterochromatin Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-AUG-2006) Drosophila Heterochromatin Genome Project,
+            Ernest Orlando Lawrence Berkeley National Laboratory, 1 Cyclotron
+            Road, Mailstop 64-121, Berkeley, CA 94720, USA
+REFERENCE   22 (bases 1 to 2257)
+  AUTHORS   Adams,M.D., Celniker,S.E., Gibbs,R.A., Rubin,G.M. and Venter,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2000) Celera Genomics, 45 West Gude Drive,
+            Rockville, MD 20850, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by FlyBase. This
+            record is derived from an annotated genomic sequence (NT_033779).
+            On Jan 16, 2013 this sequence version replaced NM_164432.2.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider :: FlyBase
+            Annotation Status   :: Full annotation
+            Annotation Version  :: Release 6.32
+            URL                 :: http://flybase.org
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2257
+                     /organism="Drosophila melanogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7227"
+                     /chromosome="2L"
+                     /genotype="y[1]; Gr22b[1] Gr22d[1] cn[1] CG33964[R4.2]
+                     bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] Rh6[1]"
+     gene            1..2257
+                     /gene="Eno"
+                     /locus_tag="Dmel_CG17654"
+                     /gene_synonym="anon-WO0153538.76; BEST:LD15491; CG17654;
+                     CT32526; Dmel\CG17654; DmENO; eno; Eno2; ENOA; T18"
+                     /note="Enolase"
+                     /map="22B1-22B1"
+                     /db_xref="FLYBASE:FBgn0000579"
+                     /db_xref="GeneID:33351"
+     CDS             388..1890
+                     /gene="Eno"
+                     /locus_tag="Dmel_CG17654"
+                     /gene_synonym="anon-WO0153538.76; BEST:LD15491; CG17654;
+                     CT32526; Dmel\CG17654; DmENO; eno; Eno2; ENOA; T18"
+                     /EC_number="4.2.1.11"
+                     /note="CG17654 gene product from transcript CG17654-RC;
+                     CG17654-PC; Eno-PC; phosphopyruvate hydratase; enolase"
+                     /codon_start=1
+                     /product="enolase, isoform C"
+                     /protein_id="NP_722722.1"
+                     /db_xref="FLYBASE:FBpp0077573"
+                     /db_xref="GeneID:33351"
+                     /db_xref="FLYBASE:FBgn0000579"
+                     /translation="MSWTASVFLRTSTTSMKFLRLRWPLPRIPQNKSANVAPRFRSKS
+                     AVSQLSSGFKFVQIRKSTCDSNEMTIKAIKARQIYDSRGNPTVEVDLTTELGLFRAAV
+                     PSGASTGVHEALELRDNDKANYHGKSVLKAVGHVNDTLGPELIKANLDVVDQASIDNF
+                     MIKLDGTENKSKFGANAILGVSLAVAKAGAAKKGVPLYKHIADLAGNKEIILPVPAFN
+                     VINGGSHAGNKLAMQEFMILPTGATSFTEAMKMGSEVYHHLKNVIKAKFGLDATAVGD
+                     EGGFAPNIQSNKEALNLISDAIAKAGYTGKIEIGMDVAASEFYKDGQYDLDFKNEKSD
+                     KSQWLPADKLANLYQEFIKDFPIVSIEDPFDQDHWEAWSNLTGCTDIQIVGDDLTVTN
+                     PKRIATAVEKKACNCLLLKVNQIGTVTESIAAHLLAKKNGWGTMVSHRSGETEDSFIG
+                     DLVVGLSTGQIKTGAPCRSERLAKYNQILRIEEEIGAGVKFAGKSFRKPQ"
+ORIGIN      
+        1 gatcagctgt gctgctataa gcataatcgt acgatttgtt aaaatccgct ttgcatttat
+       61 ttgttctaat ttatggcagc taaaaagcgt gactaaccac aagtatgtga ctttgaatga
+      121 cccgattgtc cagaaaccac gggaacattt cattatcatt gatagacatg caatccacag
+      181 ctacgtgtgg atcccgatta ctctaacctt gtgcgaaggt caattttccc caaaaaatat
+      241 aggaaacgta ccagggaaaa caacaaaaaa gggaaagcgc acccccacac tgaaaaccgg
+      301 cgagcacctg gaaacgcata catataaaag gagagtaaat atacaaattg gtagcacttt
+      361 cgccgccgtc ttttacacat tcaagccatg tcttggaccg cttcagtttt cttgaggact
+      421 tccaccacta gcatgaagtt tctgcgtctg cgctggcctc tccccagaat tccccagaat
+      481 aaatcggcaa acgttgcgcc gcgtttcaga agcaaatcag cagtcagcca gctctcatct
+      541 ggatttaaat ttgtgcagat ccgcaaaagt acttgtgaca gcaacgagat gaccatcaaa
+      601 gcgatcaagg cccgtcaaat ctacgactcc cgtggcaacc ccaccgtgga ggtcgacctg
+      661 accaccgagc tgggactctt ccgagccgcc gtgccctccg gcgcctccac tggcgtccac
+      721 gaggccctgg agctgcgcga caacgacaag gccaactacc atggcaagtc ggtgctgaag
+      781 gccgtgggcc atgtgaacga caccctggga cccgagctga tcaaggccaa tctggatgtg
+      841 gttgaccagg cgtccattga caacttcatg atcaagttgg acggcaccga gaacaagagc
+      901 aagttcggag ccaacgccat cctgggcgtt tccctggccg tggccaaggc tggagccgcc
+      961 aagaagggcg tgccgctgta caaacacatt gccgatctgg ctggcaacaa ggagatcatc
+     1021 ctgccggtgc ccgctttcaa cgtgatcaac ggcggcagcc acgccggcaa caagctggcc
+     1081 atgcaggagt tcatgatcct gcccaccggc gccaccagct tcacagaggc catgaagatg
+     1141 ggctccgagg tgtaccacca cctgaagaat gtgatcaagg ccaagttcgg tctggacgcc
+     1201 accgctgtgg gcgatgaggg cggcttcgcc cccaacatcc agtccaacaa ggaggctctg
+     1261 aacctgatca gcgatgccat cgccaaggcc ggatacaccg gcaagatcga gatcggcatg
+     1321 gacgtggccg cctccgagtt ctacaaggat ggccagtacg atctggactt caagaacgag
+     1381 aagagcgaca agtcgcagtg gctgcccgcc gacaagctgg ccaacctgta ccaggagttt
+     1441 attaaggact tccccatcgt ctcgattgag gatccctttg accaggacca ctgggaggcc
+     1501 tggtccaacc tgaccggctg caccgacatc cagatcgtgg gcgatgatct gaccgtgacc
+     1561 aaccccaagc gtattgccac cgccgtggag aagaaggcct gcaactgcct gctcctgaag
+     1621 gtcaaccaga tcggcaccgt caccgagtcc attgccgccc atctgctggc caagaagaac
+     1681 ggctggggca ccatggtctc ccaccgttcc ggtgagaccg aggactcgtt catcggtgac
+     1741 ctggtcgtcg gtctgtccac cggccagatc aagaccggag ctccatgccg ctcggagcgt
+     1801 ctggccaagt acaaccagat cctgcgcatc gaggaggaga tcggcgctgg cgtcaagttc
+     1861 gccggcaagt cgttcaggaa gccgcagtaa gcgcagggca cttcgaaatt ccaaccacac
+     1921 cagccccatc gaatgagatc tggatcttgg agagggagct ggacgcagta gatccatgga
+     1981 aaggcggcgg tgcacgtgtt cgtcaacctt ttacgttcgg aacttgtgtc tggcgcacaa
+     2041 atacatcaga attaaactac caaacccatt tgctgtctct atgcttcgtt cttagacatt
+     2101 attaattaat gctaaacctt gatctaatca ttatttataa acaaaagaat aaaaaacact
+     2161 atgtgcaaga tattcgttca gttgccgaga gctttgaata tcttcaatgt aatcgctgta
+     2221 atcgttatga aattataaat tgatctacac aaacacc
+//
+
+LOCUS       NM_164433               2198 bp    mRNA    linear   INV 22-APR-2020
+DEFINITION  Drosophila melanogaster enolase, transcript variant D (Eno), mRNA.
+ACCESSION   NM_164433
+VERSION     NM_164433.3
+DBLINK      BioProject: PRJNA164
+            BioSample: SAMN02803731
+KEYWORDS    RefSeq.
+SOURCE      Drosophila melanogaster (fruit fly)
+  ORGANISM  Drosophila melanogaster
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila; Sophophora.
+REFERENCE   1  (bases 1 to 2198)
+  AUTHORS   Matthews,B.B., Dos Santos,G., Crosby,M.A., Emmert,D.B., St
+            Pierre,S.E., Gramates,L.S., Zhou,P., Schroeder,A.J., Falls,K.,
+            Strelets,V., Russo,S.M. and Gelbart,W.M.
+  CONSRTM   FlyBase Consortium
+  TITLE     Gene Model Annotations for Drosophila melanogaster: Impact of
+            High-Throughput Data
+  JOURNAL   G3 (Bethesda) 5 (8), 1721-1736 (2015)
+   PUBMED   26109357
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2198)
+  AUTHORS   Crosby,M.A., Gramates,L.S., Dos Santos,G., Matthews,B.B., St
+            Pierre,S.E., Zhou,P., Schroeder,A.J., Falls,K., Emmert,D.B.,
+            Russo,S.M. and Gelbart,W.M.
+  CONSRTM   FlyBase Consortium
+  TITLE     Gene Model Annotations for Drosophila melanogaster: The
+            Rule-Benders
+  JOURNAL   G3 (Bethesda) 5 (8), 1737-1749 (2015)
+   PUBMED   26109356
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 2198)
+  AUTHORS   Hoskins,R.A., Carlson,J.W., Wan,K.H., Park,S., Mendez,I.,
+            Galle,S.E., Booth,B.W., Pfeiffer,B.D., George,R.A., Svirskas,R.,
+            Krzywinski,M., Schein,J., Accardo,M.C., Damia,E., Messina,G.,
+            Mendez-Lago,M., de Pablos,B., Demakova,O.V., Andreyeva,E.N.,
+            Boldyreva,L.V., Marra,M., Carvalho,A.B., Dimitri,P., Villasante,A.,
+            Zhimulev,I.F., Rubin,G.M., Karpen,G.H. and Celniker,S.E.
+  TITLE     The Release 6 reference sequence of the Drosophila melanogaster
+            genome
+  JOURNAL   Genome Res. 25 (3), 445-458 (2015)
+   PUBMED   25589440
+REFERENCE   4  (bases 1 to 2198)
+  AUTHORS   Hoskins,R.A., Carlson,J.W., Kennedy,C., Acevedo,D., Evans-Holm,M.,
+            Frise,E., Wan,K.H., Park,S., Mendez-Lago,M., Rossi,F.,
+            Villasante,A., Dimitri,P., Karpen,G.H. and Celniker,S.E.
+  TITLE     Sequence finishing and mapping of Drosophila melanogaster
+            heterochromatin
+  JOURNAL   Science 316 (5831), 1625-1628 (2007)
+   PUBMED   17569867
+REFERENCE   5  (bases 1 to 2198)
+  AUTHORS   Smith,C.D., Shu,S., Mungall,C.J. and Karpen,G.H.
+  TITLE     The Release 5.1 annotation of Drosophila melanogaster
+            heterochromatin
+  JOURNAL   Science 316 (5831), 1586-1591 (2007)
+   PUBMED   17569856
+  REMARK    Erratum:[Science. 2007 Sep 7;317(5843):1325]
+REFERENCE   6  (bases 1 to 2198)
+  AUTHORS   Quesneville,H., Bergman,C.M., Andrieu,O., Autard,D., Nouaud,D.,
+            Ashburner,M. and Anxolabehere,D.
+  TITLE     Combined evidence annotation of transposable elements in genome
+            sequences
+  JOURNAL   PLoS Comput. Biol. 1 (2), 166-175 (2005)
+   PUBMED   16110336
+REFERENCE   7  (bases 1 to 2198)
+  AUTHORS   Hoskins,R.A., Smith,C.D., Carlson,J.W., Carvalho,A.B., Halpern,A.,
+            Kaminker,J.S., Kennedy,C., Mungall,C.J., Sullivan,B.A.,
+            Sutton,G.G., Yasuhara,J.C., Wakimoto,B.T., Myers,E.W.,
+            Celniker,S.E., Rubin,G.M. and Karpen,G.H.
+  TITLE     Heterochromatic sequences in a Drosophila whole-genome shotgun
+            assembly
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0085 (2002)
+   PUBMED   12537574
+REFERENCE   8  (bases 1 to 2198)
+  AUTHORS   Kaminker,J.S., Bergman,C.M., Kronmiller,B., Carlson,J.,
+            Svirskas,R., Patel,S., Frise,E., Wheeler,D.A., Lewis,S.E.,
+            Rubin,G.M., Ashburner,M. and Celniker,S.E.
+  TITLE     The transposable elements of the Drosophila melanogaster
+            euchromatin: a genomics perspective
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0084 (2002)
+   PUBMED   12537573
+REFERENCE   9  (bases 1 to 2198)
+  AUTHORS   Misra,S., Crosby,M.A., Mungall,C.J., Matthews,B.B., Campbell,K.S.,
+            Hradecky,P., Huang,Y., Kaminker,J.S., Millburn,G.H., Prochnik,S.E.,
+            Smith,C.D., Tupy,J.L., Whitfied,E.J., Bayraktaroglu,L.,
+            Berman,B.P., Bettencourt,B.R., Celniker,S.E., de Grey,A.D.,
+            Drysdale,R.A., Harris,N.L., Richter,J., Russo,S., Schroeder,A.J.,
+            Shu,S.Q., Stapleton,M., Yamada,C., Ashburner,M., Gelbart,W.M.,
+            Rubin,G.M. and Lewis,S.E.
+  TITLE     Annotation of the Drosophila melanogaster euchromatic genome: a
+            systematic review
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0083 (2002)
+   PUBMED   12537572
+REFERENCE   10 (bases 1 to 2198)
+  AUTHORS   Celniker,S.E., Wheeler,D.A., Kronmiller,B., Carlson,J.W.,
+            Halpern,A., Patel,S., Adams,M., Champe,M., Dugan,S.P., Frise,E.,
+            Hodgson,A., George,R.A., Hoskins,R.A., Laverty,T., Muzny,D.M.,
+            Nelson,C.R., Pacleb,J.M., Park,S., Pfeiffer,B.D., Richards,S.,
+            Sodergren,E.J., Svirskas,R., Tabor,P.E., Wan,K., Stapleton,M.,
+            Sutton,G.G., Venter,C., Weinstock,G., Scherer,S.E., Myers,E.W.,
+            Gibbs,R.A. and Rubin,G.M.
+  TITLE     Finishing a whole-genome shotgun: release 3 of the Drosophila
+            melanogaster euchromatic genome sequence
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0079 (2002)
+   PUBMED   12537568
+REFERENCE   11 (bases 1 to 2198)
+  AUTHORS   Adams,M.D., Celniker,S.E., Holt,R.A., Evans,C.A., Gocayne,J.D.,
+            Amanatides,P.G., Scherer,S.E., Li,P.W., Hoskins,R.A., Galle,R.F.,
+            George,R.A., Lewis,S.E., Richards,S., Ashburner,M., Henderson,S.N.,
+            Sutton,G.G., Wortman,J.R., Yandell,M.D., Zhang,Q., Chen,L.X.,
+            Brandon,R.C., Rogers,Y.H., Blazej,R.G., Champe,M., Pfeiffer,B.D.,
+            Wan,K.H., Doyle,C., Baxter,E.G., Helt,G., Nelson,C.R., Gabor,G.L.,
+            Abril,J.F., Agbayani,A., An,H.J., Andrews-Pfannkoch,C., Baldwin,D.,
+            Ballew,R.M., Basu,A., Baxendale,J., Bayraktaroglu,L., Beasley,E.M.,
+            Beeson,K.Y., Benos,P.V., Berman,B.P., Bhandari,D., Bolshakov,S.,
+            Borkova,D., Botchan,M.R., Bouck,J., Brokstein,P., Brottier,P.,
+            Burtis,K.C., Busam,D.A., Butler,H., Cadieu,E., Center,A.,
+            Chandra,I., Cherry,J.M., Cawley,S., Dahlke,C., Davenport,L.B.,
+            Davies,P., de Pablos,B., Delcher,A., Deng,Z., Mays,A.D., Dew,I.,
+            Dietz,S.M., Dodson,K., Doup,L.E., Downes,M., Dugan-Rocha,S.,
+            Dunkov,B.C., Dunn,P., Durbin,K.J., Evangelista,C.C., Ferraz,C.,
+            Ferriera,S., Fleischmann,W., Fosler,C., Gabrielian,A.E., Garg,N.S.,
+            Gelbart,W.M., Glasser,K., Glodek,A., Gong,F., Gorrell,J.H., Gu,Z.,
+            Guan,P., Harris,M., Harris,N.L., Harvey,D., Heiman,T.J.,
+            Hernandez,J.R., Houck,J., Hostin,D., Houston,K.A., Howland,T.J.,
+            Wei,M.H., Ibegwam,C., Jalali,M., Kalush,F., Karpen,G.H., Ke,Z.,
+            Kennison,J.A., Ketchum,K.A., Kimmel,B.E., Kodira,C.D., Kraft,C.,
+            Kravitz,S., Kulp,D., Lai,Z., Lasko,P., Lei,Y., Levitsky,A.A.,
+            Li,J., Li,Z., Liang,Y., Lin,X., Liu,X., Mattei,B., McIntosh,T.C.,
+            McLeod,M.P., McPherson,D., Merkulov,G., Milshina,N.V., Mobarry,C.,
+            Morris,J., Moshrefi,A., Mount,S.M., Moy,M., Murphy,B., Murphy,L.,
+            Muzny,D.M., Nelson,D.L., Nelson,D.R., Nelson,K.A., Nixon,K.,
+            Nusskern,D.R., Pacleb,J.M., Palazzolo,M., Pittman,G.S., Pan,S.,
+            Pollard,J., Puri,V., Reese,M.G., Reinert,K., Remington,K.,
+            Saunders,R.D., Scheeler,F., Shen,H., Shue,B.C., Siden-Kiamos,I.,
+            Simpson,M., Skupski,M.P., Smith,T., Spier,E., Spradling,A.C.,
+            Stapleton,M., Strong,R., Sun,E., Svirskas,R., Tector,C., Turner,R.,
+            Venter,E., Wang,A.H., Wang,X., Wang,Z.Y., Wassarman,D.A.,
+            Weinstock,G.M., Weissenbach,J., Williams,S.M., WoodageT,
+            Worley,K.C., Wu,D., Yang,S., Yao,Q.A., Ye,J., Yeh,R.F.,
+            Zaveri,J.S., Zhan,M., Zhang,G., Zhao,Q., Zheng,L., Zheng,X.H.,
+            Zhong,F.N., Zhong,W., Zhou,X., Zhu,S., Zhu,X., Smith,H.O.,
+            Gibbs,R.A., Myers,E.W., Rubin,G.M. and Venter,J.C.
+  TITLE     The genome sequence of Drosophila melanogaster
+  JOURNAL   Science 287 (5461), 2185-2195 (2000)
+   PUBMED   10731132
+REFERENCE   12 (bases 1 to 2198)
+  AUTHORS   Celniker,S., Carlson,J., Wan,K., Pfeiffer,B., Frise,E., George,R.,
+            Hoskins,R., Stapleton,M., Pacleb,J., Park,S., Svirskas,R.,
+            Smith,E., Yu,C. and Rubin,G.
+  CONSRTM   Berkeley Drosophila Genome Project
+  TITLE     Drosophila melanogaster release 4 sequence
+  JOURNAL   Unpublished
+REFERENCE   13 (bases 1 to 2198)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-APR-2020) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   14 (bases 1 to 2198)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2020) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   15 (bases 1 to 2198)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-APR-2019) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   16 (bases 1 to 2198)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAY-2018) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   17 (bases 1 to 2198)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2016) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   18 (bases 1 to 2198)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-2015) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   19 (bases 1 to 2198)
+  AUTHORS   Celniker,S., Carlson,J., Kennedy,C., Wan,K., Frise,E., Hoskins,R.,
+            Park,S., Svirskas,R. and Karpen,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2006) Berkeley Drosophila Genome Project,
+            Lawrence Berkeley National Laboratory, One #Cyclotron RoadOne
+            Cyclotron Road, MS 64-121, Berkeley, CA 94720, USA
+  REMARK    Direct Submission
+REFERENCE   20 (bases 1 to 2198)
+  AUTHORS   Celniker,S., Carlson,J., Wan,K., Frise,E., Hoskins,R., Park,S.,
+            Svirskas,R. and Rubin,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2006) Berkeley Drosophila Genome Project,
+            Lawrence Berkeley National Laboratory, One Cyclotron Road, MS
+            64-121, Berkeley, CA 94720, USA
+  REMARK    Direct Submission
+REFERENCE   21 (bases 1 to 2198)
+  AUTHORS   Smith,C.D., Shu,S., Mungall,C.J. and Karpen,G.H.
+  CONSRTM   Drosophila Heterochromatin Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-AUG-2006) Drosophila Heterochromatin Genome Project,
+            Ernest Orlando Lawrence Berkeley National Laboratory, 1 Cyclotron
+            Road, Mailstop 64-121, Berkeley, CA 94720, USA
+REFERENCE   22 (bases 1 to 2198)
+  AUTHORS   Adams,M.D., Celniker,S.E., Gibbs,R.A., Rubin,G.M. and Venter,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2000) Celera Genomics, 45 West Gude Drive,
+            Rockville, MD 20850, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by FlyBase. This
+            record is derived from an annotated genomic sequence (NT_033779).
+            On Jan 16, 2013 this sequence version replaced NM_164433.2.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider :: FlyBase
+            Annotation Status   :: Full annotation
+            Annotation Version  :: Release 6.32
+            URL                 :: http://flybase.org
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2198
+                     /organism="Drosophila melanogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7227"
+                     /chromosome="2L"
+                     /genotype="y[1]; Gr22b[1] Gr22d[1] cn[1] CG33964[R4.2]
+                     bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] Rh6[1]"
+     gene            1..2198
+                     /gene="Eno"
+                     /locus_tag="Dmel_CG17654"
+                     /gene_synonym="anon-WO0153538.76; BEST:LD15491; CG17654;
+                     CT32526; Dmel\CG17654; DmENO; eno; Eno2; ENOA; T18"
+                     /note="Enolase"
+                     /map="22B1-22B1"
+                     /db_xref="FLYBASE:FBgn0000579"
+                     /db_xref="GeneID:33351"
+     CDS             329..1831
+                     /gene="Eno"
+                     /locus_tag="Dmel_CG17654"
+                     /gene_synonym="anon-WO0153538.76; BEST:LD15491; CG17654;
+                     CT32526; Dmel\CG17654; DmENO; eno; Eno2; ENOA; T18"
+                     /EC_number="4.2.1.11"
+                     /note="CG17654 gene product from transcript CG17654-RD;
+                     CG17654-PD; Eno-PD; phosphopyruvate hydratase; enolase"
+                     /codon_start=1
+                     /product="enolase, isoform D"
+                     /protein_id="NP_722723.1"
+                     /db_xref="FLYBASE:FBpp0077574"
+                     /db_xref="GeneID:33351"
+                     /db_xref="FLYBASE:FBgn0000579"
+                     /translation="MSWTASVFLRTSTTSMKFLRLRWPLPRIPQNKSANVAPRFRSKS
+                     AVSQLSSGFKFVQIRKSTCDSNEMTIKAIKARQIYDSRGNPTVEVDLTTELGLFRAAV
+                     PSGASTGVHEALELRDNDKANYHGKSVLKAVGHVNDTLGPELIKANLDVVDQASIDNF
+                     MIKLDGTENKSKFGANAILGVSLAVAKAGAAKKGVPLYKHIADLAGNKEIILPVPAFN
+                     VINGGSHAGNKLAMQEFMILPTGATSFTEAMKMGSEVYHHLKNVIKAKFGLDATAVGD
+                     EGGFAPNIQSNKEALNLISDAIAKAGYTGKIEIGMDVAASEFYKDGQYDLDFKNEKSD
+                     KSQWLPADKLANLYQEFIKDFPIVSIEDPFDQDHWEAWSNLTGCTDIQIVGDDLTVTN
+                     PKRIATAVEKKACNCLLLKVNQIGTVTESIAAHLLAKKNGWGTMVSHRSGETEDSFIG
+                     DLVVGLSTGQIKTGAPCRSERLAKYNQILRIEEEIGAGVKFAGKSFRKPQ"
+ORIGIN      
+        1 gatcagctgt gctgctataa gcataatcgt acgatttgtt aaaatccgct ttgcatttat
+       61 ttgttctaat ttatggcagc taaaaagcgt gactaaccac aaatagacat gcaatccaca
+      121 gctacgtgtg gatcccgatt actctaacct tgtgcgaagg tcaattttcc ccaaaaaata
+      181 taggaaacgt accagggaaa acaacaaaaa agggaaagcg cacccccaca ctgaaaaccg
+      241 gcgagcacct ggaaacgcat acatataaaa ggagagtaaa tatacaaatt ggtagcactt
+      301 tcgccgccgt cttttacaca ttcaagccat gtcttggacc gcttcagttt tcttgaggac
+      361 ttccaccact agcatgaagt ttctgcgtct gcgctggcct ctccccagaa ttccccagaa
+      421 taaatcggca aacgttgcgc cgcgtttcag aagcaaatca gcagtcagcc agctctcatc
+      481 tggatttaaa tttgtgcaga tccgcaaaag tacttgtgac agcaacgaga tgaccatcaa
+      541 agcgatcaag gcccgtcaaa tctacgactc ccgtggcaac cccaccgtgg aggtcgacct
+      601 gaccaccgag ctgggactct tccgagccgc cgtgccctcc ggcgcctcca ctggcgtcca
+      661 cgaggccctg gagctgcgcg acaacgacaa ggccaactac catggcaagt cggtgctgaa
+      721 ggccgtgggc catgtgaacg acaccctggg acccgagctg atcaaggcca atctggatgt
+      781 ggttgaccag gcgtccattg acaacttcat gatcaagttg gacggcaccg agaacaagag
+      841 caagttcgga gccaacgcca tcctgggcgt ttccctggcc gtggccaagg ctggagccgc
+      901 caagaagggc gtgccgctgt acaaacacat tgccgatctg gctggcaaca aggagatcat
+      961 cctgccggtg cccgctttca acgtgatcaa cggcggcagc cacgccggca acaagctggc
+     1021 catgcaggag ttcatgatcc tgcccaccgg cgccaccagc ttcacagagg ccatgaagat
+     1081 gggctccgag gtgtaccacc acctgaagaa tgtgatcaag gccaagttcg gtctggacgc
+     1141 caccgctgtg ggcgatgagg gcggcttcgc ccccaacatc cagtccaaca aggaggctct
+     1201 gaacctgatc agcgatgcca tcgccaaggc cggatacacc ggcaagatcg agatcggcat
+     1261 ggacgtggcc gcctccgagt tctacaagga tggccagtac gatctggact tcaagaacga
+     1321 gaagagcgac aagtcgcagt ggctgcccgc cgacaagctg gccaacctgt accaggagtt
+     1381 tattaaggac ttccccatcg tctcgattga ggatcccttt gaccaggacc actgggaggc
+     1441 ctggtccaac ctgaccggct gcaccgacat ccagatcgtg ggcgatgatc tgaccgtgac
+     1501 caaccccaag cgtattgcca ccgccgtgga gaagaaggcc tgcaactgcc tgctcctgaa
+     1561 ggtcaaccag atcggcaccg tcaccgagtc cattgccgcc catctgctgg ccaagaagaa
+     1621 cggctggggc accatggtct cccaccgttc cggtgagacc gaggactcgt tcatcggtga
+     1681 cctggtcgtc ggtctgtcca ccggccagat caagaccgga gctccatgcc gctcggagcg
+     1741 tctggccaag tacaaccaga tcctgcgcat cgaggaggag atcggcgctg gcgtcaagtt
+     1801 cgccggcaag tcgttcagga agccgcagta agcgcagggc acttcgaaat tccaaccaca
+     1861 ccagccccat cgaatgagat ctggatcttg gagagggagc tggacgcagt agatccatgg
+     1921 aaaggcggcg gtgcacgtgt tcgtcaacct tttacgttcg gaacttgtgt ctggcgcaca
+     1981 aatacatcag aattaaacta ccaaacccat ttgctgtctc tatgcttcgt tcttagacat
+     2041 tattaattaa tgctaaacct tgatctaatc attatttata aacaaaagaa taaaaaacac
+     2101 tatgtgcaag atattcgttc agttgccgag agctttgaat atcttcaatg taatcgctgt
+     2161 aatcgttatg aaattataaa ttgatctaca caaacacc
+//
+
+LOCUS       NM_164431               2183 bp    mRNA    linear   INV 22-APR-2020
+DEFINITION  Drosophila melanogaster enolase, transcript variant B (Eno), mRNA.
+ACCESSION   NM_164431
+VERSION     NM_164431.3
+DBLINK      BioProject: PRJNA164
+            BioSample: SAMN02803731
+KEYWORDS    RefSeq.
+SOURCE      Drosophila melanogaster (fruit fly)
+  ORGANISM  Drosophila melanogaster
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila; Sophophora.
+REFERENCE   1  (bases 1 to 2183)
+  AUTHORS   Matthews,B.B., Dos Santos,G., Crosby,M.A., Emmert,D.B., St
+            Pierre,S.E., Gramates,L.S., Zhou,P., Schroeder,A.J., Falls,K.,
+            Strelets,V., Russo,S.M. and Gelbart,W.M.
+  CONSRTM   FlyBase Consortium
+  TITLE     Gene Model Annotations for Drosophila melanogaster: Impact of
+            High-Throughput Data
+  JOURNAL   G3 (Bethesda) 5 (8), 1721-1736 (2015)
+   PUBMED   26109357
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2183)
+  AUTHORS   Crosby,M.A., Gramates,L.S., Dos Santos,G., Matthews,B.B., St
+            Pierre,S.E., Zhou,P., Schroeder,A.J., Falls,K., Emmert,D.B.,
+            Russo,S.M. and Gelbart,W.M.
+  CONSRTM   FlyBase Consortium
+  TITLE     Gene Model Annotations for Drosophila melanogaster: The
+            Rule-Benders
+  JOURNAL   G3 (Bethesda) 5 (8), 1737-1749 (2015)
+   PUBMED   26109356
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 2183)
+  AUTHORS   Hoskins,R.A., Carlson,J.W., Wan,K.H., Park,S., Mendez,I.,
+            Galle,S.E., Booth,B.W., Pfeiffer,B.D., George,R.A., Svirskas,R.,
+            Krzywinski,M., Schein,J., Accardo,M.C., Damia,E., Messina,G.,
+            Mendez-Lago,M., de Pablos,B., Demakova,O.V., Andreyeva,E.N.,
+            Boldyreva,L.V., Marra,M., Carvalho,A.B., Dimitri,P., Villasante,A.,
+            Zhimulev,I.F., Rubin,G.M., Karpen,G.H. and Celniker,S.E.
+  TITLE     The Release 6 reference sequence of the Drosophila melanogaster
+            genome
+  JOURNAL   Genome Res. 25 (3), 445-458 (2015)
+   PUBMED   25589440
+REFERENCE   4  (bases 1 to 2183)
+  AUTHORS   Hoskins,R.A., Carlson,J.W., Kennedy,C., Acevedo,D., Evans-Holm,M.,
+            Frise,E., Wan,K.H., Park,S., Mendez-Lago,M., Rossi,F.,
+            Villasante,A., Dimitri,P., Karpen,G.H. and Celniker,S.E.
+  TITLE     Sequence finishing and mapping of Drosophila melanogaster
+            heterochromatin
+  JOURNAL   Science 316 (5831), 1625-1628 (2007)
+   PUBMED   17569867
+REFERENCE   5  (bases 1 to 2183)
+  AUTHORS   Smith,C.D., Shu,S., Mungall,C.J. and Karpen,G.H.
+  TITLE     The Release 5.1 annotation of Drosophila melanogaster
+            heterochromatin
+  JOURNAL   Science 316 (5831), 1586-1591 (2007)
+   PUBMED   17569856
+  REMARK    Erratum:[Science. 2007 Sep 7;317(5843):1325]
+REFERENCE   6  (bases 1 to 2183)
+  AUTHORS   Quesneville,H., Bergman,C.M., Andrieu,O., Autard,D., Nouaud,D.,
+            Ashburner,M. and Anxolabehere,D.
+  TITLE     Combined evidence annotation of transposable elements in genome
+            sequences
+  JOURNAL   PLoS Comput. Biol. 1 (2), 166-175 (2005)
+   PUBMED   16110336
+REFERENCE   7  (bases 1 to 2183)
+  AUTHORS   Hoskins,R.A., Smith,C.D., Carlson,J.W., Carvalho,A.B., Halpern,A.,
+            Kaminker,J.S., Kennedy,C., Mungall,C.J., Sullivan,B.A.,
+            Sutton,G.G., Yasuhara,J.C., Wakimoto,B.T., Myers,E.W.,
+            Celniker,S.E., Rubin,G.M. and Karpen,G.H.
+  TITLE     Heterochromatic sequences in a Drosophila whole-genome shotgun
+            assembly
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0085 (2002)
+   PUBMED   12537574
+REFERENCE   8  (bases 1 to 2183)
+  AUTHORS   Kaminker,J.S., Bergman,C.M., Kronmiller,B., Carlson,J.,
+            Svirskas,R., Patel,S., Frise,E., Wheeler,D.A., Lewis,S.E.,
+            Rubin,G.M., Ashburner,M. and Celniker,S.E.
+  TITLE     The transposable elements of the Drosophila melanogaster
+            euchromatin: a genomics perspective
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0084 (2002)
+   PUBMED   12537573
+REFERENCE   9  (bases 1 to 2183)
+  AUTHORS   Misra,S., Crosby,M.A., Mungall,C.J., Matthews,B.B., Campbell,K.S.,
+            Hradecky,P., Huang,Y., Kaminker,J.S., Millburn,G.H., Prochnik,S.E.,
+            Smith,C.D., Tupy,J.L., Whitfied,E.J., Bayraktaroglu,L.,
+            Berman,B.P., Bettencourt,B.R., Celniker,S.E., de Grey,A.D.,
+            Drysdale,R.A., Harris,N.L., Richter,J., Russo,S., Schroeder,A.J.,
+            Shu,S.Q., Stapleton,M., Yamada,C., Ashburner,M., Gelbart,W.M.,
+            Rubin,G.M. and Lewis,S.E.
+  TITLE     Annotation of the Drosophila melanogaster euchromatic genome: a
+            systematic review
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0083 (2002)
+   PUBMED   12537572
+REFERENCE   10 (bases 1 to 2183)
+  AUTHORS   Celniker,S.E., Wheeler,D.A., Kronmiller,B., Carlson,J.W.,
+            Halpern,A., Patel,S., Adams,M., Champe,M., Dugan,S.P., Frise,E.,
+            Hodgson,A., George,R.A., Hoskins,R.A., Laverty,T., Muzny,D.M.,
+            Nelson,C.R., Pacleb,J.M., Park,S., Pfeiffer,B.D., Richards,S.,
+            Sodergren,E.J., Svirskas,R., Tabor,P.E., Wan,K., Stapleton,M.,
+            Sutton,G.G., Venter,C., Weinstock,G., Scherer,S.E., Myers,E.W.,
+            Gibbs,R.A. and Rubin,G.M.
+  TITLE     Finishing a whole-genome shotgun: release 3 of the Drosophila
+            melanogaster euchromatic genome sequence
+  JOURNAL   Genome Biol. 3 (12), RESEARCH0079 (2002)
+   PUBMED   12537568
+REFERENCE   11 (bases 1 to 2183)
+  AUTHORS   Adams,M.D., Celniker,S.E., Holt,R.A., Evans,C.A., Gocayne,J.D.,
+            Amanatides,P.G., Scherer,S.E., Li,P.W., Hoskins,R.A., Galle,R.F.,
+            George,R.A., Lewis,S.E., Richards,S., Ashburner,M., Henderson,S.N.,
+            Sutton,G.G., Wortman,J.R., Yandell,M.D., Zhang,Q., Chen,L.X.,
+            Brandon,R.C., Rogers,Y.H., Blazej,R.G., Champe,M., Pfeiffer,B.D.,
+            Wan,K.H., Doyle,C., Baxter,E.G., Helt,G., Nelson,C.R., Gabor,G.L.,
+            Abril,J.F., Agbayani,A., An,H.J., Andrews-Pfannkoch,C., Baldwin,D.,
+            Ballew,R.M., Basu,A., Baxendale,J., Bayraktaroglu,L., Beasley,E.M.,
+            Beeson,K.Y., Benos,P.V., Berman,B.P., Bhandari,D., Bolshakov,S.,
+            Borkova,D., Botchan,M.R., Bouck,J., Brokstein,P., Brottier,P.,
+            Burtis,K.C., Busam,D.A., Butler,H., Cadieu,E., Center,A.,
+            Chandra,I., Cherry,J.M., Cawley,S., Dahlke,C., Davenport,L.B.,
+            Davies,P., de Pablos,B., Delcher,A., Deng,Z., Mays,A.D., Dew,I.,
+            Dietz,S.M., Dodson,K., Doup,L.E., Downes,M., Dugan-Rocha,S.,
+            Dunkov,B.C., Dunn,P., Durbin,K.J., Evangelista,C.C., Ferraz,C.,
+            Ferriera,S., Fleischmann,W., Fosler,C., Gabrielian,A.E., Garg,N.S.,
+            Gelbart,W.M., Glasser,K., Glodek,A., Gong,F., Gorrell,J.H., Gu,Z.,
+            Guan,P., Harris,M., Harris,N.L., Harvey,D., Heiman,T.J.,
+            Hernandez,J.R., Houck,J., Hostin,D., Houston,K.A., Howland,T.J.,
+            Wei,M.H., Ibegwam,C., Jalali,M., Kalush,F., Karpen,G.H., Ke,Z.,
+            Kennison,J.A., Ketchum,K.A., Kimmel,B.E., Kodira,C.D., Kraft,C.,
+            Kravitz,S., Kulp,D., Lai,Z., Lasko,P., Lei,Y., Levitsky,A.A.,
+            Li,J., Li,Z., Liang,Y., Lin,X., Liu,X., Mattei,B., McIntosh,T.C.,
+            McLeod,M.P., McPherson,D., Merkulov,G., Milshina,N.V., Mobarry,C.,
+            Morris,J., Moshrefi,A., Mount,S.M., Moy,M., Murphy,B., Murphy,L.,
+            Muzny,D.M., Nelson,D.L., Nelson,D.R., Nelson,K.A., Nixon,K.,
+            Nusskern,D.R., Pacleb,J.M., Palazzolo,M., Pittman,G.S., Pan,S.,
+            Pollard,J., Puri,V., Reese,M.G., Reinert,K., Remington,K.,
+            Saunders,R.D., Scheeler,F., Shen,H., Shue,B.C., Siden-Kiamos,I.,
+            Simpson,M., Skupski,M.P., Smith,T., Spier,E., Spradling,A.C.,
+            Stapleton,M., Strong,R., Sun,E., Svirskas,R., Tector,C., Turner,R.,
+            Venter,E., Wang,A.H., Wang,X., Wang,Z.Y., Wassarman,D.A.,
+            Weinstock,G.M., Weissenbach,J., Williams,S.M., WoodageT,
+            Worley,K.C., Wu,D., Yang,S., Yao,Q.A., Ye,J., Yeh,R.F.,
+            Zaveri,J.S., Zhan,M., Zhang,G., Zhao,Q., Zheng,L., Zheng,X.H.,
+            Zhong,F.N., Zhong,W., Zhou,X., Zhu,S., Zhu,X., Smith,H.O.,
+            Gibbs,R.A., Myers,E.W., Rubin,G.M. and Venter,J.C.
+  TITLE     The genome sequence of Drosophila melanogaster
+  JOURNAL   Science 287 (5461), 2185-2195 (2000)
+   PUBMED   10731132
+REFERENCE   12 (bases 1 to 2183)
+  AUTHORS   Celniker,S., Carlson,J., Wan,K., Pfeiffer,B., Frise,E., George,R.,
+            Hoskins,R., Stapleton,M., Pacleb,J., Park,S., Svirskas,R.,
+            Smith,E., Yu,C. and Rubin,G.
+  CONSRTM   Berkeley Drosophila Genome Project
+  TITLE     Drosophila melanogaster release 4 sequence
+  JOURNAL   Unpublished
+REFERENCE   13 (bases 1 to 2183)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-APR-2020) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   14 (bases 1 to 2183)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2020) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   15 (bases 1 to 2183)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-APR-2019) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   16 (bases 1 to 2183)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAY-2018) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   17 (bases 1 to 2183)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2016) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   18 (bases 1 to 2183)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-2015) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   19 (bases 1 to 2183)
+  AUTHORS   Celniker,S., Carlson,J., Kennedy,C., Wan,K., Frise,E., Hoskins,R.,
+            Park,S., Svirskas,R. and Karpen,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2006) Berkeley Drosophila Genome Project,
+            Lawrence Berkeley National Laboratory, One #Cyclotron RoadOne
+            Cyclotron Road, MS 64-121, Berkeley, CA 94720, USA
+  REMARK    Direct Submission
+REFERENCE   20 (bases 1 to 2183)
+  AUTHORS   Celniker,S., Carlson,J., Wan,K., Frise,E., Hoskins,R., Park,S.,
+            Svirskas,R. and Rubin,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2006) Berkeley Drosophila Genome Project,
+            Lawrence Berkeley National Laboratory, One Cyclotron Road, MS
+            64-121, Berkeley, CA 94720, USA
+  REMARK    Direct Submission
+REFERENCE   21 (bases 1 to 2183)
+  AUTHORS   Smith,C.D., Shu,S., Mungall,C.J. and Karpen,G.H.
+  CONSRTM   Drosophila Heterochromatin Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-AUG-2006) Drosophila Heterochromatin Genome Project,
+            Ernest Orlando Lawrence Berkeley National Laboratory, 1 Cyclotron
+            Road, Mailstop 64-121, Berkeley, CA 94720, USA
+REFERENCE   22 (bases 1 to 2183)
+  AUTHORS   Adams,M.D., Celniker,S.E., Gibbs,R.A., Rubin,G.M. and Venter,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2000) Celera Genomics, 45 West Gude Drive,
+            Rockville, MD 20850, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by FlyBase. This
+            record is derived from an annotated genomic sequence (NT_033779).
+            On Jan 16, 2013 this sequence version replaced NM_164431.2.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider :: FlyBase
+            Annotation Status   :: Full annotation
+            Annotation Version  :: Release 6.32
+            URL                 :: http://flybase.org
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2183
+                     /organism="Drosophila melanogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7227"
+                     /chromosome="2L"
+                     /genotype="y[1]; Gr22b[1] Gr22d[1] cn[1] CG33964[R4.2]
+                     bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] Rh6[1]"
+     gene            1..2183
+                     /gene="Eno"
+                     /locus_tag="Dmel_CG17654"
+                     /gene_synonym="anon-WO0153538.76; BEST:LD15491; CG17654;
+                     CT32526; Dmel\CG17654; DmENO; eno; Eno2; ENOA; T18"
+                     /note="Enolase"
+                     /map="22B1-22B1"
+                     /db_xref="FLYBASE:FBgn0000579"
+                     /db_xref="GeneID:33351"
+     CDS             314..1816
+                     /gene="Eno"
+                     /locus_tag="Dmel_CG17654"
+                     /gene_synonym="anon-WO0153538.76; BEST:LD15491; CG17654;
+                     CT32526; Dmel\CG17654; DmENO; eno; Eno2; ENOA; T18"
+                     /EC_number="4.2.1.11"
+                     /note="CG17654 gene product from transcript CG17654-RB;
+                     CG17654-PB; Eno-PB; phosphopyruvate hydratase; enolase"
+                     /codon_start=1
+                     /product="enolase, isoform B"
+                     /protein_id="NP_722721.1"
+                     /db_xref="FLYBASE:FBpp0077571"
+                     /db_xref="GeneID:33351"
+                     /db_xref="FLYBASE:FBgn0000579"
+                     /translation="MSWTASVFLRTSTTSMKFLRLRWPLPRIPQNKSANVAPRFRSKS
+                     AVSQLSSGFKFVQIRKSTCDSNEMTIKAIKARQIYDSRGNPTVEVDLTTELGLFRAAV
+                     PSGASTGVHEALELRDNDKANYHGKSVLKAVGHVNDTLGPELIKANLDVVDQASIDNF
+                     MIKLDGTENKSKFGANAILGVSLAVAKAGAAKKGVPLYKHIADLAGNKEIILPVPAFN
+                     VINGGSHAGNKLAMQEFMILPTGATSFTEAMKMGSEVYHHLKNVIKAKFGLDATAVGD
+                     EGGFAPNIQSNKEALNLISDAIAKAGYTGKIEIGMDVAASEFYKDGQYDLDFKNEKSD
+                     KSQWLPADKLANLYQEFIKDFPIVSIEDPFDQDHWEAWSNLTGCTDIQIVGDDLTVTN
+                     PKRIATAVEKKACNCLLLKVNQIGTVTESIAAHLLAKKNGWGTMVSHRSGETEDSFIG
+                     DLVVGLSTGQIKTGAPCRSERLAKYNQILRIEEEIGAGVKFAGKSFRKPQ"
+ORIGIN      
+        1 agggcttcca acacactgcc tttgcgccaa cattcacatc aaaattcaac cccatcagtt
+       61 tggctaacca tttcttttta tataaaaata gacatgcaat ccacagctac gtgtggatcc
+      121 cgattactct aaccttgtgc gaaggtcaat tttccccaaa aaatatagga aacgtaccag
+      181 ggaaaacaac aaaaaaggga aagcgcaccc ccacactgaa aaccggcgag cacctggaaa
+      241 cgcatacata taaaaggaga gtaaatatac aaattggtag cactttcgcc gccgtctttt
+      301 acacattcaa gccatgtctt ggaccgcttc agttttcttg aggacttcca ccactagcat
+      361 gaagtttctg cgtctgcgct ggcctctccc cagaattccc cagaataaat cggcaaacgt
+      421 tgcgccgcgt ttcagaagca aatcagcagt cagccagctc tcatctggat ttaaatttgt
+      481 gcagatccgc aaaagtactt gtgacagcaa cgagatgacc atcaaagcga tcaaggcccg
+      541 tcaaatctac gactcccgtg gcaaccccac cgtggaggtc gacctgacca ccgagctggg
+      601 actcttccga gccgccgtgc cctccggcgc ctccactggc gtccacgagg ccctggagct
+      661 gcgcgacaac gacaaggcca actaccatgg caagtcggtg ctgaaggccg tgggccatgt
+      721 gaacgacacc ctgggacccg agctgatcaa ggccaatctg gatgtggttg accaggcgtc
+      781 cattgacaac ttcatgatca agttggacgg caccgagaac aagagcaagt tcggagccaa
+      841 cgccatcctg ggcgtttccc tggccgtggc caaggctgga gccgccaaga agggcgtgcc
+      901 gctgtacaaa cacattgccg atctggctgg caacaaggag atcatcctgc cggtgcccgc
+      961 tttcaacgtg atcaacggcg gcagccacgc cggcaacaag ctggccatgc aggagttcat
+     1021 gatcctgccc accggcgcca ccagcttcac agaggccatg aagatgggct ccgaggtgta
+     1081 ccaccacctg aagaatgtga tcaaggccaa gttcggtctg gacgccaccg ctgtgggcga
+     1141 tgagggcggc ttcgccccca acatccagtc caacaaggag gctctgaacc tgatcagcga
+     1201 tgccatcgcc aaggccggat acaccggcaa gatcgagatc ggcatggacg tggccgcctc
+     1261 cgagttctac aaggatggcc agtacgatct ggacttcaag aacgagaaga gcgacaagtc
+     1321 gcagtggctg cccgccgaca agctggccaa cctgtaccag gagtttatta aggacttccc
+     1381 catcgtctcg attgaggatc cctttgacca ggaccactgg gaggcctggt ccaacctgac
+     1441 cggctgcacc gacatccaga tcgtgggcga tgatctgacc gtgaccaacc ccaagcgtat
+     1501 tgccaccgcc gtggagaaga aggcctgcaa ctgcctgctc ctgaaggtca accagatcgg
+     1561 caccgtcacc gagtccattg ccgcccatct gctggccaag aagaacggct ggggcaccat
+     1621 ggtctcccac cgttccggtg agaccgagga ctcgttcatc ggtgacctgg tcgtcggtct
+     1681 gtccaccggc cagatcaaga ccggagctcc atgccgctcg gagcgtctgg ccaagtacaa
+     1741 ccagatcctg cgcatcgagg aggagatcgg cgctggcgtc aagttcgccg gcaagtcgtt
+     1801 caggaagccg cagtaagcgc agggcacttc gaaattccaa ccacaccagc cccatcgaat
+     1861 gagatctgga tcttggagag ggagctggac gcagtagatc catggaaagg cggcggtgca
+     1921 cgtgttcgtc aaccttttac gttcggaact tgtgtctggc gcacaaatac atcagaatta
+     1981 aactaccaaa cccatttgct gtctctatgc ttcgttctta gacattatta attaatgcta
+     2041 aaccttgatc taatcattat ttataaacaa aagaataaaa aacactatgt gcaagatatt
+     2101 cgttcagttg ccgagagctt tgaatatctt caatgtaatc gctgtaatcg ttatgaaatt
+     2161 ataaattgat ctacacaaac acc
+//
+
+LOCUS       XM_046082301            2169 bp    mRNA    linear   PLN 28-JAN-2022
+DEFINITION  Aspergillus melleus phosphopyruvate hydratase (ENO1), mRNA.
+ACCESSION   XM_046082301
+VERSION     XM_046082301.1
+DBLINK      BioProject: PRJNA801198
+            BioSample: SAMN16825490
+KEYWORDS    RefSeq.
+SOURCE      Aspergillus melleus
+  ORGANISM  Aspergillus melleus
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Eurotiomycetes; Eurotiomycetidae; Eurotiales; Aspergillaceae;
+            Aspergillus.
+REFERENCE   1  (bases 1 to 2169)
+  AUTHORS   Gil-Serna,J., Vazquez,C. and Patino,B.
+  TITLE     The Genomic Regions That Contain Ochratoxin A Biosynthetic Genes
+            Widely Differ in Aspergillus Section Circumdati Species
+  JOURNAL   Toxins (Basel) 12 (12), E754 (2020)
+   PUBMED   33260416
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2169)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JAN-2022) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 2169)
+  AUTHORS   Gil-Serna,J., Vazquez,C. and Patino,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-NOV-2020) Genetics, Physiology and Microbiology,
+            University Complutense of Madrid, Jose Antonio Novais 12, Madrid,
+            Madrid 28040, Spain
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NW_025763370).
+FEATURES             Location/Qualifiers
+     source          1..2169
+                     /organism="Aspergillus melleus"
+                     /mol_type="mRNA"
+                     /strain="CBS 546.65"
+                     /host="soil"
+                     /culture_collection="CBS:546.65"
+                     /type_material="culture from neotype of Aspergillus
+                     melleus"
+                     /db_xref="taxon:138277"
+                     /chromosome="Unknown"
+                     /country="India"
+                     /collection_date="2008"
+     gene            1..2169
+                     /gene="ENO1"
+                     /locus_tag="LDX57_000656"
+                     /db_xref="GeneID:70111314"
+     CDS             514..1830
+                     /gene="ENO1"
+                     /locus_tag="LDX57_000656"
+                     /EC_number="4.2.1.11"
+                     /note="COG:G;
+                     EggNog:ENOG503NXC1"
+                     /codon_start=1
+                     /product="phosphopyruvate hydratase"
+                     /protein_id="XP_045938258.1"
+                     /db_xref="GeneID:70111314"
+                     /db_xref="InterPro:IPR000941"
+                     /db_xref="InterPro:IPR020809"
+                     /db_xref="InterPro:IPR020810"
+                     /db_xref="InterPro:IPR020811"
+                     /db_xref="InterPro:IPR029017"
+                     /db_xref="InterPro:IPR036849"
+                     /db_xref="PFAM:PF00113"
+                     /db_xref="PFAM:PF03952"
+                     /translation="MPISKIHARSVYDSRGNPTVEVDVVTETGLHRAIVPSGASTGQH
+                     EAHELRDGDKTKWGGKGVLKAVKNVNETIGPALIKENLDVKDQSKVDEFLNKLDGTAN
+                     KANLGANAILGVSLAIAKAGAAEKGVPLYAHISDLAGTKKPYVLPVPFQNVLNGGSHA
+                     GGRLAFQEFMIVPDNAPSFSEGLRQGAEVYQKLKALAKKKYGQSAGNVGDEGGVAPDI
+                     QTAEEALDLITEAIEQAGYTGKINIAMDVASSEFYKTDAKKYDLDFKNPDSDPTKWLT
+                     YEQLADLYKSLASKYPIVSIEDPFAEDDWEAWSYFYKTSDFQIVGDDLTVTNPLRIKK
+                     AIELKSCNALLLKVNQIGTLTESIQAAKDSYADNWGVMVSHRSGETEDVTIADIAVGL
+                     RSGQIKTGAPARSERLAKLNQILRIEEELGENAIYAGQKFRNSVNL"
+ORIGIN      
+        1 tgagttgtgc atccctcttc cctaccttcc tgcctatcct gctcctgcct ggctatcatg
+       61 tcaaactacc ccaccatccc actctgttta cacttgaccc ctccctcttg agcataaagt
+      121 gcacggaagt ttgatgcttc ctgcacatcg tactatgctc gagatatctg ccattcagtg
+      181 catgcatccc cactggtcac cgccccgtat ttctccccct caagctcggt caattgactg
+      241 atcggagctc tcctccacca ccatcggcgg tgatctcctc gtcatcgaat catccggctc
+      301 tctcttttcg ggtcgtcggt gaacaccatc ccaccccgct gctagtctcg tcccaacagc
+      361 catccagagc gcagttgttt tatttttttt gccccccctg gtcctttccc ccctttctat
+      421 ttattgacta tccctcccgc cttttttcca tctcttctcc aaaacttttc tggtctccct
+      481 agttcagttg actgatcaat ccagaccgtc aaaatgccca tctccaagat ccacgcccgc
+      541 tccgtctacg actctcgtgg caaccccacc gtcgaggttg acgttgtcac cgagactggc
+      601 ttgcaccgtg ctatcgttcc ctccggagct tccactggcc agcacgaggc tcacgagctc
+      661 cgtgacggtg acaagaccaa gtggggtgga aagggtgtgc tcaaggccgt caagaacgtc
+      721 aacgagacca tcggccccgc tctcatcaag gagaacctcg acgtgaagga ccagtccaag
+      781 gtcgatgagt tcctcaacaa gcttgacggc accgccaaca aggccaacct cggtgccaac
+      841 gccatcctcg gtgtcagctt ggccatcgct aaggccggtg ctgccgagaa gggcgttccc
+      901 ctctatgctc acatctccga cctggccggt accaagaagc cttacgtcct tcccgtcccc
+      961 ttccagaacg tcctgaacgg tggatcccac gccggtggcc gtctggcctt ccaggagttc
+     1021 atgatcgtcc ccgacaacgc tccctctttc tccgagggtc tccgccaggg tgccgaggtc
+     1081 taccagaagc tcaaggctct ggccaagaag aagtacggcc agtctgccgg taacgtcggt
+     1141 gacgagggtg gtgttgcccc cgatatccag accgccgagg aggctctcga cctgatcacc
+     1201 gaggccattg agcaggccgg ctacaccggc aagatcaaca tcgccatgga tgttgcctcg
+     1261 agcgagttct acaagaccga cgccaagaag tacgacctcg acttcaagaa ccccgacagc
+     1321 gaccccacca agtggctcac ctacgagcag ctggccgacc tgtacaagtc gctggctagc
+     1381 aagtacccca tcgtcagcat tgaggacccc ttcgctgagg atgactggga ggcctggagc
+     1441 tacttctaca agacctctga cttccagatt gttggtgatg acctgactgt caccaaccct
+     1501 ctccgtatca agaaggccat cgagctcaag tcttgcaacg ccctcctcct caaggtcaac
+     1561 cagatcggta ctctcaccga gtccatccag gccgccaagg actcctacgc cgacaactgg
+     1621 ggcgtcatgg tgtcccaccg ttccggtgag accgaggacg ttaccattgc cgacattgcc
+     1681 gtcggtctgc gctccggcca aatcaagacc ggtgctcctg cccgttccga gcgtctggct
+     1741 aagctcaacc agatcctccg tatcgaggag gagctgggtg agaacgccat ctacgccggc
+     1801 cagaagttcc gtaactctgt caacctgtaa atgtagccag ggatcttgcg gaccacaccc
+     1861 tttccttccc gggaccaacc gagtgtattc cccccgggct gtttcatact tcacaatttt
+     1921 gactgctagg cagctttgtt gggttggaac aaactgcaaa agtaccatcg cagatgacta
+     1981 tttgatcaag atttatgatg acgaattgat aagccaactc tacaggctat ataatgaaga
+     2041 aaagaaattg cagttaaaac tctggcggaa ttgtgtgtag gagtgtagat tgttgtagat
+     2101 ttagatttac ataacacagt acggacttgc gcaggatgac agtgttgagg gcgggactga
+     2161 aatatcggg
+//
+
+LOCUS       XM_024470490            2098 bp    mRNA    linear   PLN 27-MAR-2018
+DEFINITION  Pseudogymnoascus destructans phosphopyruvate hydratase (ENO1),
+            mRNA.
+ACCESSION   XM_024470490
+VERSION     XM_024470490.1
+DBLINK      BioProject: PRJNA342683
+            BioSample: SAMN03382554
+KEYWORDS    RefSeq.
+SOURCE      Pseudogymnoascus destructans
+  ORGANISM  Pseudogymnoascus destructans
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Leotiomycetes; Leotiomycetes incertae sedis; Pseudeurotiaceae;
+            Pseudogymnoascus.
+REFERENCE   1  (bases 1 to 2098)
+  AUTHORS   Palmer,J.M., Drees,K.P., Foster,J.T. and Lindner,D.L.
+  TITLE     Updated assembly of Pseudogymnoascus destructans, the fungus
+            causing white-nose syndrome of bats
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2098)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2018) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 2098)
+  AUTHORS   Palmer,J.M., Drees,K.P., Foster,J.T. and Lindner,D.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-MAR-2016) Center for Forest Mycology Research, US
+            Forest Service, One Gifford Pinchot Drive, Madison, WI 53726, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NW_020167536).
+FEATURES             Location/Qualifiers
+     source          1..2098
+                     /organism="Pseudogymnoascus destructans"
+                     /mol_type="mRNA"
+                     /strain="20631-21"
+                     /host="Myotis lucifugus"
+                     /type_material="culture from type material of
+                     Pseudogymnoascus destructans"
+                     /db_xref="taxon:655981"
+                     /chromosome="Unknown"
+                     /mating_type="MAT1-1"
+                     /country="USA: New York, Williams Hotel"
+                     /collection_date="2008"
+     gene            1..2098
+                     /gene="ENO1"
+                     /locus_tag="VC83_06906"
+                     /db_xref="GeneID:36289957"
+     CDS             431..1747
+                     /gene="ENO1"
+                     /locus_tag="VC83_06906"
+                     /note="EggNog:ENOG410PFRB;
+                     COG:G"
+                     /codon_start=1
+                     /product="phosphopyruvate hydratase"
+                     /protein_id="XP_024322241.1"
+                     /db_xref="GeneID:36289957"
+                     /db_xref="InterPro:IPR000941"
+                     /db_xref="InterPro:IPR020809"
+                     /db_xref="InterPro:IPR020810"
+                     /db_xref="InterPro:IPR020811"
+                     /db_xref="InterPro:IPR029017"
+                     /db_xref="InterPro:IPR029065"
+                     /db_xref="PFAM:PF00113"
+                     /db_xref="PFAM:PF03952"
+                     /translation="MPITKVHARQVYDSRGNPTVEVDVVTETGLHRAIVPSGASTGQH
+                     EACELRDGDKTKWRGKGVLKAVENVNSIIGPELIKKNVDVKDQKSIDDFLVELDGTTN
+                     KTKLGANAILGVSLAIAKAGAAEKGIPLYAHVSDLAGTKKPYVLPVPFQNVLNGGSHA
+                     GGRLAFQEFMIVPSQAPSFSEGMRWGSEVYHTLKTLAVKKYGQSAGNVGDEGGVAPDI
+                     ETAEEALELITDAIKEAGYEGRMKIAMDVASSEFYKEDAKKYDLDFKNPNSDPAKWIS
+                     YEQLADLYKKLAETYPIVSIEDPFAEDDWEAWSYFYKTSDFQIVGDDLTVTNPIRIKK
+                     AIELKSCNALLLKVNQIGTLTESIQAAKDSFAAGWGVMVSHRSGETEDVTIADIVVGL
+                     RAGQIKTGAPARGERLAKLNQILRIEEELGDKAIYAGENFRTSVNL"
+ORIGIN      
+        1 taacaagttt accaatttaa caagtttaac aagtttaaca agtttaacag ttagtttagg
+       61 tatgatactc caaatggcaa ggctggcgag gctggcttgg ctataccacc acccaccacc
+      121 acaccacagt aaagagtact ttcaaccata tggcattcca ccactattcc aatgtactcc
+      181 caacctatga cggtagactt cgttgctgtt ccagctcgtg gcccaatgaa aagctttaga
+      241 gctccgaccc cgcctcgctc acctcaccac ccaactcaac tcaactctcc taatctcgtc
+      301 ccatcccacc aaaacaccca tctcccccct cccaaaaatc aacaaatcat cctatcctag
+      361 caaagaaaac aaagaaaact tcaaagaaga tctctcacct tcccatcaag ataataaaaa
+      421 acgcgtcatt atgcctatca ccaaggtcca cgctcgtcag gtctacgact ctcgtggaaa
+      481 cccaaccgtc gaggttgacg ttgtcactga gaccggtctc caccgtgcca ttgtcccttc
+      541 gggagcttcc actggccagc acgaggcatg cgagctccgt gatggagaca agaccaagtg
+      601 gcgcggaaag ggtgtcttga aggctgttga gaacgtcaac tccatcattg gcccggagtt
+      661 gatcaagaag aacgtcgatg tcaaggacca gaagtccatt gatgacttcc tcgtcgagct
+      721 tgatggcacc accaacaaga ccaagttggg cgccaacgcc atccttggtg tctctttggc
+      781 cattgccaag gccggtgctg ctgagaaggg catcccactt tacgcccacg tttccgatct
+      841 tgctggcacc aagaagccat acgtcctccc cgtcccattc cagaacgtcc ttaacggagg
+      901 ttcccacgcc ggtggccgtc tcgctttcca ggagttcatg atcgtcccat cgcaggcacc
+      961 ttccttctcc gagggtatgc gctggggatc tgaggtgtac cacaccttga agaccctcgc
+     1021 cgtcaagaag tacggccagt ccgccggaaa cgtgggtgat gagggtggtg tcgcaccaga
+     1081 tatcgagact gccgaggagg ctcttgagct catcactgat gccatcaagg aggccggtta
+     1141 cgagggcagg atgaagatcg ccatggacgt tgcgtccagc gagttctaca aggaggacgc
+     1201 caagaagtac gatttggact tcaagaaccc caacagcgat cccgccaagt ggatcagcta
+     1261 cgagcagctt gccgacctct acaagaagct tgctgagacc taccccatcg tcagcatcga
+     1321 ggacccattc gctgaggacg actgggaggc gtggagctac ttctacaaga cctccgactt
+     1381 ccagattgtc ggtgatgact tgaccgtcac caaccccatc cgcatcaaga aggccatcga
+     1441 gctcaagtct tgcaacgccc tcctcctcaa ggtcaaccag attggtaccc tcaccgagtc
+     1501 gatccaggcc gccaaggact ccttcgccgc cggctggggc gtcatggtct cgcacagatc
+     1561 aggtgagaca gaggatgtca ccattgccga catcgttgtc ggtctccgcg ctggtcaaat
+     1621 caagactggt gccccggccc gtggcgagcg cctggccaag ctcaaccaga tcctccgtat
+     1681 cgaggaggag cttggtgaca aggccatcta cgccggcgag aacttcagaa cctcggtcaa
+     1741 cttgtagatt gttgagcggt cccattttgt tgtgttcttg tgagcgatga tggaatggga
+     1801 tggaatggga tgggacacgg gtatagggta tactcatata gttgcttgct aggtatagcc
+     1861 ctgaaccaat caaagattgt tagttgctgg tcgatttaga aaccgtgatt catactagta
+     1921 cggcagtcac tcagggttac aatcaacaag ccagtcactc agtcactcag tcattcagtt
+     1981 acgagataga ttctatcagc ttaaatagcc agtaggtagt gtagtgtagc ccccgtcaga
+     2041 cgagtagtag ttatccttga gttgactggt cataagtaaa atattgctta tattgaca
+//
+
+LOCUS       NM_129209               2003 bp    mRNA    linear   PLN 14-FEB-2019
+DEFINITION  Arabidopsis thaliana Enolase (LOS2), mRNA.
+ACCESSION   NM_129209
+VERSION     NM_129209.4
+DBLINK      BioProject: PRJNA116
+            BioSample: SAMN03081427
+KEYWORDS    RefSeq.
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (bases 1 to 2003)
+  AUTHORS   Lin,X., Kaul,S., Rounsley,S., Shea,T.P., Benito,M.I., Town,C.D.,
+            Fujii,C.Y., Mason,T., Bowman,C.L., Barnstead,M., Feldblyum,T.V.,
+            Buell,C.R., Ketchum,K.A., Lee,J., Ronning,C.M., Koo,H.L.,
+            Moffat,K.S., Cronin,L.A., Shen,M., Pai,G., Van Aken,S., Umayam,L.,
+            Tallon,L.J., Gill,J.E., Adams,M.D., Carrera,A.J., Creasy,T.H.,
+            Goodman,H.M., Somerville,C.R., Copenhaver,G.P., Preuss,D.,
+            Nierman,W.C., White,O., Eisen,J.A., Salzberg,S.L., Fraser,C.M. and
+            Venter,J.C.
+  TITLE     Sequence and analysis of chromosome 2 of the plant Arabidopsis
+            thaliana
+  JOURNAL   Nature 402 (6763), 761-768 (1999)
+   PUBMED   10617197
+REFERENCE   2  (bases 1 to 2003)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2019) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 2003)
+  AUTHORS   Krishnakumar,V., Cheng,C.-Y., Chan,A.P., Schobel,S., Kim,M.,
+            Ferlanti,E.S., Belyaeva,I., Rosen,B.D., Micklem,G., Miller,J.R.,
+            Vaughn,M. and Town,C.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2016) Plant Genomics, J. Craig Venter Institute,
+            9704 Medical Center Dr, Rockville, MD 20850, USA
+  REMARK    Protein update by submitter
+REFERENCE   4  (bases 1 to 2003)
+  AUTHORS   Swarbreck,D., Lamesch,P., Wilks,C. and Huala,E.
+  CONSRTM   TAIR
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-2011) Department of Plant Biology, Carnegie
+            Institution, 260 Panama Street, Stanford, CA, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by TAIR and Araport.
+            This record is derived from an annotated genomic sequence
+            (NC_003071).
+            On Sep 12, 2016 this sequence version replaced NM_129209.3.
+FEATURES             Location/Qualifiers
+     source          1..2003
+                     /organism="Arabidopsis thaliana"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3702"
+                     /chromosome="2"
+                     /ecotype="Columbia"
+     gene            1..2003
+                     /gene="LOS2"
+                     /locus_tag="AT2G36530"
+                     /gene_synonym="cytosolic enolase; ENO2; ENOC; ENOLASE 2;
+                     F1O11.16; F1O11_16; LOW EXPRESSION OF OSMOTICALLY
+                     RESPONSIVE GENES 2"
+                     /note="Involved in light-dependent cold tolerance and
+                     encodes an enolase. Protein is tyrosine-phosphorylated and
+                     its phosphorylation state is modulated in response to ABA
+                     in Arabidopsis thaliana seeds."
+                     /db_xref="Araport:AT2G36530"
+                     /db_xref="GeneID:818226"
+                     /db_xref="TAIR:AT2G36530"
+     CDS             344..1678
+                     /gene="LOS2"
+                     /locus_tag="AT2G36530"
+                     /gene_synonym="cytosolic enolase; ENO2; ENOC; ENOLASE 2;
+                     F1O11.16; F1O11_16; LOW EXPRESSION OF OSMOTICALLY
+                     RESPONSIVE GENES 2"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:AV538929.1,INSD:EH957456.1,INSD:ES208877.1,
+                     INSD:EL273781.1,INSD:BP631969.1,INSD:BP590280.1,
+                     INSD:BE522389.1,INSD:ES070878.1,INSD:AV818723.1,
+                     INSD:BE525551.1,INSD:ES006806.1,INSD:DR182726.1,
+                     INSD:AV518771.1,INSD:BP856098.1,INSD:BP802627.1,
+                     INSD:AV547969.1,INSD:DR182696.1,INSD:ES115598.1,
+                     INSD:BP821129.1,INSD:AV550212.1,INSD:DR182723.1,
+                     INSD:AV538710.1,INSD:AV829902.1,INSD:BP657246.1,
+                     INSD:DR340225.1,INSD:ES085413.1,INSD:DR378018.1,
+                     INSD:AV541341.1,INSD:DR259057.1,INSD:DR182727.1,
+                     INSD:DR182710.1,INSD:CB253491.1,INSD:ES086323.1,
+                     INSD:BP595342.1,INSD:BP780792.1,INSD:CK119331.1,
+                     INSD:R30130.1,INSD:Z17960.1,INSD:AV553398.1,
+                     INSD:EL047145.1,INSD:DR182680.1,INSD:BP669119.1,
+                     INSD:AV787526.1,INSD:BP629739.1,INSD:EL333389.1,
+                     INSD:AV539893.1,INSD:BP572450.1,INSD:DR182717.1,
+                     INSD:T43434.1,INSD:ES127893.1,INSD:AV520656.1,
+                     INSD:BP609805.1,INSD:AV536195.1,INSD:ES072579.1,
+                     INSD:DR182732.1,INSD:CB252589.1,INSD:AV540698.1,
+                     INSD:BP581725.1,INSD:BP592934.1,INSD:EL290165.1,
+                     INSD:AV786286.1,INSD:AA605344.1,INSD:AV543259.1,
+                     INSD:DR182722.1,INSD:EH931937.1,INSD:BP566594.1,
+                     INSD:AV538065.1,INSD:DR182684.1,INSD:DR382246.1,
+                     INSD:BP631447.1,INSD:BP580733.1,INSD:ES142540.1,
+                     INSD:AV810663.1,INSD:EL297998.1,INSD:ES181010.1,
+                     INSD:T20418.1,INSD:AV802016.1,INSD:DR182721.1,
+                     INSD:BP802522.1,INSD:EL171391.1,INSD:BP626569.1,
+                     INSD:BP846354.1,INSD:ES025810.1,INSD:T45264.1,
+                     INSD:ES044542.1,INSD:DR303030.1,INSD:AV565741.1,
+                     INSD:EH943934.1,INSD:BP787307.1,INSD:AV536648.1,
+                     INSD:ES171049.1,INSD:BE844800.1,INSD:AV566442.1,
+                     INSD:AV527651.1,INSD:DR371969.1,INSD:ES106788.1,
+                     INSD:AV538059.1,INSD:AV790609.1,INSD:EL036880.1,
+                     INSD:EL250215.1,INSD:AV536525.1,INSD:CB185777.2,
+                     INSD:AV561421.1,INSD:CB255734.1,INSD:BP582724.1,
+                     INSD:DR182697.1,INSD:EL106745.1,INSD:CB074266.1,
+                     INSD:BP631131.1,INSD:EL156192.1,INSD:EL973979.1,
+                     INSD:AV799405.1,INSD:DR182695.1,INSD:BP575720.1,
+                     INSD:AV545557.1,INSD:ES151273.1,INSD:AV812854.1,
+                     INSD:ES190543.1,INSD:EL313630.1,INSD:EH812849.1,
+                     INSD:BP617899.1,INSD:DR182671.1,INSD:AV795751.1,
+                     INSD:BP576377.1,INSD:AV562272.1,INSD:EH918396.1,
+                     INSD:BP581049.1,INSD:AV826801.1,INSD:BE530513.1,
+                     INSD:AV814872.1,INSD:AV556410.1,INSD:ES147758.1,
+                     INSD:AV564770.1,INSD:DR182673.1,INSD:ES008040.1,
+                     INSD:AA721919.1,INSD:EL046560.1,INSD:BP626759.1,
+                     INSD:AV789274.1,INSD:EL213897.1,INSD:EG515163.1,
+                     INSD:AV800860.1,INSD:EL199140.1,INSD:AV808930.1,
+                     INSD:DR182701.1,INSD:AV807988.1,INSD:EL328179.1,
+                     INSD:BP590186.1,INSD:BP802298.1,INSD:EL125402.1,
+                     INSD:BP826995.1,INSD:EL230357.1,INSD:BE526835.1,
+                     INSD:AV797963.1,INSD:EL260044.1,INSD:CA781432.1,
+                     INSD:EL300555.1,INSD:EG526578.1,INSD:BP598359.1,
+                     INSD:DR182702.1,INSD:EL991327.1,INSD:DR182694.1,
+                     INSD:DR182745.1,INSD:BE522971.1,INSD:DR182713.1,
+                     INSD:EH903628.1,INSD:DR182688.1,INSD:AV811713.1,
+                     INSD:BP651784.1,INSD:ES202974.1,INSD:ES092166.1,
+                     INSD:EG526589.1,INSD:BP627360.1,INSD:BP608944.1,
+                     INSD:EL969589.1,INSD:ES151692.1,INSD:AV813233.1,
+                     INSD:AV541342.1,INSD:ES213202.1,INSD:ES072878.1,
+                     INSD:BP811325.1,INSD:ES113631.1,INSD:BP827584.1,
+                     INSD:AV809796.1,INSD:R29932.1,INSD:BP834671.1,
+                     INSD:EH897325.1,INSD:DR182692.1,INSD:DR182753.1,
+                     INSD:EH909018.1,INSD:AV797028.1,INSD:T23023.1,
+                     INSD:BP590648.1,INSD:BP668513.1,INSD:AV519189.1,
+                     INSD:AV533405.1,INSD:DR259058.1,INSD:BP777183.1,
+                     INSD:AV545734.1,INSD:BE528233.1,INSD:DR182757.1,
+                     INSD:EL208676.1,INSD:EL082319.1,INSD:EG515155.1,
+                     INSD:DR182725.1,INSD:AV517962.1,INSD:BP571594.1,
+                     INSD:EL968749.1,INSD:AV812710.1,INSD:T13752.1,
+                     INSD:AV538597.1,INSD:T76815.1,INSD:AV796283.1,
+                     INSD:AV792783.1,INSD:BP594400.1,INSD:AV540024.1,
+                     INSD:DR182670.1,INSD:EL279163.1,INSD:BP797959.1,
+                     INSD:ES004295.1,INSD:AV808227.1,INSD:BP577243.1,
+                     INSD:BE521042.1,INSD:BP595282.1,INSD:AV533446.1,
+                     INSD:DR182714.1,INSD:EH807737.1,INSD:BE529764.1,
+                     INSD:EH939616.1,INSD:AV786502.1,INSD:ES018654.1,
+                     INSD:BP867864.1,INSD:AV798568.1,INSD:BP591404.1,
+                     INSD:BP863160.1,INSD:BP563320.1,INSD:DR182747.1,
+                     INSD:DR182731.1,INSD:AV527063.1,INSD:BP850140.1,
+                     INSD:ES129607.1,INSD:EL149708.1,INSD:DR182685.1,
+                     INSD:BP606011.1,INSD:BE039005.1,INSD:DR182755.1,
+                     INSD:EL338326.1,INSD:DR182720.1,INSD:AV553878.1,
+                     INSD:BP614855.1,INSD:ES158842.1,INSD:DR182700.1,
+                     INSD:EL323594.1,INSD:EL212453.1,INSD:BP574613.1,
+                     INSD:BP663424.1,INSD:BE530327.1,INSD:EG515162.1,
+                     INSD:AV813607.1,INSD:DR182728.1,INSD:EL185590.1,
+                     INSD:EG508650.1,INSD:DR182686.1,INSD:DR182748.1,
+                     INSD:BP641520.1,INSD:EG456095.1,INSD:AV553667.1,
+                     INSD:ES207967.1,INSD:H77113.1,INSD:AV520743.1,
+                     INSD:BP622233.1,INSD:AV544962.1,INSD:AV808261.1,
+                     INSD:AV552660.1,INSD:BP661881.1,INSD:EH910036.1,
+                     INSD:CF652501.1,INSD:BP592373.1,INSD:BP816809.1,
+                     INSD:BP786681.1,INSD:AV786142.1,INSD:AV557579.1,
+                     INSD:CB254309.1,INSD:BP861381.1,INSD:DR303032.1,
+                     INSD:AA605586.1,INSD:H76234.1,INSD:BP607132.1,
+                     INSD:EG515156.1,INSD:DR182735.1,INSD:EL141001.1,
+                     INSD:ES193982.1,INSD:EL981553.1,INSD:EL188319.1,
+                     INSD:EH992692.1,INSD:AV818433.1,INSD:BP783733.1,
+                     INSD:DR182743.1,INSD:BP784795.1,INSD:AV524440.1,
+                     INSD:EL147553.1,INSD:CB254313.1,INSD:AV545765.1,
+                     INSD:AV542884.1,INSD:DR182739.1,INSD:AV797127.1,
+                     INSD:BP831646.1,INSD:AV814591.1,INSD:DR182760.1,
+                     INSD:EL248814.1,INSD:AV809138.1,INSD:DR377035.1,
+                     INSD:BP803633.1,INSD:EH853539.1,INSD:BP645040.1,
+                     INSD:AV814033.1,INSD:EL195905.1,INSD:BP596972.1,
+                     INSD:EL338756.1,INSD:EL208089.1,INSD:BP860266.1,
+                     INSD:BP566620.1,INSD:DR182761.1,INSD:EL317734.1,
+                     INSD:ES106517.1,INSD:AV544862.1,INSD:BP580887.1,
+                     INSD:AB050561.1,INSD:AV519328.1,INSD:AV541311.1,
+                     INSD:EH867819.1,INSD:AV805109.1,INSD:ES204732.1,
+                     INSD:AV799806.1,INSD:BP821037.1,INSD:DR182736.1,
+                     INSD:ES164049.1,INSD:AV550906.1,INSD:AV564597.1,
+                     INSD:AV542730.1,INSD:AV542240.1,INSD:DR182682.1,
+                     INSD:EG503837.1,INSD:AV828802.1,INSD:BP629657.1,
+                     INSD:ES006572.1,INSD:EL171947.1,INSD:AV524845.1,
+                     INSD:DR182751.1,INSD:BP828246.1,INSD:EL974620.1,
+                     INSD:DR182734.1,INSD:BP866343.1,INSD:BP585450.1,
+                     INSD:BP789610.1,INSD:EL163075.1,INSD:EH868000.1,
+                     INSD:EL167467.1,INSD:BP624014.1,INSD:AV791643.1,
+                     INSD:ES155771.1,INSD:BP856214.1,INSD:DR182740.1,
+                     INSD:ES055453.1,INSD:AV805650.1,INSD:AV554692.1,
+                     INSD:DR182668.1,INSD:BP807141.1,INSD:AV815405.1,
+                     INSD:BP633576.1,INSD:R65171.1,INSD:EL259598.1,
+                     INSD:DR182750.1,INSD:BE529916.1,INSD:AV518772.1,
+                     INSD:EH834394.1,INSD:ES092919.1,INSD:BP790948.1,
+                     INSD:DR182754.1,INSD:AV566370.1,INSD:EH942165.1,
+                     INSD:BP594864.1,INSD:CK121649.1,INSD:DR182705.1,
+                     INSD:ES204356.1,INSD:DR182681.1,INSD:DR182719.1,
+                     INSD:N97101.1,INSD:BE530075.1,INSD:EG456109.1,
+                     INSD:BP777691.1,INSD:ES170858.1,INSD:AV810902.1,
+                     INSD:BP803397.1,INSD:ES165125.1,INSD:DR182749.1,
+                     INSD:BP591838.1,INSD:AV538543.1,INSD:ES000465.1,
+                     INSD:AV811704.1,INSD:T45409.1,INSD:T21372.1,
+                     INSD:BP583080.1,INSD:EL152051.1,INSD:EG508651.1,
+                     INSD:AV815066.1,INSD:DR182669.1,INSD:BE521742.1,
+                     INSD:AV827792.2,INSD:AA720067.1,INSD:T20421.1,
+                     INSD:BP630670.1,INSD:AV553555.1,INSD:DR182709.1,
+                     INSD:EL152450.1,INSD:AV519915.1,INSD:AV527190.1,
+                     INSD:BP594116.1,INSD:DR182666.1,INSD:DR182678.1,
+                     INSD:CB256744.1,INSD:AV525520.1,INSD:AV810181.1,
+                     INSD:BP577055.1,INSD:ES152322.1,INSD:ES156619.1,
+                     INSD:BP578744.1,INSD:BE526666.1,INSD:BP658757.1,
+                     INSD:DR182704.1,INSD:ES100696.1,INSD:BP839931.1,
+                     INSD:EH971269.1,INSD:EG456110.1,INSD:EG516131.1,
+                     INSD:CF652148.1,INSD:BE527554.1,INSD:DR182690.1,
+                     INSD:BP573803.1,INSD:BP575647.1,INSD:ES029185.1,
+                     INSD:AV525629.1,INSD:ES003452.1,INSD:AV540103.1,
+                     INSD:BP575078.1,INSD:DR182691.1,INSD:ES030095.1,
+                     INSD:EL223854.1,INSD:BP604090.1,INSD:EL200505.1,
+                     INSD:DR182674.1,INSD:ES153661.1,INSD:EG515165.1,
+                     INSD:BP858799.1,INSD:BP666698.1,INSD:AV555316.1,
+                     INSD:BP570104.1,INSD:DR182759.1,INSD:EG456096.1,
+                     INSD:AV567526.1,INSD:BP840593.1,INSD:AA067475.1,
+                     INSD:AV543007.1,INSD:BP575456.1,INSD:BE522388.1,
+                     INSD:EL078099.1,INSD:BP632517.1,INSD:BP628940.1,
+                     INSD:AV547460.1,INSD:BP577599.1,INSD:BP639890.1,
+                     INSD:ES169336.1,INSD:BP864535.1,INSD:AV557285.1,
+                     INSD:DR182693.1,INSD:DR228172.1,INSD:DR376423.1,
+                     INSD:BP562335.2,INSD:DR182716.1,INSD:BP608543.1,
+                     INSD:BE522625.1,INSD:BP661065.1,INSD:DR232539.1,
+                     INSD:CK121376.1,INSD:BP611425.1,INSD:DR182708.1,
+                     INSD:EH963757.1,INSD:AV517909.1,INSD:T76420.1,
+                     INSD:AV524870.1,INSD:AV788391.1,INSD:ES108607.1,
+                     INSD:EG503836.1,INSD:DR303031.1,INSD:EL313146.1,
+                     INSD:AV818362.1,INSD:BP638805.1,INSD:DR182733.1,
+                     INSD:EG515161.1,INSD:BP659121.1,INSD:BP827167.1,
+                     INSD:BP646279.1,INSD:ES164628.1,INSD:EH851182.1,
+                     INSD:AV526773.1,INSD:CF653012.1,INSD:BP595642.1,
+                     INSD:BP791254.1,INSD:EG447646.1,INSD:EH799501.1,
+                     INSD:AV817776.1,INSD:AV564743.1,INSD:AV813357.1,
+                     INSD:BE521195.1,INSD:ES159686.1,INSD:AV815167.1,
+                     INSD:T44638.1,INSD:ES111916.1,INSD:EG424109.1,
+                     INSD:AV789426.1,INSD:AV814793.1,INSD:BP574084.1,
+                     INSD:BP620959.1,INSD:ES135588.1,INSD:ES126066.1,
+                     INSD:BP588091.1,INSD:BP619931.1,INSD:BP625754.1,
+                     INSD:DR182715.1,INSD:AV550853.1,INSD:EH884605.1,
+                     INSD:DR182756.1,INSD:DR182737.1,INSD:EL190301.1,
+                     INSD:AV560287.1,INSD:BP844780.1,INSD:EH810078.1,
+                     INSD:DR182752.1,INSD:BP568507.1,INSD:DR182758.1,
+                     INSD:AV812244.1,INSD:CF653031.1,INSD:BP626651.1,
+                     INSD:CB253617.1,INSD:EH912094.1,INSD:DR182744.1,
+                     INSD:AV815180.1,INSD:EL186331.1,INSD:AV532478.1,
+                     INSD:BP800762.1,INSD:BP653455.1,INSD:AV829898.1,
+                     INSD:AV820013.1,INSD:AV560577.1,INSD:EL329361.1,
+                     INSD:BP576917.1,INSD:CB255918.1,INSD:DR182718.1,
+                     INSD:DR182712.1,INSD:EG507287.1,INSD:DR182711.1,
+                     INSD:BP630974.1,INSD:BP561877.2,INSD:DR182730.1,
+                     INSD:DR182746.1,INSD:H37196.1,INSD:AV543309.1,
+                     INSD:EL275769.1,INSD:DR182667.1,INSD:EL278318.1,
+                     INSD:BP623708.1,INSD:BP634821.1,INSD:BP664211.1,
+                     INSD:AA597902.1,INSD:BP810610.1,INSD:CK120235.1,
+                     INSD:AV564964.1,INSD:DR182742.1,INSD:BE523196.1,
+                     INSD:DR182729.1,INSD:DR182683.1,INSD:DR182738.1,
+                     INSD:AV561357.1,INSD:BP586801.1,INSD:AA713274.1,
+                     INSD:N38617.1,INSD:Z17965.1,INSD:EL113075.1,
+                     INSD:DR182687.1,INSD:ES186180.1,INSD:DR182741.1,
+                     INSD:EL196144.1,INSD:AV812096.1,INSD:EL309867.1,
+                     INSD:ES080769.1,INSD:BP581634.1,INSD:BP649875.1,
+                     INSD:AA712903.1,INSD:EH910323.1,INSD:EH925688.1,
+                     INSD:BP619468.1,INSD:AV787549.1,INSD:BP846396.1,
+                     INSD:CK121811.1,INSD:ES119409.1,INSD:DR182703.1,
+                     INSD:AV794143.1,INSD:EL157048.1,INSD:AV562709.1,
+                     INSD:BP581228.1,INSD:AV544211.1,INSD:AV804856.1,
+                     INSD:AV806279.1,INSD:AV519851.1,INSD:BP622521.1,
+                     INSD:BE521743.1,INSD:ES161703.1,INSD:EH872392.1,
+                     INSD:BP631443.1,INSD:BE521083.1,INSD:AV543065.1,
+                     INSD:DR182706.1,INSD:EG507276.1,INSD:DR182724.1,
+                     INSD:BP817124.1"
+                     /inference="similar to RNA sequence,
+                     mRNA:INSD:AY054253.1,INSD:AK222035.1,INSD:AF428279.1,
+                     INSD:AY150418.1,INSD:AY092986.1,INSD:AF424603.1,
+                     INSD:AY072095.1"
+                     /note="LOW EXPRESSION OF OSMOTICALLY RESPONSIVE GENES 2
+                     (LOS2); FUNCTIONS IN: phosphopyruvate hydratase activity,
+                     copper ion binding; INVOLVED IN: response to cadmium ion,
+                     response to salt stress, response to cold, response to
+                     light stimulus, response to abscisic acid stimulus;
+                     LOCATED IN: in 8 components; EXPRESSED IN: 29 plant
+                     structures; EXPRESSED DURING: 15 growth stages; CONTAINS
+                     InterPro DOMAIN/s: Enolase (InterPro:IPR000941), Enolase,
+                     C-terminal (InterPro:IPR020810), Enolase, conserved site
+                     (InterPro:IPR020809), Enolase, N-terminal
+                     (InterPro:IPR020811); BEST Arabidopsis thaliana protein
+                     match is: enolase 1 (TAIR:AT1G74030.1); Has 13396 Blast
+                     hits to 13370 proteins in 3710 species: Archae - 270;
+                     Bacteria - 5735; Metazoa - 2292; Fungi - 281; Plants -
+                     265; Viruses - 0; Other Eukaryotes - 4553 (source: NCBI
+                     BLink)."
+                     /codon_start=1
+                     /product="Enolase"
+                     /protein_id="NP_181192.1"
+                     /db_xref="Araport:AT2G36530"
+                     /db_xref="GeneID:818226"
+                     /db_xref="TAIR:AT2G36530"
+                     /translation="MATITVVKARQIFDSRGNPTVEVDIHTSNGIKVTAAVPSGASTG
+                     IYEALELRDGGSDYLGKGVSKAVGNVNNIIGPALIGKDPTQQTAIDNFMVHELDGTQN
+                     EWGWCKQKLGANAILAVSLAVCKAGAVVSGIPLYKHIANLAGNPKIVLPVPAFNVING
+                     GSHAGNKLAMQEFMILPVGAASFKEAMKMGVEVYHHLKSVIKKKYGQDATNVGDEGGF
+                     APNIQENKEGLELLKTAIEKAGYTGKVVIGMDVAASEFYSEDKTYDLNFKEENNNGSQ
+                     KISGDALKDLYKSFVAEYPIVSIEDPFDQDDWEHYAKMTTECGTEVQIVGDDLLVTNP
+                     KRVAKAIAEKSCNALLLKVNQIGSVTESIEAVKMSKKAGWGVMTSHRSGETEDTFIAD
+                     LAVGLSTGQIKTGAPCRSERLAKYNQLLRIEEELGSEAIYAGVNFRKPVEPY"
+ORIGIN      
+        1 ggaaaatgga ataaaatcta gatgccatat attattctta cttgttctaa agtctttaat
+       61 aaaaatagtc ggtattactt ggacaaggag caaaacaata tggaaaaaac tcttctattc
+      121 tgcaaaaggc gtgcagcgca tcgttttggc ttcttgcatc agagctgact gttctcatcc
+      181 aacggctgtt attaaaacaa tccaacggtt ttggctaaat ccgtgacgtc tttatatatc
+      241 gaaccagacc accaacccat ttcctcagct actactgttg aagcgattct cactaaaacc
+      301 ctcgaacaca tcgcctttat ctctttctct agatctactc gctatggcta ctatcaccgt
+      361 tgttaaggct agacagatct tcgacagtcg tggtaatccc accgttgagg ttgatatcca
+      421 cacgtcaaat ggtattaagg ttacagcagc tgttccaagt ggagcttcca ctggtatcta
+      481 tgaggctctt gagctgaggg atggaggatc tgactacctt ggaaagggtg tatctaaggc
+      541 tgttggcaat gtgaacaaca tcatcgggcc agcacttatt ggaaaggacc caactcagca
+      601 gactgctatt gacaacttca tggtccatga acttgacgga acccaaaacg agtgggggtg
+      661 gtgcaagcaa aagcttggag ccaatgcgat tcttgctgtg tctcttgctg tctgcaaagc
+      721 tggggctgtt gtcagcggca ttcctctata caagcacatt gccaaccttg ctggtaaccc
+      781 caagattgtg ctaccagttc ctgccttcaa cgtcatcaat ggtggatccc atgccggaaa
+      841 caagcttgct atgcaggagt ttatgatcct ccctgttgga gctgcttctt tcaaggaagc
+      901 catgaagatg ggtgtggaag tttaccacca cttgaagtct gtgattaaga agaagtacgg
+      961 ccaggatgcc acaaatgttg gtgatgaagg tgggtttgca ccaaacattc aggagaacaa
+     1021 ggagggtctt gaattgctca agactgctat cgagaaggct ggatacactg gaaaggttgt
+     1081 cattggaatg gatgttgccg cttcagagtt ctactcagaa gacaagacct acgacttgaa
+     1141 cttcaaagaa gagaacaaca atggctctca gaagatttct ggtgatgctc taaaggacct
+     1201 gtacaagtcc tttgtcgctg agtacccaat cgtgtccatt gaggacccat ttgaccaaga
+     1261 tgactgggag cactatgcta agatgaccac tgagtgtgga accgaggttc agattgtcgg
+     1321 tgatgatttg ttggtcacta accccaagag agttgctaag gcaatcgcag agaagtcttg
+     1381 caatgctctt cttttgaagg ttaaccaaat cggatctgta accgagagta tcgaggcagt
+     1441 taagatgtcg aagaaagcag gttggggagt gatgaccagc cacagaagtg gtgaaaccga
+     1501 ggacacattc attgctgact tagccgttgg cttgtccact ggacaaatca aaaccggtgc
+     1561 tccttgcaga tccgagcgtc ttgccaagta caaccagctt ttgcgtattg aggaggagtt
+     1621 gggatcagag gcaatttacg ctggagtcaa cttccgcaaa cctgtggaac cctactaaat
+     1681 ggagctttta gaagcaaagt ggtcttcttt gtgacgagga gaagatgacc tgagtttgat
+     1741 catttgcttt aattaaataa aacgttctgt ttttgtttct tctttgtttg gtttcttacg
+     1801 tcttttgttg aacccttttt gggaaaagtt actcattttt gtaagggaaa catgagaatg
+     1861 ctctgccttt gtcgaggacg gtagcccctt atttcaatct aatttcggct ttactcttta
+     1921 atcttctcat gtgattgtta tgatctctgg tgacatacga tggagtttta acaaaaataa
+     1981 aataagttct tcattattat att
+//
+
+LOCUS       NM_128509               1993 bp    mRNA    linear   PLN 14-FEB-2019
+DEFINITION  Arabidopsis thaliana cytosolic enolase (ENOC), mRNA.
+ACCESSION   NM_128509
+VERSION     NM_128509.4
+DBLINK      BioProject: PRJNA116
+            BioSample: SAMN03081427
+KEYWORDS    RefSeq.
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (bases 1 to 1993)
+  AUTHORS   Lin,X., Kaul,S., Rounsley,S., Shea,T.P., Benito,M.I., Town,C.D.,
+            Fujii,C.Y., Mason,T., Bowman,C.L., Barnstead,M., Feldblyum,T.V.,
+            Buell,C.R., Ketchum,K.A., Lee,J., Ronning,C.M., Koo,H.L.,
+            Moffat,K.S., Cronin,L.A., Shen,M., Pai,G., Van Aken,S., Umayam,L.,
+            Tallon,L.J., Gill,J.E., Adams,M.D., Carrera,A.J., Creasy,T.H.,
+            Goodman,H.M., Somerville,C.R., Copenhaver,G.P., Preuss,D.,
+            Nierman,W.C., White,O., Eisen,J.A., Salzberg,S.L., Fraser,C.M. and
+            Venter,J.C.
+  TITLE     Sequence and analysis of chromosome 2 of the plant Arabidopsis
+            thaliana
+  JOURNAL   Nature 402 (6763), 761-768 (1999)
+   PUBMED   10617197
+REFERENCE   2  (bases 1 to 1993)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2019) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1993)
+  AUTHORS   Krishnakumar,V., Cheng,C.-Y., Chan,A.P., Schobel,S., Kim,M.,
+            Ferlanti,E.S., Belyaeva,I., Rosen,B.D., Micklem,G., Miller,J.R.,
+            Vaughn,M. and Town,C.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2016) Plant Genomics, J. Craig Venter Institute,
+            9704 Medical Center Dr, Rockville, MD 20850, USA
+  REMARK    Protein update by submitter
+REFERENCE   4  (bases 1 to 1993)
+  AUTHORS   Swarbreck,D., Lamesch,P., Wilks,C. and Huala,E.
+  CONSRTM   TAIR
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-2011) Department of Plant Biology, Carnegie
+            Institution, 260 Panama Street, Stanford, CA, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by TAIR and Araport.
+            This record is derived from an annotated genomic sequence
+            (NC_003071).
+            On Sep 12, 2016 this sequence version replaced NM_128509.3.
+FEATURES             Location/Qualifiers
+     source          1..1993
+                     /organism="Arabidopsis thaliana"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3702"
+                     /chromosome="2"
+                     /ecotype="Columbia"
+     gene            1..1993
+                     /gene="ENOC"
+                     /locus_tag="AT2G29560"
+                     /gene_synonym="cytosolic enolase; F16P2.6; F16P2_6"
+                     /note="Encodes a putative phosphoenolpyruvate enolase that
+                     is localized both to the nucleus and the cytoplasm."
+                     /db_xref="Araport:AT2G29560"
+                     /db_xref="GeneID:817505"
+                     /db_xref="TAIR:AT2G29560"
+     CDS             76..1503
+                     /gene="ENOC"
+                     /locus_tag="AT2G29560"
+                     /gene_synonym="cytosolic enolase; F16P2.6; F16P2_6"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:DR362219.1,INSD:DR362221.1,INSD:AI996172.1,
+                     INSD:EL074875.1,INSD:DR362222.1,INSD:EH992682.1,
+                     INSD:DR381097.1,INSD:DR362215.1,INSD:EL054155.1,
+                     INSD:EL060865.1,INSD:T46120.1,INSD:AV802727.1,
+                     INSD:DR362218.1,INSD:DR362217.1,INSD:EL022911.1,
+                     INSD:ES098842.1,INSD:ES071905.1,INSD:ES140743.1,
+                     INSD:EH902961.1,INSD:DR362220.1,INSD:DR362216.1,
+                     INSD:ES139230.1,INSD:T43504.1,INSD:EH807279.1,
+                     INSD:EH812165.1,INSD:EL969165.1,INSD:DR370019.1,
+                     INSD:CB255345.1,INSD:AV782093.1,INSD:T20689.1,
+                     INSD:AV821589.1,INSD:AV802667.1"
+                     /inference="similar to RNA sequence,
+                     mRNA:INSD:BX820555.1,INSD:AY035128.1,INSD:AY113918.1"
+                     /note="cytosolic enolase (ENOC); FUNCTIONS IN:
+                     phosphopyruvate hydratase activity, magnesium ion binding;
+                     INVOLVED IN: glycolysis; LOCATED IN: nucleus, cytoplasm;
+                     EXPRESSED IN: 25 plant structures; EXPRESSED DURING: 14
+                     growth stages; CONTAINS InterPro DOMAIN/s: Enolase
+                     (InterPro:IPR000941), Enolase, C-terminal
+                     (InterPro:IPR020810), Enolase, conserved site
+                     (InterPro:IPR020809), Enolase, N-terminal
+                     (InterPro:IPR020811); BEST Arabidopsis thaliana protein
+                     match is: Enolase (TAIR:AT2G36530.1); Has 13178 Blast hits
+                     to 13156 proteins in 3650 species: Archae - 272; Bacteria
+                     - 5726; Metazoa - 2098; Fungi - 281; Plants - 257; Viruses
+                     - 0; Other Eukaryotes - 4544 (source: NCBI BLink)."
+                     /codon_start=1
+                     /product="cytosolic enolase"
+                     /protein_id="NP_180516.1"
+                     /db_xref="Araport:AT2G29560"
+                     /db_xref="GeneID:817505"
+                     /db_xref="TAIR:AT2G29560"
+                     /translation="MSVQEYLDKHMLSRKIEDAVNAAVRAKTSDPVLFIANHLKKAVS
+                     SVITKVKARQILDSRGIPTVEVDLHTNKGVFRASVPSGDSSGTYEAIELRDGDKGMYL
+                     GNSVAKAVKNINEKISEALIGMDPKLQGQIDQAMIDLDKTEKKSELGANAILAVSIAA
+                     CKAGAAEKEVPLCKHLSDLSGRANMVLPVPAFTVLSGGKHASNTFAIQEIMILPIGAS
+                     RFEEALQWGSETYHHLKAVISEKNGGLGCNVGEDGGLAPDISSLKEGLELVKEAINRT
+                     GYNDKIKIAIDIAATNFCLGTKYDLDIKSPNKSGQNFKSAEDMIDMYKEICNDYPIVS
+                     IEDPFDKEDWEHTKYFSSLGICQVVGDDLLMSNSKRVERAIQESSCNALLLKVNQIGT
+                     VTEAIEVVKMARDAQWGVVTSHRCGETEDSFISDLSVGLATGVIKAGAPCRGERTMKY
+                     NQLLRIEEELGDQAVYAGEDWKLSL"
+ORIGIN      
+        1 agattcaaac ttgttcatcg aaattttgct tgaagattcg aatcgagaag tccgtggaag
+       61 aggaagaaga agaagatgtc tgtgcaagag tatttagaca agcatatgct ttctcggaaa
+      121 atcgaagacg ccgttaatgc cgccgtaagg gctaaaacct cagatcccgt tctcttcatc
+      181 gctaatcatc tgaagaaagc tgtatcatct gtgataacga aggttaaagc acgacagatc
+      241 cttgacagca gaggaattcc aacagttgaa gttgatctgc acacgaacaa aggcgttttt
+      301 cgtgcttctg ttcccagtgg tgattcttct ggaacgtatg aagctattga gctacgtgat
+      361 ggagacaaag gaatgtatct tggaaacagt gtggctaaag ctgttaagaa cataaatgaa
+      421 aaaatttctg aggcgttgat tggtatggac ccaaaacttc agggtcagat agatcaggct
+      481 atgatagatt tggataaaac tgaaaagaag agtgaacttg gtgctaatgc tatacttgct
+      541 gtgtcaattg cggcatgcaa ggctggagct gctgagaaag aggtcccttt gtgcaagcat
+      601 ctttctgatc ttagtggcag agcaaacatg gtgttacctg tacctgcgtt cactgttttg
+      661 agtggtggga agcatgcttc gaatactttt gccattcagg aaattatgat tctcccaatt
+      721 ggagcaagta gatttgagga ggccctgcaa tggggatctg agacatatca tcatttaaag
+      781 gctgtcattt cagaaaagaa tggtggtttg ggatgtaatg ttggtgaaga tggtggtctt
+      841 gctccagata tctcgagcct caaggaaggt ttggagcttg taaaagaagc tatcaaccga
+      901 acagggtaca atgataagat aaagatagcc attgatattg ccgccactaa tttttgttta
+      961 ggtaccaagt atgatttaga tatcaagtct ccaaataaat ctgggcaaaa tttcaagtca
+     1021 gcggaagata tgatagatat gtacaaagaa atttgtaatg attatccaat tgtgtctata
+     1081 gaagaccctt ttgacaagga ggactgggaa cacaccaagt atttttcgag tcttggaata
+     1141 tgtcaggtgg taggtgacga tttgttgatg tcaaattcaa aacgagttga gcgtgccata
+     1201 caggagtctt cttgtaatgc tcttcttctc aaggtgaatc agattggtac agtaacagaa
+     1261 gccattgaag tagtgaaaat ggcaagggat gcccagtggg gtgtggtgac atctcataga
+     1321 tgtggagaaa cagaggactc tttcatctct gacttatctg tgggtctcgc aacaggtgtg
+     1381 attaaagctg gtgctccttg cagaggagaa cgtactatga agtataacca gttgctacgg
+     1441 atagaggaag agcttgggga tcaagcagtg tatgctggag aagattggaa gctatctctc
+     1501 taaacaaaat gcacatgtga tattaattgt tacacttctc gtcttacttc attgttctcg
+     1561 agtctatttc tcacgcagac aaattcttgt gtcttgaaag ttcaaatttt ttgttgtttt
+     1621 tgccaaattt aagaacaaac agaagtaaag agtgttaaac atgtttttta caaattgtaa
+     1681 aagcatccaa aaacatcaat caacactagt tcgtgaggtt gcagaagcca caaacaaacg
+     1741 tgttttaggg cttcgtgtct tctttttctt caatgtttaa caaacagatg aaaagtgtta
+     1801 taaacaagct tttccaaatt tcagaaagac aaacatcata cgattatcta gtttagcatt
+     1861 gccttaagat agtaaatcca gaaaacaact gaatcaagac agacatttca acaaaggact
+     1921 cgaacgaaga ctatcaaaca ttcatcatta ttctggtttg gtgtcttctt cttcttcaat
+     1981 cttaggcgcc aga
+//
+
+LOCUS       NM_106062               1971 bp    mRNA    linear   PLN 14-FEB-2019
+DEFINITION  Arabidopsis thaliana enolase 1 (ENO1), mRNA.
+ACCESSION   NM_106062
+VERSION     NM_106062.4
+DBLINK      BioProject: PRJNA116
+            BioSample: SAMN03081427
+KEYWORDS    RefSeq.
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (bases 1 to 1971)
+  AUTHORS   Theologis,A., Ecker,J.R., Palm,C.J., Federspiel,N.A., Kaul,S.,
+            White,O., Alonso,J., Altafi,H., Araujo,R., Bowman,C.L.,
+            Brooks,S.Y., Buehler,E., Chan,A., Chao,Q., Chen,H., Cheuk,R.F.,
+            Chin,C.W., Chung,M.K., Conn,L., Conway,A.B., Conway,A.R.,
+            Creasy,T.H., Dewar,K., Dunn,P., Etgu,P., Feldblyum,T.V., Feng,J.,
+            Fong,B., Fujii,C.Y., Gill,J.E., Goldsmith,A.D., Haas,B.,
+            Hansen,N.F., Hughes,B., Huizar,L., Hunter,J.L., Jenkins,J.,
+            Johnson-Hopson,C., Khan,S., Khaykin,E., Kim,C.J., Koo,H.L.,
+            Kremenetskaia,I., Kurtz,D.B., Kwan,A., Lam,B., Langin-Hooper,S.,
+            Lee,A., Lee,J.M., Lenz,C.A., Li,J.H., Li,Y., Lin,X., Liu,S.X.,
+            Liu,Z.A., Luros,J.S., Maiti,R., Marziali,A., Militscher,J.,
+            Miranda,M., Nguyen,M., Nierman,W.C., Osborne,B.I., Pai,G.,
+            Peterson,J., Pham,P.K., Rizzo,M., Rooney,T., Rowley,D., Sakano,H.,
+            Salzberg,S.L., Schwartz,J.R., Shinn,P., Southwick,A.M., Sun,H.,
+            Tallon,L.J., Tambunga,G., Toriumi,M.J., Town,C.D., Utterback,T.,
+            Van Aken,S., Vaysberg,M., Vysotskaia,V.S., Walker,M., Wu,D., Yu,G.,
+            Fraser,C.M., Venter,J.C. and Davis,R.W.
+  TITLE     Sequence and analysis of chromosome 1 of the plant Arabidopsis
+            thaliana
+  JOURNAL   Nature 408 (6814), 816-820 (2000)
+   PUBMED   11130712
+REFERENCE   2  (bases 1 to 1971)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2019) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1971)
+  AUTHORS   Krishnakumar,V., Cheng,C.-Y., Chan,A.P., Schobel,S., Kim,M.,
+            Ferlanti,E.S., Belyaeva,I., Rosen,B.D., Micklem,G., Miller,J.R.,
+            Vaughn,M. and Town,C.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUL-2017) Plant Genomics, J. Craig Venter Institute,
+            9704 Medical Center Dr, Rockville, MD 20850, USA
+  REMARK    Protein update by submitter
+REFERENCE   4  (bases 1 to 1971)
+  AUTHORS   Krishnakumar,V., Cheng,C.-Y., Chan,A.P., Schobel,S., Kim,M.,
+            Ferlanti,E.S., Belyaeva,I., Rosen,B.D., Micklem,G., Miller,J.R.,
+            Vaughn,M. and Town,C.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2016) Plant Genomics, J. Craig Venter Institute,
+            9704 Medical Center Dr, Rockville, MD 20850, USA
+  REMARK    Protein update by submitter
+REFERENCE   5  (bases 1 to 1971)
+  AUTHORS   Swarbreck,D., Lamesch,P., Wilks,C. and Huala,E.
+  CONSRTM   TAIR
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-2011) Department of Plant Biology, Carnegie
+            Institution, 260 Panama Street, Stanford, CA, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by TAIR and Araport.
+            This record is derived from an annotated genomic sequence
+            (NC_003070).
+            On Sep 12, 2016 this sequence version replaced NM_106062.3.
+FEATURES             Location/Qualifiers
+     source          1..1971
+                     /organism="Arabidopsis thaliana"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3702"
+                     /chromosome="1"
+                     /ecotype="Columbia"
+     gene            1..1971
+                     /gene="ENO1"
+                     /locus_tag="AT1G74030"
+                     /gene_synonym="enolase 1; F2P9.10; F2P9_10"
+                     /note="Encodes the plastid-localized phosphoenolpyruvate
+                     enolase. Mutant plants have abnormal trichomes."
+                     /db_xref="Araport:AT1G74030"
+                     /db_xref="GeneID:843741"
+                     /db_xref="TAIR:AT1G74030"
+     CDS             232..1665
+                     /gene="ENO1"
+                     /locus_tag="AT1G74030"
+                     /gene_synonym="enolase 1; F2P9.10; F2P9_10"
+                     /inference="Similar to RNA sequence,
+                     EST:INSD:EH869673.1,INSD:BP576743.1,INSD:AV545177.1,
+                     INSD:BP567198.1,INSD:CK120808.1,INSD:EL198758.1,
+                     INSD:ES186370.1,INSD:AV559189.1,INSD:ES031147.1,
+                     INSD:AV810108.1,INSD:AV560626.1,INSD:BP597216.1,
+                     INSD:EL248711.1,INSD:EH954013.1,INSD:EL180321.1,
+                     INSD:ES106729.1,INSD:AV553863.1,INSD:BP806945.1,
+                     INSD:EL143650.1,INSD:BP592622.1,INSD:BP649705.1,
+                     INSD:BP589330.1,INSD:AV821476.1,INSD:CK121929.1,
+                     INSD:EL211527.1,INSD:BP575579.1,INSD:EL151510.1,
+                     INSD:EL997453.1,INSD:AV781938.1,INSD:BP574028.1,
+                     INSD:BP639145.1,INSD:EL136378.1,INSD:Z26385.1,
+                     INSD:R29951.1,INSD:Z26459.1,INSD:AV562666.1,
+                     INSD:ES032002.1,INSD:AW004136.1,INSD:EH939455.1,
+                     INSD:BP594126.1,INSD:EL032685.1,INSD:ES102969.1,
+                     INSD:BP594943.1"
+                     /inference="similar to RNA sequence,
+                     mRNA:INSD:AY062968.1,INSD:AY034978.1"
+                     /note="enolase 1 (ENO1); FUNCTIONS IN: phosphopyruvate
+                     hydratase activity; INVOLVED IN: trichome morphogenesis;
+                     LOCATED IN: chloroplast; EXPRESSED IN: 26 plant
+                     structures; EXPRESSED DURING: 13 growth stages; CONTAINS
+                     InterPro DOMAIN/s: Enolase (InterPro:IPR000941), Enolase,
+                     C-terminal (InterPro:IPR020810), Enolase, conserved site
+                     (InterPro:IPR020809), Enolase, N-terminal
+                     (InterPro:IPR020811); BEST Arabidopsis thaliana protein
+                     match is: Enolase (TAIR:AT2G36530.1); Has 13710 Blast hits
+                     to 13689 proteins in 3755 species: Archae - 283; Bacteria
+                     - 5826; Metazoa - 2303; Fungi - 284; Plants - 460; Viruses
+                     - 0; Other Eukaryotes - 4554 (source: NCBI BLink)."
+                     /codon_start=1
+                     /product="enolase 1"
+                     /protein_id="NP_177543.1"
+                     /db_xref="Araport:AT1G74030"
+                     /db_xref="GeneID:843741"
+                     /db_xref="TAIR:AT1G74030"
+                     /translation="MALTTKPHHLQRSFLSPSRVSGERYLESAPSCLRFRRSGVQCSV
+                     VAKECRVKGVKARQIIDSRGNPTVEVDLITDDLYRSAVPSGASTGIYEALELRDGDKS
+                     VYGGKGVLQAIKNINELVAPKLIGVDVRNQADVDALMLELDGTPNKSKLGANAILGVS
+                     LSVCRAGAGAKGVPLYKHIQETSGTKELVMPVPAFNVINGGSHAGNSLAMQEFMILPV
+                     GATSFSEAFQMGSEVYHTLKGIIKTKYGQDACNVGDEGGFAPNVQDNREGLVLLIDAI
+                     EKAGYTGKIKIGMDVAASEFFMKDGRYDLNFKKQPNDGAHVLSAESLADLYREFIKDF
+                     PIVSIEDPFDQDDWSSWASLQSSVDIQLVGDDLLVTNPKRIAEAIKKQSCNALLLKVN
+                     QIGTVTESIQAALDSKAAGWGVMVSHRSGETEDNFIADLSVGLASGQIKTGAPCRSER
+                     LSKYNQLLRIEEELGNVRYAGEAFRSP"
+ORIGIN      
+        1 tgttccgaac cgaaccgaac caaaccaaaa ccagaaactt ctctttaaca gtcaaccaat
+       61 tggaaaatga accggtttaa gtatggttct tttgactcct tagttttcat cgcctccgcc
+      121 tgcaccaacc tccaaaagga cgtttttcaa attatataac atcattttat tctccgcttc
+      181 tccattttag tcaaaagaat cacagagagt atttttttta ggtatcgtgt aatggctttg
+      241 actacaaaac ctcaccatct tcagagatct ttcctctctc cgtcgcgtgt ttccggcgaa
+      301 cgatatttgg aatctgcgcc atcatgtctg agattccgtc gcagcggtgt ccaatgctcg
+      361 gtggtggcta aggagtgcag agtgaaagga gtgaaagcga gacagattat tgatagtaga
+      421 gggaatccga cggtggaggt tgatctgatt accgatgatc tgtatcgttc ggctgttcca
+      481 agtggtgcat ctaccgggat ctacgaagcg cttgagctta gagatggaga caagagcgtc
+      541 tatggtggta aaggtgtatt acaggctatt aaaaacatca atgaacttgt ggctccaaaa
+      601 ctcattggag ttgacgttag gaaccaagct gatgtcgatg ctcttatgct ggaactggat
+      661 gggaccccaa acaagtcgaa actcggggct aatgcgatat taggagtgtc attgagcgtt
+      721 tgcagggcag gtgctggagc taaaggagtg cctttgtaca aacacatcca ggaaacatca
+      781 ggaacaaagg agcttgtcat gccagttcct gcattcaatg tgatcaatgg aggcagtcat
+      841 gctgggaata gtttggctat gcaagagttt atgatactac ctgtaggagc tacctcattc
+      901 tcggaggcct tccagatggg aagtgaagtt tatcatacat tgaaggggat aatcaaaact
+      961 aagtatggtc aagatgcttg taatgtcgga gatgaaggag ggtttgcgcc gaatgttcaa
+     1021 gataacagag agggactagt tctgctcata gatgcaattg aaaaggccgg ttacactgga
+     1081 aagatcaaaa taggaatgga tgttgctgca tcagaatttt tcatgaaaga tggtagatac
+     1141 gatttgaact tcaagaaaca gccaaacgat ggagctcacg tactgtcagc cgagagtctt
+     1201 gctgacctct acagagaatt catcaaggat ttcccaattg tctctatcga agatcctttt
+     1261 gaccaggatg attggagctc atgggcttca ttgcaatcct ctgtggatat ccaactcgtg
+     1321 ggagatgact tgttagtcac taacccgaag aggatagctg aagctattaa gaaacagtct
+     1381 tgcaatgctc tactcttgaa ggttaaccag attgggacag tcactgagtc aattcaagca
+     1441 gcacttgact caaaagctgc aggctggggt gtgatggtta gtcacaggag tggcgagaca
+     1501 gaggataact tcatcgcaga tctctctgtt ggtttagcaa gcggacagat caaaactggt
+     1561 gctccatgcc gaagtgaacg attgtcaaaa tacaaccagc ttctccgtat cgaagaggaa
+     1621 ctcggcaatg tgcgctacgc cggtgaagct ttccgatcac catgagaaat tcgagaaagg
+     1681 cactcattgg cggcttttgc ttacagaatt aggtgaaacc aaatgaggtc ctcctagtat
+     1741 cagctccgtt gtagctgtct ctgaaaagta tcagattttc tacaaaaaca aataaaagaa
+     1801 cagctttttc actgagtctt ctgttgtaat gtcattgata ccgatataaa catggatcga
+     1861 ccaaagcgtt tttcagatta atcagatgct cagagatatg tcgatttgat tgttccaatg
+     1921 attaagaaga gtgtttcatt cgtgttactt aatattagaa aacttgttca c
+//
+
+LOCUS       KJ649284                1929 bp    mRNA    linear   INV 30-APR-2017
+DEFINITION  Fenneropenaeus chinensis phosphopyruvate hydratase mRNA, complete
+            cds.
+ACCESSION   KJ649284
+VERSION     KJ649284.1
+KEYWORDS    .
+SOURCE      Penaeus chinensis
+  ORGANISM  Penaeus chinensis
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea;
+            Multicrustacea; Malacostraca; Eumalacostraca; Eucarida; Decapoda;
+            Dendrobranchiata; Penaeoidea; Penaeidae; Penaeus.
+REFERENCE   1  (bases 1 to 1929)
+  AUTHORS   Kong,J., Li,X., Meng,X., Luo,K., Luan,S., Cao,B. and Liu,N.
+  TITLE     Molecular cloning and characterization of a phosphopyruvate
+            hydratase gene from the Chinese shrimp Fenneropenaeus chinensis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1929)
+  AUTHORS   Kong,J., Li,X., Meng,X., Luo,K., Luan,S., Cao,B. and Liu,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-APR-2014) Key Laboratory for Sustainable Utilization
+            of Marine Fisheries Resources of Chinese Department of Agriculture,
+            Yellow Sea Fisheries Research Institute, Chinese Academy of Fishery
+            Sciences, 106 Nanjing Road, Qingdao, Shandong 266071, China
+FEATURES             Location/Qualifiers
+     source          1..1929
+                     /organism="Penaeus chinensis"
+                     /mol_type="mRNA"
+                     /isolate="FCPH1441"
+                     /db_xref="taxon:139456"
+     CDS             61..1365
+                     /codon_start=1
+                     /product="phosphopyruvate hydratase"
+                     /protein_id="AIG59666.1"
+                     /translation="MSITKVFARTIFDSRGNPTVEVDLYTHKGLFRAAVPSGASTGVH
+                     EALEMRDGDKSKYHGKSVFKAVNNVNTIIAPEIIKSGLKVTQQKDCDDFMCKLDGTEN
+                     KSRLGANAILGVSLAICKAGAAELGIPLYRHIANLANYSDVILPVPAFNVINGGSHAG
+                     NKLAMQEFMILPTGANSFTEAMRMGSEVYHHLKAVIKGRFGLDATAVGDEGGFAPNIL
+                     NNKDALTLIQESIEKAGYTGKIEIGMDVAASEFYKGENIYDLDFKTANNDGSQKITGD
+                     QLRDLYMEFCNEFPIVSIEDPFDQDDWENWTKMTSGTSIQIVGDDLTVTNPKRIATAV
+                     EKKACNCLLLKVNQIGSVTESIDAHLLAKKNGWGTMVSHRSGETEDCFIADLVVGLCT
+                     GQIKTGAPCRSERLAKYNQILRIEEELGANAKFAGKKFRQPC"
+ORIGIN      
+        1 ggagtacagg gggccagtcg gagacgtgaa acttgccgat tccaccaagc agccaccaag
+       61 atgtctatca ccaaggtttt tgcccgtacc attttcgact cccgtggtaa ccccacagtg
+      121 gaggttgacc tctacaccca caagggcctg ttccgcgctg ctgttccctc tggtgcatcc
+      181 acaggtgtcc atgaggcact ggagatgcgt gatggagaca agtcaaagta ccatggcaag
+      241 tctgtcttta aggccgtcaa caacgtgaac accatcattg ctcctgaaat tattaagagt
+      301 ggactgaagg taactcagca gaaggactgt gatgatttca tgtgcaagtt ggacggcact
+      361 gaaaacaaga gccgccttgg tgccaatgcc atcttgggtg tctccctggc catttgcaag
+      421 gctggtgctg ctgagcttgg cattcccctc tacagacaca ttgctaacct tgccaactac
+      481 tccgatgtga tcctgcctgt gccagccttc aatgtcatca atggtggctc tcacgctggc
+      541 aacaagctgg ccatgcagga gttcatgatc ctgcccactg gtgccaacag cttcactgag
+      601 gccatgcgca tgggctctga ggtgtaccat cacctcaagg ctgtgatcaa gggccgcttt
+      661 ggtctggatg ccactgctgt tggtgatgag ggtggctttg ctcccaacat cctgaataac
+      721 aaggatgctc tcaccctgat tcaggaatcc attgagaagg ctggctacac tggcaagatt
+      781 gagattggca tggatgtggc tgcttcagag ttctacaagg gcgagaacat ttacgacttg
+      841 gatttcaaga ctgccaacaa cgatggctct cagaagatca ctggggacca acttagagac
+      901 ttgtatatgg aattctgcaa tgagttcccc attgtttcta ttgaagatcc cttcgaccag
+      961 gatgactggg agaactggac caagatgacc tctggcacca gcatccagat tgttggtgat
+     1021 gacttgactg tgaccaaccc caagcgcatt gctacagctg ttgaaaagaa ggcttgcaac
+     1081 tgcctcctcc tgaaggtcaa ccagattggc agtgtgacag agtccattga tgctcacctt
+     1141 ctggccaaga agaatggctg gggcactatg gtttcccata ggtctggtga gactgaggac
+     1201 tgcttcattg ctgatcttgt tgttggtctg tgcactggcc agattaagac tggtgctcct
+     1261 tgccgctctg agcgcttggc caagtacaac cagatccttc gcattgagga ggagctcgga
+     1321 gccaatgcca agtttgccgg caagaagttc aggcaaccct gctaagttga atcgtgaaat
+     1381 tccgaatgct gaaaggcagt ttgcatgtta ctgcttgatg gatacaagca atatgtctct
+     1441 gcatttttat tttcatggaa cgcctcttat ctcctgtggg ggttataggt gtctaggttg
+     1501 caaaaacctt gcatctgaaa agtaatattt tttttactac attcatttta attaatgtta
+     1561 tcatttattt ttttcctgca aagagtgaat aactatggtc ttcttattga aaatatgctc
+     1621 ccaaaatttt gccagcagaa tatatagaaa tattccattt aagatgaagc tttaagttag
+     1681 gggtatattt tgctttggct gatactaaag cattgatcca acaaaattct gtgtttttgt
+     1741 ctgttaaaaa tatattcgtc tcgactagtc atgtcctcct ctcgtcctag gtcttagaga
+     1801 tctgaatgtt gtaatgttcc caagtgatat ccagctgaaa gaaatgttct gtatgatggt
+     1861 tcattgtgta tataaggaac attaaaaaca aaagccctaa aaaaaaaaaa aaaaaaaaaa
+     1921 aaaaaaaaa
+//
+
